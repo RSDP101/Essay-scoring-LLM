@@ -27,7 +27,7 @@ def convert_to_csv():
                 essay = read_essay(essay_file_path)
                 
                 # Write the essay and score in the same row
-                csvwriter.writerow([essay, score])
+                csvwriter.writerow([essay, int(score)])
 
 # Call the function to convert to CSV
 convert_to_csv()
