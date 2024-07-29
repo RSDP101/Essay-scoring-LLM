@@ -1,1 +1,1 @@
-essays_all/essay030.ann: 2.74
+essays_all/essay030.ann: 3.00

@@ -1,1 +1,1 @@
-essays_all/essay101.ann: 7.50
+essays_all/essay101.ann: 10.00

@@ -16,7 +16,7 @@ def convert_to_csv():
     with open(output_file_path, 'w', newline='', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile)
         # Write the header row
-        csvwriter.writerow(['essay', 'score'])
+        csvwriter.writerow(['text', 'label'])
         
         for i in range(103):
             score_file_path = f'essays_all/score{i:03d}.txt'

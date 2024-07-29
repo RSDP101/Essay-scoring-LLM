@@ -1,1 +1,1 @@
-essays_all/essay070.ann: 3.38
+essays_all/essay070.ann: 4.00

@@ -1,4 +1,5 @@
 import os
+import math
 
 def extract_evidence(file_path):
     total_score = 0
@@ -55,6 +56,8 @@ def calculate_and_write_scores():
                 mean_persuasiveness = extract_persuasiveness(file_path)
                 mean_evidence = extract_evidence(file_path)
                 average_score = (mean_persuasiveness + mean_evidence) / 2
+                average_score = min (10, math.floor((average_score*10+0.2)/7))
+
                 output_file.write(f'{file_path}: {average_score:.2f}\n')
 
 # Call the function to calculate and write the scores

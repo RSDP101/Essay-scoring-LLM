@@ -1,1 +1,1 @@
-essays_all/essay059.ann: 4.53
+essays_all/essay059.ann: 6.00
