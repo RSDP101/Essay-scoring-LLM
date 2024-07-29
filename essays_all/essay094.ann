@@ -1,0 +1,167 @@
+T1	MajorClaim 32 159	It is a completely right and extremely wise policy to focus on health education and preventative measures rather than treatment
+T2	MajorClaim 1801 1893	we should give more priority to health education and preventative measures than to treatment
+T3	Claim 1904 2017	reasonable attentions should be paid to treatment so that our citizens are always looked after with best services
+A1	Stance T3 Against
+T4	Claim 237 311	Health education causes long-term positive effects on our next generations
+A2	Stance T4 For
+T5	Premise 1091 1167	Preventative measures will help improve general health state of all citizens
+T6	Premise 327 499	thank to a full health education from their childhoods, children will have good habits of taking care of their own health and these habits may be kept in their adolescences
+T7	Premise 514 614	if a child is educated to have a hygienic lifestyle at a very young age, he also keeps it when older
+T8	Premise 626 751	health education will prepare for people especially children necessary knowledge to protect themselves from risks of diseases
+T9	Claim 753 895	Instead of afraid or panic, they may be calmer if unfortunately committing some normal diseases such as allergy or illness in seasonal changes
+T10	Premise 897 995	Many diseases which may be cured easily can turn to serious ones if we do not have right treatment
+T11	Claim 997 1089	Health education will help people to have right choices of treatment to recover more quickly
+R2	supports Arg1:T6 Arg2:T4	
+R3	supports Arg1:T8 Arg2:T11	
+R4	supports Arg1:T9 Arg2:T11	
+R5	supports Arg1:T10 Arg2:T11	
+R6	supports Arg1:T11 Arg2:T4	
+T12	Premise 1182 1326	vaccines will guarantee that pregnant women and their babies are protected from serious infectious diseases such as flu, smallpox, rubella so on
+T13	Claim 1328 1452	When huge injection campaigns are organized throughout our country, the community's health state will be improved remarkably
+T14	Claim 1457 1520	human resources play a key role in the development of a country
+T15	Claim 1522 1601	investing money to enhance the general health state is a totally right decision
+T16	Premise 1624 1690	the cost of treatment is often much higher than that of prevention
+T17	Claim 1692 1762	the government can save a lot of money for our country's health budget
+R7	supports Arg1:T16 Arg2:T17	
+R8	supports Arg1:T14 Arg2:T15	
+R1	supports Arg1:T7 Arg2:T4	
+A4	Stance T15 For
+R9	supports Arg1:T12 Arg2:T5	
+R10	supports Arg1:T13 Arg2:T5	
+R11	supports Arg1:T5 Arg2:T15	
+R12	supports Arg1:T17 Arg2:T15	
+A3	Eloquence T6 2
+A5	Relevance T6 5
+A6	Persuasiveness T6 4
+A7	PremiseType T6 common_knowledge
+A8	Specificity T6 3
+A9	Eloquence T7 3
+A10	PremiseType T7 common_knowledge
+A11	Specificity T7 3
+A12	Relevance T7 6
+A13	Persuasiveness T7 4
+A14	Eloquence T8 2
+A15	PremiseType T8 common_knowledge
+A16	Specificity T8 3
+A17	Eloquence T11 1
+A18	Relevance T11 2
+A19	Persuasiveness T11 2
+A21	Specificity T11 3
+A22	Eloquence T9 1
+A23	Relevance T9 1
+A24	Specificity T9 2
+A25	Eloquence T10 3
+A26	Relevance T10 1
+A27	Specificity T10 3
+A28	Persuasiveness T10 3
+A29	PremiseType T10 common_knowledge
+A30	Relevance T8 2
+A31	Persuasiveness T8 2
+A32	Persuasiveness T9 2
+A34	Eloquence T4 3
+A35	Relevance T4 6
+A36	ClaimType T4 Fact
+A37	Specificity T4 3
+A38	Logos T4 yes
+A39	Persuasiveness T4 2
+A40	Evidence T4 2
+A41	Ethos T4 no
+A42	Pathos T4 no
+A43	Eloquence T12 3
+A44	PremiseType T12 common_knowledge
+A45	Specificity T12 5
+A46	Relevance T12 6
+A47	Persuasiveness T12 5
+A48	Eloquence T13 3
+A49	Relevance T13 6
+A51	Specificity T13 2
+A52	Persuasiveness T13 2
+A53	Eloquence T5 3
+A54	Relevance T5 6
+A55	Persuasiveness T5 5
+A56	PremiseType T5 common_knowledge
+A57	Specificity T5 2
+A58	Eloquence T14 3
+A59	Relevance T14 2
+A60	Persuasiveness T14 2
+A62	Specificity T14 1
+A63	Eloquence T16 3
+A64	Specificity T16 3
+A65	Relevance T16 5
+A66	Persuasiveness T16 4
+A67	PremiseType T16 common_knowledge
+A68	Eloquence T17 3
+A71	Specificity T17 2
+A72	Relevance T17 2
+A73	Logos T15 yes
+A74	ClaimType T15 Policy
+A75	Evidence T15 4
+A76	Eloquence T15 3
+A77	Specificity T15 2
+A78	Relevance T15 2
+A79	Ethos T15 no
+A80	Pathos T15 no
+A81	Logos T3 no
+A82	Persuasiveness T3 2
+A83	ClaimType T3 Policy
+A84	Evidence T3 1
+A85	Eloquence T3 2
+A86	Specificity T3 4
+A87	Relevance T3 2
+A88	Ethos T3 no
+A89	Pathos T3 no
+A90	Logos T1 yes
+A91	Persuasiveness T1 2
+A92	Evidence T1 2
+A93	Eloquence T1 3
+A94	Specificity T1 4
+A95	Ethos T1 no
+A96	Pathos T1 no
+A97	Logos T2 yes
+A98	Persuasiveness T2 2
+A99	Evidence T2 2
+A100	Eloquence T2 3
+A101	Specificity T2 4
+A102	Ethos T2 no
+A103	Pathos T2 no
+A104	Persuasiveness T15 3
+A105	Strength T6 4
+A106	Evidence T6 1
+A107	Strength T7 4
+A108	Evidence T7 1
+A109	Strength T8 2
+A110	Evidence T8 1
+A111	Strength T10 3
+A112	Evidence T10 1
+A33	Logos T9 no
+A113	Evidence T9 1
+A114	Ethos T9 no
+A115	Pathos T9 no
+A116	ClaimType T9 Fact
+A20	Logos T11 yes
+A117	Evidence T11 3
+A118	Ethos T11 no
+A119	Pathos T11 no
+A120	Strength T12 5
+A121	Evidence T12 1
+A61	Logos T14 no
+A122	ClaimType T14 Value
+A123	Evidence T14 1
+A124	Ethos T14 no
+A125	Pathos T14 no
+A126	Strength T16 4
+A127	Evidence T16 1
+A69	Persuasiveness T17 4
+A70	Logos T17 yes
+A128	ClaimType T17 Fact
+A129	Evidence T17 4
+A130	Ethos T17 no
+A131	Pathos T17 no
+A50	Logos T13 no
+A132	ClaimType T13 Fact
+A133	Evidence T13 1
+A134	Ethos T13 no
+A135	Pathos T13 no
+A136	Strength T5 3
+A137	Evidence T5 5
+A138	ClaimType T11 Fact

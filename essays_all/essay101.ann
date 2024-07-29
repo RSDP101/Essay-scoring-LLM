@@ -1,0 +1,147 @@
+T1	MajorClaim 299 365	the right age for a person to retire should be around 60 years old
+T2	MajorClaim 379 478	strongly agree that age should be set as a criterion for people to retire at the aforementioned age
+T3	Premise 550 659	if senior workers dominate the working sector, there will be lesser job opportunities for the fresh graduates
+T4	Claim 674 773	most of them will be forced to take up careers which are poles apart from what they had studied for
+R1	supports Arg1:T3 Arg2:T4	
+T5	Premise 803 1060	a medical graduate might find it very disheartened when he had to spend around five precious years studying medicine and at the end of the day, he will have to take up another profession rather than doctor due to the insufficient job opportunities available
+T6	Premise 1078 1247	due to the lack of genuine passion on the work which was not of their option, there is a greater possibility for their performance standard to dwindle at their workplace
+T7	Claim 1803 1892	it would indeed be better if at an older age, opportunities are given to the younger ones
+A2	Stance T7 For
+T8	Premise 1266 1309	not all elderly workers are physically well
+T9	Premise 1311 1485	Beyond that age, a large proportion of them have an elevated chance of contracting a multitude of health problems such as stress related diseases and cardiovascular illnesses
+T10	Premise 1507 1594	the stressful life that an aged teacher goes through will definitely take a toll on him
+T11	Premise 1610 1677	they will not be able to give their best in whatever they are doing
+T12	Premise 1688 1795	the academic institution will have to pay for his medical bills, resulting in more loss for the institution
+R4	supports Arg1:T10 Arg2:T11	
+R7	supports Arg1:T8 Arg2:T7	
+T13	MajorClaim 2370 2434	it is indeed evident that age limit should be set for retirement
+T14	Claim 1906 1988	the expertise of the senior workers who had retired should never be underestimated
+A3	Stance T14 Against
+T15	Premise 1990 2152	Their invaluable experiences and knowledge in their respective fields such as engineering, medicine, and law can certainly be beneficial to the younger generation
+T16	Premise 2161 2353	it is highly recommended that the retiree come over to the companies or hospitals to have regular sessions with the present staffs to bridge the gap between them and to pass on their knowledge
+R9	supports Arg1:T15 Arg2:T16	
+R10	supports Arg1:T16 Arg2:T14	
+A4	Stance T4 For
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T11 Arg2:T7	
+R6	supports Arg1:T9 Arg2:T7	
+R5	supports Arg1:T12 Arg2:T7	
+R8	supports Arg1:T6 Arg2:T4	
+A1	Eloquence T3 5
+A5	Relevance T3 5
+A6	Persuasiveness T3 5
+A7	PremiseType T3 common_knowledge
+A8	Specificity T3 3
+A9	Eloquence T5 5
+A10	Relevance T5 6
+A11	Persuasiveness T5 6
+A12	PremiseType T5 invented_instance
+A13	Specificity T5 5
+A14	Eloquence T6 4
+A15	PremiseType T6 common_knowledge
+A16	Specificity T6 4
+A17	Relevance T6 4
+A18	Persuasiveness T6 4
+A19	Eloquence T4 5
+A20	Relevance T4 4
+A21	Specificity T4 2
+A22	Evidence T4 5
+A23	Logos T4 yes
+A24	ClaimType T4 Fact
+A25	Ethos T4 no
+A26	Pathos T4 yes
+A27	Persuasiveness T4 6
+A28	Eloquence T8 4
+A29	PremiseType T8 common_knowledge
+A30	Specificity T8 3
+A31	Eloquence T12 5
+A32	Relevance T12 5
+A33	Persuasiveness T12 6
+A34	PremiseType T12 invented_instance
+A35	Specificity T12 5
+A36	Eloquence T10 5
+A37	PremiseType T10 invented_instance
+A38	Specificity T10 4
+A39	Eloquence T9 5
+A40	PremiseType T9 statistics
+A41	Specificity T9 4
+A42	Relevance T9 4
+A43	Persuasiveness T9 5
+A44	Relevance T8 3
+A45	Persuasiveness T8 4
+A46	Relevance T7 5
+A47	Eloquence T15 5
+A48	PremiseType T15 common_knowledge
+A49	Specificity T15 4
+A50	Eloquence T11 4
+A51	Relevance T11 4
+A52	PremiseType T11 invented_instance
+A53	Specificity T11 3
+A54	Relevance T10 6
+A55	Persuasiveness T10 5
+A56	Persuasiveness T11 4
+A57	Specificity T7 2
+A58	Evidence T7 5
+A59	Logos T7 yes
+A60	Persuasiveness T7 5
+A61	ClaimType T7 Policy
+A62	Eloquence T7 4
+A63	Ethos T7 no
+A64	Pathos T7 no
+A65	Eloquence T16 5
+A66	Relevance T16 5
+A67	Persuasiveness T16 6
+A68	PremiseType T16 invented_instance
+A69	Specificity T16 5
+A70	Relevance T15 6
+A71	Persuasiveness T15 5
+A72	Relevance T14 5
+A73	Logos T14 yes
+A74	Ethos T14 no
+A75	Pathos T14 no
+A76	Persuasiveness T14 5
+A77	ClaimType T14 Value
+A78	Evidence T14 5
+A79	Eloquence T14 4
+A80	Specificity T14 2
+A81	Logos T13 yes
+A82	Persuasiveness T13 6
+A83	Evidence T13 6
+A84	Eloquence T13 4
+A85	Specificity T13 2
+A86	Ethos T13 no
+A87	Pathos T13 yes
+A88	Logos T2 yes
+A89	Persuasiveness T2 6
+A90	Evidence T2 6
+A91	Eloquence T2 5
+A92	Specificity T2 3
+A93	Ethos T2 no
+A94	Pathos T2 yes
+A95	Logos T1 yes
+A96	Persuasiveness T1 6
+A97	Evidence T1 6
+A98	Eloquence T1 3
+A99	Specificity T1 3
+A100	Ethos T1 no
+A101	Pathos T1 yes
+A102	Strength T3 5
+A103	Evidence T3 1
+A104	Strength T5 6
+A105	Evidence T5 1
+A106	Strength T6 4
+A107	Evidence T6 1
+A108	Strength T10 5
+A109	Evidence T10 1
+A110	Strength T8 4
+A111	Evidence T8 1
+A112	Strength T9 5
+A113	Evidence T9 1
+A114	Strength T12 6
+A115	Evidence T12 1
+A116	Strength T11 3
+A117	Evidence T11 4
+A118	Strength T15 5
+A119	Evidence T15 1
+A120	Strength T16 6
+A121	Evidence T16 5

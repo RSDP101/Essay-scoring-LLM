@@ -1,0 +1,115 @@
+T12	Claim 1123 1232	this will encourage all the parents to think of the way to help their children to achieve more in their lives
+A5	Stance T12 For
+T13	Claim 1236 1301	they need to make some contribution too for their children future
+T14	MajorClaim 1342 1391	government should not pay for the university fees
+T15	Claim 1400 1558	this will make both the parents and students in charge for their future themselves not just depend on the government to do all their responsibilities for them
+R8	supports Arg1:T13 Arg2:T12	
+T1	MajorClaim 148 316	government should provide those education to their people; however, for the more higher education like university, the students or their parents should pay for the fees
+T2	Claim 318 400	Some parents might not have enough money to pay for their children university fees
+A1	Stance T2 Against
+T3	Claim 421 570	I don't think it is also fair for the government as the government has been paying a lot of money for their students' primary and secondary education
+A2	Stance T3 For
+T4	Claim 572 720	It is better for them to use the money to pay for the other students' education so that all people in their country could receive the same education
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 732 898	students that already have a basic knowledge and education can get a part-time job and they can pay for their own studies when their parent could not afford to pay it
+T6	Claim 900 982	They will be more responsible with their studies when they pay the fees themselves
+T7	Claim 1005 1108	the students will become more independent and it will build their characters in the marketplace as well
+A4	Stance T15 For
+A3	Stance T6 For
+R2	supports Arg1:T5 Arg2:T6	
+R3	supports Arg1:T7 Arg2:T6	
+A6	Logos T2 no
+A7	Persuasiveness T2 1
+A8	ClaimType T2 Fact
+A9	Evidence T2 1
+A10	Eloquence T2 3
+A11	Specificity T2 2
+A12	Relevance T2 4
+A13	Ethos T2 no
+A14	Pathos T2 no
+A15	Eloquence T4 3
+A17	Relevance T4 6
+A18	Persuasiveness T4 1
+A19	Specificity T4 3
+A20	ClaimType T3 Policy
+A21	Evidence T3 2
+A22	Logos T3 yes
+A23	Persuasiveness T3 2
+A24	Eloquence T3 3
+A25	Specificity T3 3
+A26	Relevance T3 6
+A27	Ethos T3 no
+A28	Pathos T3 no
+A29	Eloquence T5 3
+A30	Relevance T5 6
+A31	Persuasiveness T5 2
+A33	Specificity T5 4
+A34	Eloquence T7 3
+A35	Relevance T7 6
+A36	Persuasiveness T7 1
+A38	Specificity T7 3
+A39	Eloquence T6 3
+A40	ClaimType T6 Fact
+A41	Evidence T6 2
+A42	Logos T6 yes
+A43	Specificity T6 4
+A44	Relevance T6 6
+A45	Ethos T6 no
+A46	Pathos T6 no
+A47	Persuasiveness T6 2
+A48	Logos T12 yes
+A49	Ethos T12 no
+A50	Pathos T12 yes
+A51	Evidence T12 2
+A52	Eloquence T13 3
+A53	Relevance T13 4
+A54	Persuasiveness T13 1
+A56	Specificity T13 1
+A57	Persuasiveness T12 2
+A58	ClaimType T12 Value
+A59	Eloquence T12 3
+A60	Specificity T12 3
+A61	Relevance T12 3
+A62	Logos T15 no
+A63	Persuasiveness T15 1
+A64	ClaimType T15 Value
+A65	Evidence T15 1
+A66	Eloquence T15 3
+A67	Specificity T15 3
+A68	Relevance T15 4
+A69	Ethos T15 no
+A70	Pathos T15 no
+A71	Logos T14 yes
+A72	Persuasiveness T14 2
+A73	Evidence T14 2
+A74	Eloquence T14 3
+A75	Specificity T14 2
+A76	Ethos T14 no
+A77	Pathos T14 yes
+A78	Eloquence T1 3
+A79	Logos T1 yes
+A80	Ethos T1 no
+A81	Pathos T1 yes
+A82	Specificity T1 3
+A83	Persuasiveness T1 2
+A84	Evidence T1 2
+A16	Logos T4 no
+A85	ClaimType T4 Value
+A86	Evidence T4 1
+A87	Ethos T4 no
+A88	Pathos T4 no
+A32	Logos T5 no
+A89	ClaimType T5 Fact
+A90	Evidence T5 1
+A91	Ethos T5 no
+A92	Pathos T5 no
+A37	Logos T7 no
+A93	ClaimType T7 Fact
+A94	Evidence T7 1
+A95	Ethos T7 no
+A96	Pathos T7 no
+A55	Logos T13 no
+A97	ClaimType T13 Value
+A98	Evidence T13 1
+A99	Ethos T13 no
+A100	Pathos T13 no

@@ -1,0 +1,169 @@
+T1	MajorClaim 359 393	television devastate families ties
+T2	Claim 238 329	most of people do not have a plan for make a limitation or schedule for watching television
+A1	Stance T2 For
+T3	MajorClaim 1692 1790	it is a global problem to solve this problem and it is need global contribution to find a solution
+T4	Claim 1550 1682	killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive
+A2	Stance T4 For
+T5	Claim 395 475	In spite of enjoying watching television shows, it is really time consuming task
+A3	Stance T5 For
+T6	Premise 477 541	Emergence of new television channels or shows are not surprising
+T7	Premise 543 663	We kill time by tracking these channels so at the end of the day we understand it is late for doing any other activities
+T8	Premise 665 714	This is a problem that suffers all of us everyday
+T9	Claim 728 779	there is no time for call to our parents or friends
+R1	supports Arg1:T6 Arg2:T5	
+R2	supports Arg1:T7 Arg2:T5	
+R3	supports Arg1:T8 Arg2:T5	
+R4	supports Arg1:T9 Arg2:T5	
+T10	Claim 797 839	watching television programs makes us lazy
+A4	Stance T10 For
+T11	Premise 841 982	We usually spend our times in front of television for at least three ours a day when we come back home after eight-hour working in the office
+T12	Claim 991 1085	we do not have time to spend for healthy activity such as going to a gym or doing other sports
+T13	Claim 1087 1219	This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable
+R5	supports Arg1:T12 Arg2:T10	
+R6	supports Arg1:T13 Arg2:T10	
+R7	supports Arg1:T11 Arg2:T10	
+T14	Claim 1241 1299	some television programs have a negative effect on viewers
+A5	Stance T14 For
+T15	Premise 1301 1393	Some thriller or action movies advertise negative activities such as doing criminal activity
+T16	Claim 1395 1461	These genre of programs has more negative effects on our teenagers
+T17	Premise 1463 1537	They usually try to mimic what they see on movies in their daily behaviors
+R8	supports Arg1:T15 Arg2:T14	
+R9	supports Arg1:T17 Arg2:T14	
+R10	supports Arg1:T16 Arg2:T14	
+A6	Logos T2 no
+A7	Persuasiveness T2 1
+A8	ClaimType T2 Fact
+A9	Evidence T2 1
+A10	Eloquence T2 1
+A11	Specificity T2 2
+A12	Relevance T2 3
+A13	Ethos T2 no
+A14	Pathos T2 no
+A15	Eloquence T6 3
+A16	Relevance T6 6
+A17	Persuasiveness T6 4
+A18	PremiseType T6 common_knowledge
+A19	Specificity T6 1
+A20	PremiseType T7 warrant
+A21	Eloquence T7 3
+A22	Specificity T7 3
+A23	Eloquence T8 1
+A24	Relevance T8 3
+A25	Persuasiveness T8 2
+A26	PremiseType T8 common_knowledge
+A27	Specificity T8 1
+A28	Eloquence T9 3
+A29	Relevance T9 4
+A30	Persuasiveness T9 3
+A31	Specificity T9 1
+A33	Relevance T7 6
+A34	Persuasiveness T7 4
+A35	Logos T5 yes
+A36	ClaimType T5 Fact
+A37	Eloquence T5 3
+A38	Ethos T5 no
+A39	Pathos T5 no
+A40	Specificity T5 3
+A41	Relevance T5 6
+A42	Persuasiveness T5 4
+A43	Evidence T5 4
+A44	Eloquence T11 3
+A45	Relevance T11 6
+A46	Persuasiveness T11 4
+A47	PremiseType T11 common_knowledge
+A48	Specificity T11 4
+A49	Eloquence T12 3
+A50	Specificity T12 3
+A51	Relevance T12 4
+A54	Persuasiveness T12 1
+A55	Eloquence T13 3
+A56	Specificity T13 4
+A57	Relevance T13 6
+A58	Persuasiveness T13 1
+A59	Logos T10 yes
+A60	Ethos T10 no
+A61	Pathos T10 no
+A62	ClaimType T10 Fact
+A63	Logos T4 no
+A64	Ethos T4 no
+A65	Pathos T4 no
+A66	ClaimType T4 Fact
+A67	Evidence T4 1
+A68	Eloquence T4 4
+A69	Specificity T4 2
+A70	Relevance T4 6
+A71	Persuasiveness T4 2
+A72	Specificity T10 3
+A73	Eloquence T10 3
+A74	Relevance T10 6
+A75	Persuasiveness T10 4
+A76	Evidence T10 4
+A77	Eloquence T15 3
+A78	Relevance T15 6
+A79	Persuasiveness T15 4
+A80	PremiseType T15 common_knowledge
+A81	Specificity T15 3
+A82	Eloquence T16 3
+A83	Relevance T16 6
+A84	Persuasiveness T16 1
+A86	Specificity T16 2
+A87	Eloquence T17 3
+A88	PremiseType T17 warrant
+A89	Relevance T17 6
+A90	Persuasiveness T17 4
+A91	Specificity T17 3
+A92	Specificity T1 2
+A93	Ethos T14 no
+A94	Logos T14 yes
+A95	ClaimType T14 Fact
+A96	Eloquence T14 3
+A97	Pathos T14 no
+A98	Specificity T14 4
+A99	Eloquence T3 1
+A100	Logos T3 yes
+A101	Ethos T3 no
+A102	Pathos T3 no
+A103	Relevance T14 6
+A104	Persuasiveness T14 4
+A105	Evidence T14 4
+A106	Eloquence T1 2
+A107	Logos T1 yes
+A108	Ethos T1 no
+A109	Pathos T1 no
+A110	Evidence T1 2
+A111	Persuasiveness T3 1
+A112	Evidence T3 1
+A113	Specificity T3 2
+A114	Persuasiveness T1 2
+A115	Strength T6 4
+A116	Evidence T6 1
+A117	Strength T7 4
+A118	Evidence T7 1
+A119	Strength T8 2
+A120	Evidence T8 1
+A32	Logos T9 no
+A121	ClaimType T9 Fact
+A122	Evidence T9 1
+A123	Ethos T9 no
+A124	Pathos T9 no
+A125	Strength T11 4
+A126	Evidence T11 1
+A52	Logos T12 no
+A53	ClaimType T12 Fact
+A127	Ethos T12 no
+A128	Pathos T12 no
+A129	Strength T15 4
+A130	Evidence T15 1
+A131	Strength T17 4
+A132	Evidence T17 1
+A85	Logos T13 no
+A133	ClaimType T13 Value
+A134	Evidence T13 1
+A135	Ethos T13 no
+A136	Pathos T13 no
+A137	Logos T16 no
+A138	ClaimType T16 Value
+A139	Evidence T16 1
+A140	Ethos T16 no
+A141	Pathos T16 no
+A142	Evidence T12 1

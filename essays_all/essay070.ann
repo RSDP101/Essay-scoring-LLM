@@ -1,0 +1,127 @@
+T1	MajorClaim 371 441	it is insufficient to increase the petrol price only to solve problems
+T2	MajorClaim 1959 2043	addressing pollution and traffic issues only by increasing oil price is not adequate
+T3	Claim 670 762	whether it can work out for alleviating traffic and pollution pressure ought to be evaluated
+T4	Premise 528 659	price control institution has been used in plenty of social areas, for example, in the farming products and in the real estate area
+T5	Claim 900 952	it seems not easy to increase petrol price instantly
+A2	Stance T5 For
+T6	Premise 777 884	governments have a macro-economic perspective to control price in various areas according to social demands
+T7	Premise 973 1110	pollutions are not just caused by the burning of oil, chemical pollutants, extra lights, also constitute considerable amount of pollution
+T8	Premise 1125 1252	the improvements of work efficiency also attribute to the speed-up of working pace, resulting in traffic jams during rush-hours
+R1	attacks Arg1:T4 Arg2:T5	
+R2	attacks Arg1:T3 Arg2:T4	
+R3	supports Arg1:T6 Arg2:T5	
+R4	supports Arg1:T7 Arg2:T5	
+R5	supports Arg1:T8 Arg2:T5	
+T9	Claim 1277 1371	several other solutions can be introduced to assist in reducing pollution and traffic problems
+A1	Stance T9 For
+T10	Premise 1384 1550	authorities should spare no efforts in improving public transportation facilities, such as constructing more bus lines, in order to reducing the usage of private cars
+T11	Claim 1565 1695	temporarily targets should be set, with regard to the limitations of pollutants in a certain period of time, for example, a season
+T12	Claim 1702 1766	with supervisory institutions built to find and address problems
+T13	Claim 1779 1942	cultivating a sense of environmental protection would also work out, though it might not be into effect immediately, but in the long run, it would be a wise choice
+R6	supports Arg1:T10 Arg2:T9	
+R7	supports Arg1:T11 Arg2:T9	
+R8	supports Arg1:T12 Arg2:T9	
+R9	supports Arg1:T13 Arg2:T9	
+A4	Specificity T13 2
+A5	Specificity T1 3
+A6	Eloquence T4 3
+A7	PremiseType T4 real_example
+A8	Specificity T4 4
+A9	Eloquence T3 3
+A10	Relevance T3 6
+A11	Persuasiveness T3 2
+A13	Specificity T3 2
+A14	Relevance T4 4
+A15	Persuasiveness T4 3
+A16	Eloquence T6 3
+A17	Relevance T6 3
+A18	Persuasiveness T6 2
+A19	PremiseType T6 common_knowledge
+A20	Specificity T6 3
+A21	Eloquence T7 2
+A22	PremiseType T7 common_knowledge
+A23	Specificity T7 4
+A24	Relevance T7 2
+A25	Persuasiveness T7 2
+A26	Eloquence T8 3
+A27	Relevance T8 2
+A28	Persuasiveness T8 2
+A29	PremiseType T8 common_knowledge
+A30	Specificity T8 3
+A31	Logos T5 yes
+A32	Evidence T5 2
+A33	Persuasiveness T5 2
+A34	ClaimType T5 Value
+A35	Eloquence T5 2
+A36	Specificity T5 2
+A37	Relevance T5 3
+A38	Ethos T5 no
+A39	Pathos T5 no
+A40	Eloquence T10 4
+A41	Relevance T10 5
+A42	Persuasiveness T10 4
+A43	PremiseType T10 common_knowledge
+A44	Specificity T10 3
+A45	Eloquence T11 2
+A46	Relevance T11 6
+A47	Persuasiveness T11 2
+A49	Specificity T11 2
+A50	Eloquence T12 1
+A51	Relevance T12 4
+A52	Persuasiveness T12 2
+A53	Specificity T12 2
+A54	Eloquence T13 3
+A55	Relevance T13 5
+A56	Persuasiveness T13 2
+A58	Logos T9 yes
+A59	Persuasiveness T9 3
+A60	ClaimType T9 Fact
+A61	Evidence T9 3
+A62	Eloquence T9 4
+A63	Specificity T9 2
+A64	Relevance T9 6
+A65	Ethos T9 no
+A66	Pathos T9 no
+A67	Logos T2 yes
+A68	Persuasiveness T2 2
+A69	Evidence T2 2
+A70	Eloquence T2 3
+A71	Specificity T2 2
+A72	Ethos T2 no
+A73	Pathos T2 no
+A74	Logos T1 yes
+A75	Persuasiveness T1 2
+A76	Evidence T1 2
+A77	Eloquence T1 3
+A78	Ethos T1 no
+A79	Pathos T1 no
+A80	Strength T6 2
+A81	Evidence T6 1
+A82	Strength T7 2
+A83	Evidence T7 1
+A84	Strength T8 2
+A85	Evidence T8 1
+A48	Logos T11 no
+A86	ClaimType T11 Policy
+A87	Evidence T11 1
+A88	Ethos T11 no
+A89	Pathos T11 no
+A57	Logos T12 no
+A90	ClaimType T12 Policy
+A91	Evidence T12 1
+A92	Ethos T12 no
+A93	Pathos T12 no
+A3	Logos T13 no
+A94	ClaimType T13 Fact
+A95	Evidence T13 1
+A96	Ethos T13 no
+A97	Pathos T13 no
+A98	Strength T10 4
+A99	Evidence T10 1
+A12	Logos T3 no
+A100	ClaimType T3 Policy
+A101	Evidence T3 1
+A102	Ethos T3 no
+A103	Pathos T3 no
+A104	Strength T4 3
+A105	Evidence T4 2

@@ -1,0 +1,114 @@
+T1	Claim 364 405	there are valid arguments to the contrary
+A1	Stance T1 Against
+T2	MajorClaim 428 550	the majority of people in the globe have benefited greatly from these powerful and effective means of modern communication
+T3	MajorClaim 1794 1896	modern communication technologies will benefit more people in the future as the pace of life increases
+T4	Claim 1132 1214	these new forms of communication do bring a great deal of convenience to humankind
+A2	Stance T4 For
+T5	Premise 567 718	mobile phones and other tools of modern communication facilitate not only contact with friends and relatives in faraway places but also global business
+T6	Premise 720 841	With the click of a button, the vast amount of information can be transmitted from America to China in just a few seconds
+T7	Premise 856 966	it is generally felt that the access to these tools of communication is available in every corner of the world
+T8	Premise 968 1105	With a mobile phone or a laptop, a person can talk or send messages online at a bus stop, in a corner shop or anywhere they could imagine
+R1	supports Arg1:T8 Arg2:T4	
+R2	supports Arg1:T7 Arg2:T4	
+R3	supports Arg1:T6 Arg2:T4	
+R4	supports Arg1:T5 Arg2:T4	
+T9	Claim 1658 1755	people who live in poverty are less likely to be benefited from modern communication technologies
+T10	Claim 1281 1331	the more privileged are able to enjoy the benefits
+T11	Premise 1361 1472	the wide spread use of these efficient and effective ways of communication costs a considerable amount of money
+T12	Premise 1474 1642	Anyone who aims to use these innovations have to not only pay for the appliances such as a mobile phone or a computer but also cover up costs for communication services
+R5	supports Arg1:T10 Arg2:T9	
+R6	supports Arg1:T11 Arg2:T9	
+R7	supports Arg1:T12 Arg2:T9	
+A3	Stance T9 Against
+A4	Persuasiveness T5 3
+A5	Strength T5 3
+A6	Evidence T5 1
+A7	Eloquence T5 3
+A8	PremiseType T5 common_knowledge
+A9	Specificity T5 3
+A10	Relevance T5 6
+A11	Eloquence T6 4
+A12	Relevance T6 6
+A13	PremiseType T6 common_knowledge
+A14	Strength T6 4
+A15	Specificity T6 3
+A16	Persuasiveness T6 4
+A17	Evidence T6 1
+A18	Persuasiveness T7 3
+A19	Strength T7 3
+A20	Evidence T7 1
+A21	Eloquence T7 4
+A22	PremiseType T7 common_knowledge
+A23	Specificity T7 3
+A24	Relevance T7 6
+A25	Persuasiveness T8 3
+A26	Strength T8 3
+A27	Evidence T8 1
+A28	Eloquence T8 3
+A29	PremiseType T8 common_knowledge
+A30	Specificity T8 4
+A31	Relevance T8 6
+A32	Logos T4 yes
+A33	Persuasiveness T4 3
+A34	ClaimType T4 Fact
+A35	Evidence T4 3
+A36	Eloquence T4 4
+A37	Specificity T4 2
+A38	Relevance T4 5
+A39	Ethos T4 no
+A40	Pathos T4 no
+A41	Persuasiveness T10 2
+A43	Evidence T10 1
+A44	Eloquence T10 3
+A46	Specificity T10 2
+A47	Relevance T10 4
+A48	Eloquence T11 4
+A49	Specificity T11 3
+A50	Evidence T11 1
+A51	Persuasiveness T11 4
+A52	Strength T11 4
+A53	PremiseType T11 common_knowledge
+A54	Relevance T11 6
+A55	Persuasiveness T12 2
+A56	Strength T12 2
+A57	Evidence T12 1
+A58	Eloquence T12 1
+A59	PremiseType T12 common_knowledge
+A60	Specificity T12 2
+A61	Relevance T12 6
+A62	Eloquence T9 2
+A63	ClaimType T9 Fact
+A64	Specificity T9 3
+A65	Logos T9 yes
+A66	Relevance T9 6
+A67	Persuasiveness T9 3
+A68	Evidence T9 3
+A69	Ethos T9 no
+A70	Pathos T9 no
+A71	Logos T1 no
+A72	Persuasiveness T1 2
+A73	ClaimType T1 Fact
+A74	Evidence T1 1
+A75	Eloquence T1 4
+A76	Specificity T1 2
+A77	Relevance T1 6
+A78	Ethos T1 no
+A79	Pathos T1 no
+A80	Logos T2 yes
+A81	Persuasiveness T2 2
+A82	Evidence T2 2
+A83	Specificity T2 3
+A84	Ethos T2 no
+A85	Pathos T2 no
+A86	Logos T3 yes
+A87	Persuasiveness T3 2
+A88	Evidence T3 2
+A89	Eloquence T3 3
+A90	Specificity T3 3
+A91	Ethos T3 no
+A92	Pathos T3 no
+A93	Eloquence T2 3
+A42	Logos T10 no
+A45	ClaimType T10 Fact
+A94	Ethos T10 no
+A95	Pathos T10 no

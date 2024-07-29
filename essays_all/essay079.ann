@@ -1,0 +1,151 @@
+T1	MajorClaim 380 451	arts are supposed to be included in the government's investment as well
+T4	Claim 465 534	the government should give priority to public services and facilities
+T5	Claim 943 1056	public services and facilities should be given adequate attention by the authorities to maintain social stability
+A3	Stance T5 For
+T6	Premise 552 722	the government plays the role of a leader among citizens, which should discharge the responsibility of making optimal use of the tax money to keep society safe and stable
+T7	Premise 740 930	public services such as education system or medical care can meet people's basic demand of survival, security and knowledge, thus making them feel comfortable, which can lower the crime rate
+R4	supports Arg1:T7 Arg2:T5	
+R5	supports Arg1:T6 Arg2:T5	
+T8	Claim 1087 1145	arts should by no means been disregarded by the government
+A4	Stance T8 For
+T9	Premise 1161 1200	arts can enrich people's cultural lives
+T10	Premise 1202 1302	Currently, people are increasingly occupied with their work and studies due to the stiff competition
+T11	Premise 1318 1429	they require various entertainment such as music, movies or books to them ease their minds and release pressure
+R6	supports Arg1:T10 Arg2:T11	
+T12	Claim 1431 1504	Without arts, people would be at risk of suffering psychological problems
+R7	supports Arg1:T11 Arg2:T8	
+R8	supports Arg1:T9 Arg2:T8	
+R9	supports Arg1:T12 Arg2:T8	
+T2	MajorClaim 2004 2085	public services and facilities are an integral part of the government expenditure
+T3	MajorClaim 2105 2207	the authorities should also respect the value of arts which are individually and socially advantageous
+T13	Claim 1545 1618	funding arts is beneficial to the local cultural and economic development
+A1	Stance T13 For
+T14	Premise 1620 1675	Cultural heritage constitutes an essential part of arts
+T15	Premise 1688 1893	preserving local arts may promote the preservation of the local cultural heritage, which not only helps the local people have a sense of belonging but also contributes to the booming local tourism industry
+T16	Premise 1909 1950	arts serve cultural and economic purposes
+R10	supports Arg1:T14 Arg2:T13	
+R11	supports Arg1:T15 Arg2:T13	
+R1	supports Arg1:T4 Arg2:T5	
+R2	supports Arg1:T16 Arg2:T13	
+A2	Eloquence T4 3
+A5	Relevance T4 6
+A6	Persuasiveness T4 2
+A8	Specificity T4 1
+A9	Eloquence T6 5
+A10	Relevance T6 5
+A11	Persuasiveness T6 4
+A12	PremiseType T6 common_knowledge
+A13	Specificity T6 2
+A14	Eloquence T7 5
+A15	Relevance T7 5
+A16	Persuasiveness T7 5
+A17	PremiseType T7 common_knowledge
+A18	Specificity T7 4
+A19	Logos T5 yes
+A20	Persuasiveness T5 4
+A21	ClaimType T5 Policy
+A22	Evidence T5 4
+A23	Eloquence T5 4
+A24	Specificity T5 3
+A25	Relevance T5 5
+A26	Ethos T5 no
+A27	Pathos T5 no
+A28	Eloquence T8 2
+A29	Eloquence T9 3
+A30	Relevance T9 4
+A31	Persuasiveness T9 2
+A32	PremiseType T9 common_knowledge
+A33	Specificity T9 1
+A34	Eloquence T10 3
+A35	Relevance T10 4
+A36	Persuasiveness T10 2
+A37	PremiseType T10 common_knowledge
+A38	Specificity T10 2
+A39	Eloquence T11 3
+A40	Relevance T11 3
+A41	Persuasiveness T11 3
+A42	PremiseType T11 common_knowledge
+A43	Specificity T11 3
+A44	Eloquence T12 3
+A45	Relevance T12 5
+A46	Persuasiveness T12 2
+A48	Specificity T12 1
+A49	Logos T8 yes
+A50	Persuasiveness T8 2
+A51	ClaimType T8 Policy
+A52	Evidence T8 2
+A53	Specificity T8 1
+A54	Relevance T8 6
+A55	Ethos T8 no
+A56	Pathos T8 no
+A57	Eloquence T14 3
+A58	Relevance T14 2
+A59	PremiseType T14 common_knowledge
+A60	Specificity T14 1
+A61	Persuasiveness T14 2
+A62	Eloquence T16 3
+A63	Relevance T16 5
+A64	Persuasiveness T16 2
+A65	PremiseType T16 common_knowledge
+A66	Specificity T16 1
+A67	Eloquence T15 5
+A68	Relevance T15 6
+A69	Persuasiveness T15 5
+A70	PremiseType T15 common_knowledge
+A71	Specificity T15 3
+A72	Logos T13 yes
+A73	Persuasiveness T13 3
+A74	ClaimType T13 Value
+A75	Evidence T13 3
+A76	Eloquence T13 3
+A77	Specificity T13 4
+A78	Relevance T13 5
+A79	Ethos T13 no
+A80	Pathos T13 no
+A81	Logos T1 yes
+A82	Persuasiveness T1 3
+A83	Evidence T1 3
+A84	Eloquence T1 3
+A85	Specificity T1 2
+A86	Ethos T1 no
+A87	Pathos T1 no
+A88	Logos T2 yes
+A89	Persuasiveness T2 3
+A90	Evidence T2 3
+A91	Eloquence T2 4
+A92	Specificity T2 2
+A93	Ethos T2 no
+A94	Pathos T2 no
+A95	Logos T3 yes
+A96	Persuasiveness T3 3
+A97	Evidence T3 3
+A98	Eloquence T3 4
+A99	Specificity T3 2
+A100	Ethos T3 no
+A101	Pathos T3 no
+A7	Logos T4 no
+A102	ClaimType T4 Policy
+A103	Evidence T4 1
+A104	Ethos T4 no
+A105	Pathos T4 no
+A106	Strength T6 4
+A107	Evidence T6 1
+A108	Strength T7 5
+A109	Evidence T7 1
+A110	Strength T9 2
+A111	Evidence T9 1
+A112	Strength T10 2
+A113	Evidence T10 1
+A114	Strength T11 3
+A115	Evidence T11 2
+A47	Logos T12 no
+A116	ClaimType T12 Fact
+A117	Evidence T12 1
+A118	Ethos T12 no
+A119	Pathos T12 no
+A120	Strength T14 2
+A121	Evidence T14 1
+A122	Strength T15 5
+A123	Evidence T15 1
+A124	Strength T16 2
+A125	Evidence T16 1

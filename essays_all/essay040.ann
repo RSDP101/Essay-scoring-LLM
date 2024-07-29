@@ -1,0 +1,139 @@
+T1	MajorClaim 1977 2064	having a part time job during your student time will offer students many clear benefits
+T2	Claim 2066 2210	By taking on an extra job, students can partly alleviate some their problematic matters such as working experience, confidence and accommodation
+A1	Stance T2 For
+T3	Premise 394 500	It is undoubtedly certain that students can gain their practical experience by getting involved extra jobs
+T4	Claim 856 993	having experienced in working environment during student time offers a distinct advantage when they apply for jobs after their graduation
+A3	Stance T4 For
+T5	Premise 751 844	students who get part time jobs have not only academic knowledge but also hands-on experience
+T6	Claim 622 736	that seems to be more essential the present shortage of sufficiently practical conditions supplied in universities
+R1	supports Arg1:T6 Arg2:T5	
+T7	Premise 502 607	Part-time jobs furnish them with precious chance to practice what they are learning at their universities
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T7 Arg2:T4	
+R4	supports Arg1:T3 Arg2:T4	
+T8	Claim 1005 1098	students who take on a part time job are often more confident and independent than other ones
+A2	Stance T8 For
+T9	Premise 1100 1290	By constant communicating with other colleagues daily in a company environment where their new ideas can be raised without hesitation, then students' confidence could be significantly gained
+T10	Premise 1298 1495	working conditions require students the independency in thinking, working, and solving problems, which is greatly helpful when the characteristic is applied to tackle subjects in their universities
+R5	supports Arg1:T9 Arg2:T8	
+R6	supports Arg1:T10 Arg2:T8	
+T11	Claim 1505 1570	doing extra jobs helps student with money for their accommodation
+A4	Stance T11 For
+T12	Premise 1580 1683	high studying tuition, added with raising accommodation expenses are becoming a huge burden to students
+T13	Claim 1685 1799	With the money they earn from extra jobs, which normally is not much, those difficulties could be partially solved
+R7	supports Arg1:T12 Arg2:T11	
+R8	supports Arg1:T13 Arg2:T11	
+T14	Claim 1811 1940	that helps students from being reliant on their families as well as is a well-prepared condition for their independent later life
+A5	Stance T14 For
+A6	Logos T2 no
+A7	Evidence T2 1
+A8	Eloquence T2 3
+A9	Specificity T2 3
+A10	Ethos T2 no
+A11	Pathos T2 no
+A12	Persuasiveness T2 1
+A13	ClaimType T2 Fact
+A14	Relevance T2 5
+A15	Eloquence T4 2
+A16	Eloquence T3 3
+A17	PremiseType T3 common_knowledge
+A18	Specificity T3 3
+A19	Relevance T3 4
+A20	Persuasiveness T3 3
+A21	Eloquence T7 3
+A22	Relevance T7 5
+A23	Persuasiveness T7 4
+A24	PremiseType T7 common_knowledge
+A25	Specificity T7 3
+A26	Eloquence T6 2
+A27	Specificity T6 2
+A28	Relevance T6 4
+A29	Persuasiveness T6 1
+A31	Eloquence T5 3
+A32	Relevance T5 5
+A33	PremiseType T5 common_knowledge
+A34	Specificity T5 3
+A35	Persuasiveness T5 4
+A36	Persuasiveness T4 3
+A37	Evidence T4 3
+A38	Logos T4 yes
+A39	ClaimType T4 Fact
+A40	Specificity T4 4
+A41	Ethos T4 no
+A42	Pathos T4 no
+A43	Eloquence T1 2
+A44	Eloquence T9 4
+A45	PremiseType T9 invented_instance
+A46	Specificity T9 4
+A47	Relevance T9 6
+A48	Persuasiveness T9 5
+A49	Specificity T10 4
+A50	Relevance T10 6
+A51	Eloquence T10 4
+A52	Persuasiveness T10 5
+A53	PremiseType T10 common_knowledge
+A54	Eloquence T8 3
+A55	Specificity T8 4
+A56	Logos T8 yes
+A57	Persuasiveness T8 4
+A58	ClaimType T8 Fact
+A59	Evidence T8 4
+A60	Relevance T8 6
+A61	Ethos T8 no
+A62	Pathos T8 no
+A63	Eloquence T12 2
+A64	PremiseType T12 common_knowledge
+A65	Relevance T12 6
+A66	Persuasiveness T12 3
+A67	Specificity T12 3
+A68	Eloquence T13 3
+A69	Relevance T13 5
+A70	Persuasiveness T13 1
+A72	Specificity T13 2
+A73	Evidence T11 3
+A74	Logos T14 no
+A75	ClaimType T14 Fact
+A76	Eloquence T14 3
+A77	Specificity T14 3
+A78	Ethos T14 no
+A79	Pathos T14 no
+A80	Persuasiveness T14 1
+A81	Evidence T14 1
+A82	Relevance T14 4
+A83	Logos T11 yes
+A84	ClaimType T11 Fact
+A85	Eloquence T11 3
+A86	Specificity T11 3
+A87	Ethos T11 no
+A88	Pathos T11 no
+A89	Relevance T11 5
+A90	Persuasiveness T11 3
+A91	Logos T1 yes
+A92	Ethos T1 no
+A93	Pathos T1 no
+A94	Persuasiveness T1 3
+A95	Evidence T1 3
+A96	Specificity T1 3
+A97	Relevance T4 4
+A98	Strength T3 3
+A99	Evidence T3 1
+A100	Strength T7 4
+A101	Evidence T7 1
+A30	Logos T6 no
+A102	ClaimType T6 Fact
+A103	Evidence T6 1
+A104	Ethos T6 no
+A105	Pathos T6 no
+A106	Strength T12 3
+A107	Evidence T12 1
+A71	Logos T13 no
+A108	ClaimType T13 Fact
+A109	Evidence T13 1
+A110	Ethos T13 no
+A111	Pathos T13 no
+A112	Strength T9 5
+A113	Evidence T9 1
+A114	Strength T10 5
+A115	Evidence T10 1
+A116	Strength T5 4
+A117	Evidence T5 2

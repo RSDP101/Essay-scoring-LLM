@@ -1,0 +1,134 @@
+T1	MajorClaim 238 357	a universal language playing the dominant role in the international community is of vital significance to global people
+T2	Claim 410 493	a single international language plays a pivotal role in global economic cooperation
+T3	Claim 904 962	a single international language serves an economic purpose
+A2	Stance T3 For
+T4	Premise 495 693	As businessmen from different countries have access to the same language, they can communicate with each other more efficiently and deeply on trade, which can intensify the transnational cooperation
+T5	Premise 708 891	without the availability of the same language, there might be a chance that misunderstanding and conflicts would ensue over business negotiations, impeding collaborations between them
+T6	Claim 970 1053	a universal language is an integral part of cultural communication and interactions
+A3	Stance T6 For
+T7	Premise 1055 1327	If people are equipped with a single international language, they can tell each other smoothly about their countries' specific cultures such as the traditional customs or the modern lifestyles, which enables people to expand their outlooks, viewing the world in new angles
+T8	Premise 1342 1557	when people travel to foreign countries, the local people can introduce the tourist attractions to such people with the command of the universal language, helping foreign visitors have an enjoyable exotic experience
+T9	MajorClaim 2216 2327	a single international language contributes to global community in terms of economic and cultural communication
+T10	Claim 2348 2438	every country should by no means disregard the preservation of their own cultural heritage
+A4	Stance T10 Against
+T11	Claim 1675 1767	a single international language may, to some extent, erode the cultural identity of a nation
+A5	Stance T11 Against
+T12	Premise 1785 1903	people may be impressed by the cultural values brought with the universal language, eroding a sense of national belong
+T13	Premise 1919 1999	some Asians are seeking individualism, previously denied by many Asian countries
+T14	Premise 2022 2181	they have gradually identified with such values expressed in American movies, which are imported by the governments as a result of the proliferation of English
+R1	supports Arg1:T5 Arg2:T3	
+R2	supports Arg1:T4 Arg2:T3	
+R3	supports Arg1:T2 Arg2:T3	
+R4	supports Arg1:T8 Arg2:T7	
+R5	supports Arg1:T7 Arg2:T6	
+R6	supports Arg1:T14 Arg2:T13	
+R7	supports Arg1:T13 Arg2:T12	
+R8	supports Arg1:T12 Arg2:T11	
+A1	Logos T10 no
+A6	Persuasiveness T10 2
+A7	ClaimType T10 Policy
+A8	Evidence T10 1
+A9	Eloquence T10 3
+A11	Relevance T10 4
+A12	Ethos T10 no
+A13	Pathos T10 no
+A14	Eloquence T2 2
+A16	Specificity T2 2
+A17	Relevance T2 6
+A18	Persuasiveness T2 2
+A19	Eloquence T4 4
+A20	Relevance T4 5
+A21	Persuasiveness T4 5
+A22	PremiseType T4 common_knowledge
+A23	Specificity T4 5
+A24	Eloquence T5 5
+A25	Relevance T5 5
+A26	PremiseType T5 common_knowledge
+A27	Specificity T5 5
+A28	Persuasiveness T5 5
+A29	Logos T3 yes
+A30	Persuasiveness T3 5
+A31	ClaimType T3 Value
+A32	Evidence T3 4
+A33	Eloquence T3 4
+A35	Ethos T3 no
+A36	Pathos T3 no
+A37	Eloquence T8 5
+A38	Relevance T8 6
+A39	Persuasiveness T8 6
+A40	PremiseType T8 invented_instance
+A41	Specificity T8 5
+A42	Eloquence T7 5
+A43	Relevance T7 6
+A44	Persuasiveness T7 6
+A45	PremiseType T7 common_knowledge
+A46	Specificity T7 5
+A47	Persuasiveness T6 5
+A48	Relevance T3 6
+A49	ClaimType T6 Value
+A50	Eloquence T6 4
+A52	Relevance T6 6
+A53	Ethos T6 no
+A54	Pathos T6 no
+A55	Eloquence T14 5
+A56	Relevance T14 6
+A57	Persuasiveness T14 6
+A58	PremiseType T14 real_example
+A59	Specificity T14 5
+A60	Eloquence T13 4
+A61	Specificity T13 3
+A62	PremiseType T13 real_example
+A63	Relevance T13 5
+A64	Persuasiveness T13 5
+A65	Eloquence T12 2
+A66	Relevance T12 6
+A67	Persuasiveness T12 4
+A68	PremiseType T12 common_knowledge
+A69	Specificity T12 3
+A70	Logos T11 yes
+A71	ClaimType T11 Fact
+A72	Evidence T11 4
+A73	Eloquence T11 4
+A75	Ethos T11 no
+A76	Pathos T11 yes
+A77	Logos T9 yes
+A78	Persuasiveness T9 6
+A79	Evidence T9 5
+A80	Eloquence T9 4
+A82	Ethos T9 no
+A83	Pathos T9 no
+A84	Logos T1 yes
+A85	Persuasiveness T1 5
+A86	Pathos T1 no
+A87	Ethos T1 no
+A88	Evidence T1 4
+A89	Eloquence T1 4
+A91	Persuasiveness T11 4
+A92	Relevance T11 5
+A10	Specificity T1 2
+A34	Specificity T6 4
+A51	Specificity T3 2
+A74	Specificity T11 2
+A81	Specificity T10 2
+A90	Specificity T9 4
+A93	Logos T6 yes
+A94	Evidence T6 4
+A15	Logos T2 no
+A95	ClaimType T2 Value
+A96	Evidence T2 1
+A97	Ethos T2 no
+A98	Pathos T2 no
+A99	Strength T4 5
+A100	Evidence T4 1
+A101	Strength T5 5
+A102	Evidence T5 1
+A103	Strength T8 6
+A104	Evidence T8 1
+A105	Strength T7 6
+A106	Evidence T7 5
+A107	Strength T14 6
+A108	Evidence T14 1
+A109	Strength T13 5
+A110	Evidence T13 5
+A111	Strength T12 4
+A112	Evidence T12 5

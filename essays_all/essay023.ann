@@ -1,0 +1,138 @@
+T3	MajorClaim 216 302	I do not think these disadvantages will outweigh the advantages brought by cell phones
+T1	MajorClaim 1831 1948	The contribution of the mobile phone to our modern society is prominent and people's dependence on it is irreversible
+T2	Claim 1959 2014	it has a number of problems that should be well handled
+A1	Stance T2 Against
+T4	Claim 410 497	almost everything that changed our lifestyle a lot will also cause some social problems
+A2	Stance T4 Against
+T5	Premise 541 669	Speaking loudly on the phone in public areas, such as schools, libraries and hospitals appears to be very impolite and offensive
+T6	Premise 686 837	some students utilize their cell phones as an effective cheating tools in examinations in which they can send and receive answers by texting each other
+T7	Claim 853 967	it is not impossible to solve these problems, as long as some regulations and rules can be effectively implemented
+R2	supports Arg1:T5 Arg2:T4	
+R4	supports Arg1:T6 Arg2:T4	
+R6	attacks Arg1:T7 Arg2:T4	
+T9	Claim 1002 1047	some harmful effects on our health are lethal
+A4	Stance T9 Against
+T10	Premise 1049 1255	It has been proved that overusing of the electronic devices including mobile phones could lead to higher possibility of suffering hearing loss and even cancers, although the further investigation are needed
+R8	supports Arg1:T10 Arg2:T9	
+T11	Claim 1304 1393	There is panic among people that their conversation can be intercepted by the third party
+A5	Stance T11 Against
+T12	Claim 1395 1431	This possibility exists all the time
+T13	Premise 1437 1540	a more efficient and reliable system can also be invented to guarantee the private information of users
+R9	supports Arg1:T12 Arg2:T11	
+R10	attacks Arg1:T13 Arg2:T11	
+T14	Claim 1552 1638	the mobile phone has become a dispensable multifunctional tools in people's daily life
+A6	Stance T14 For
+T15	Premise 1640 1768	Not only used for communication, but it also functions as an Internet browser, a music player, a personal organizer and so forth
+R11	supports Arg1:T15 Arg2:T14	
+A3	Eloquence T4 2
+A7	ClaimType T4 Value
+A8	Specificity T4 1
+A9	Eloquence T5 3
+A10	PremiseType T5 common_knowledge
+A11	Specificity T5 4
+A12	Relevance T5 3
+A13	Persuasiveness T5 4
+A14	Eloquence T6 3
+A15	Relevance T6 4
+A16	Persuasiveness T6 4
+A17	PremiseType T6 common_knowledge
+A18	Specificity T6 4
+A19	Eloquence T7 3
+A20	Relevance T7 4
+A21	Persuasiveness T7 1
+A23	Specificity T7 3
+A24	Logos T4 yes
+A25	Ethos T4 no
+A26	Pathos T4 no
+A27	Relevance T4 2
+A28	Persuasiveness T4 2
+A29	Evidence T4 2
+A30	Eloquence T10 3
+A31	PremiseType T10 real_example
+A32	Specificity T10 5
+A33	Eloquence T9 2
+A34	Relevance T10 5
+A35	Persuasiveness T10 5
+A36	Logos T9 yes
+A37	ClaimType T9 Fact
+A38	Specificity T9 3
+A39	Ethos T9 no
+A40	Pathos T9 no
+A41	Logos T2 no
+A42	ClaimType T2 Fact
+A43	Evidence T2 1
+A44	Eloquence T2 3
+A45	Specificity T2 2
+A46	Ethos T2 no
+A47	Pathos T2 no
+A48	Evidence T9 2
+A49	Persuasiveness T9 3
+A50	Relevance T9 3
+A51	Eloquence T12 2
+A53	Specificity T12 1
+A54	Relevance T12 4
+A55	Persuasiveness T12 2
+A56	Eloquence T13 3
+A57	PremiseType T13 invented_instance
+A58	Specificity T13 3
+A59	Relevance T13 5
+A60	Persuasiveness T13 4
+A61	Ethos T11 no
+A62	Logos T11 yes
+A63	ClaimType T11 Fact
+A64	Eloquence T11 3
+A65	Pathos T11 no
+A66	Specificity T11 3
+A67	Persuasiveness T11 2
+A68	Evidence T11 2
+A69	Relevance T11 3
+A70	Eloquence T15 3
+A71	Relevance T15 6
+A72	Persuasiveness T15 5
+A73	PremiseType T15 common_knowledge
+A74	Specificity T15 4
+A75	Logos T14 yes
+A76	Evidence T14 2
+A77	Eloquence T14 3
+A78	Ethos T14 no
+A79	Pathos T14 no
+A80	Persuasiveness T14 3
+A81	Specificity T14 4
+A82	Relevance T14 6
+A83	Logos T3 yes
+A84	Ethos T3 no
+A85	Eloquence T3 3
+A86	Pathos T3 no
+A87	Specificity T3 3
+A88	Persuasiveness T3 2
+A89	Evidence T3 2
+A90	Logos T1 yes
+A91	Persuasiveness T1 2
+A92	Evidence T1 2
+A93	Eloquence T1 4
+A94	Specificity T1 3
+A95	Ethos T1 no
+A96	Pathos T1 no
+A97	Persuasiveness T2 1
+A98	Relevance T2 2
+A99	ClaimType T14 Fact
+A100	Strength T15 5
+A101	Evidence T15 1
+A102	Strength T6 4
+A103	Evidence T6 1
+A104	Strength T5 4
+A105	Evidence T5 1
+A22	Logos T7 no
+A106	Ethos T7 no
+A107	Pathos T7 no
+A108	Strength T10 5
+A109	Evidence T10 1
+A110	Evidence T7 1
+A111	ClaimType T7 Policy
+A112	Strength T13 4
+A113	Evidence T13 1
+A52	Logos T12 no
+A114	ClaimType T12 Fact
+A115	Evidence T12 1
+A116	Ethos T12 no
+A117	Pathos T12 no

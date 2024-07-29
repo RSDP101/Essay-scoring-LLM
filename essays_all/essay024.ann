@@ -1,0 +1,128 @@
+T1	MajorClaim 1480 1530	it still has its bad side, especially for children
+T2	Claim 1416 1478	it is undeniable that computer is a crucial part of human life
+A1	Stance T2 Against
+T3	Claim 311 373	using computer constantly has bad influence on children's eyes
+A2	Stance T3 For
+T4	Premise 375 521	When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 533 617	children who play games too much on computer can seriously lack communicating skills
+T6	Claim 694 795	people who are addicted to games, especially online games, can eventually bear dangerous consequences
+T7	Premise 811 886	several teenagers play games without rest, which leads to health depression
+T8	Premise 888 973	a typical example is the death of Korean gamer, who had a non-stop playing for 3 days
+T9	Claim 984 1093	even people who are not interested in online game can still be negatively affected by using computer too much
+A4	Stance T9 For
+T10	Premise 1095 1239	Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc. instead
+T11	Claim 1262 1299	they will have a bad result in school
+T12	Premise 1308 1390	when they can not live without internet, they will have no time for their studying
+R5	supports Arg1:T12 Arg2:T11	
+R6	supports Arg1:T11 Arg2:T10	
+R7	supports Arg1:T10 Arg2:T9	
+A3	Stance T6 For
+R3	supports Arg1:T7 Arg2:T6	
+R4	supports Arg1:T8 Arg2:T7	
+T13	Claim 619 663	they will know little about the outside life
+R2	supports Arg1:T13 Arg2:T5	
+R8	supports Arg1:T5 Arg2:T6	
+A5	Eloquence T4 2
+A6	PremiseType T4 common_knowledge
+A7	Specificity T4 4
+A8	Evidence T4 1
+A9	Persuasiveness T4 4
+A10	Strength T4 4
+A11	Relevance T4 6
+A12	Logos T3 yes
+A13	ClaimType T3 Fact
+A14	Evidence T3 3
+A15	Eloquence T3 3
+A16	Ethos T3 no
+A17	Pathos T3 no
+A18	Persuasiveness T3 3
+A19	Specificity T3 3
+A20	Relevance T3 6
+A21	Logos T13 no
+A22	Persuasiveness T13 2
+A23	ClaimType T13 Fact
+A24	Evidence T13 1
+A25	Eloquence T13 2
+A26	Specificity T13 1
+A27	Relevance T13 3
+A28	Ethos T13 no
+A29	Pathos T13 no
+A30	Persuasiveness T5 3
+A31	Strength T5 3
+A32	Evidence T5 2
+A33	Eloquence T5 3
+A34	PremiseType T5 common_knowledge
+A35	Specificity T5 3
+A36	Relevance T5 3
+A37	Persuasiveness T8 5
+A38	Strength T8 5
+A39	Evidence T8 1
+A40	Eloquence T8 2
+A41	PremiseType T8 real_example
+A42	Specificity T8 5
+A43	Relevance T8 6
+A44	Eloquence T6 2
+A45	Specificity T6 3
+A46	Persuasiveness T7 5
+A47	Strength T7 4
+A48	Evidence T7 6
+A49	Eloquence T7 2
+A50	PremiseType T7 common_knowledge
+A51	Specificity T7 4
+A52	Relevance T7 6
+A53	Logos T6 yes
+A54	Persuasiveness T6 2
+A55	ClaimType T6 Fact
+A56	Evidence T6 3
+A57	Relevance T6 5
+A58	Ethos T6 no
+A59	Pathos T6 no
+A60	Persuasiveness T12 4
+A61	Strength T12 4
+A62	Evidence T12 1
+A63	Eloquence T12 2
+A64	PremiseType T12 common_knowledge
+A65	Specificity T12 3
+A66	Relevance T12 5
+A67	Evidence T11 3
+A68	Persuasiveness T10 5
+A69	Strength T10 5
+A70	Eloquence T10 2
+A71	PremiseType T10 statistics
+A72	Specificity T10 4
+A73	Relevance T10 4
+A74	Logos T2 no
+A75	Persuasiveness T2 2
+A76	ClaimType T2 Value
+A77	Evidence T2 1
+A78	Eloquence T2 3
+A79	Relevance T2 5
+A80	Ethos T2 no
+A81	Pathos T2 no
+A82	Logos T11 yes
+A83	Specificity T11 1
+A84	Relevance T11 3
+A85	Ethos T11 no
+A86	Pathos T11 no
+A87	Specificity T2 2
+A88	Persuasiveness T11 2
+A89	ClaimType T11 Fact
+A90	Eloquence T11 2
+A91	Evidence T10 2
+A92	Logos T9 yes
+A93	Persuasiveness T9 3
+A94	ClaimType T9 Fact
+A95	Evidence T9 3
+A96	Eloquence T9 3
+A97	Specificity T9 2
+A98	Relevance T9 6
+A99	Ethos T9 no
+A100	Pathos T9 no
+A101	Logos T1 yes
+A102	Persuasiveness T1 3
+A103	Evidence T1 3
+A104	Eloquence T1 3
+A105	Specificity T1 2
+A107	Pathos T1 no
+A106	Ethos T1 no

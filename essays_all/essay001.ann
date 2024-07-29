@@ -1,0 +1,108 @@
+T1	MajorClaim 503 575	we should attach more importance to cooperation during primary education
+T2	MajorClaim 2154 2231	a more cooperative attitudes towards life is more profitable in one's success
+T3	Claim 591 714	through cooperation, children can learn about interpersonal skills which are significant in the future life of all students
+A1	Stance T3 For
+T4	Claim 716 851	What we acquired from team work is not only how to achieve the same goal with others but more importantly, how to get along with others
+T5	Premise 853 1086	During the process of cooperation, children can learn about how to listen to opinions of others, how to communicate with others, how to think comprehensively, and even how to compromise with other team members when conflicts occurred
+T6	Premise 1088 1191	All of these skills help them to get on well with other people and will benefit them for the whole life
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T6 Arg2:T3	
+T7	Claim 1332 1376	competition makes the society more effective
+A2	Stance T7 Against
+T8	Premise 1212 1301	the significance of competition is that how to become more excellence to gain the victory
+T9	Claim 1387 1492	when we consider about the question that how to win the game, we always find that we need the cooperation
+T10	Premise 1549 1846	Take Olympic games which is a form of competition for instance, it is hard to imagine how an athlete could win the game without the training of his or her coach, and the help of other professional staffs such as the people who take care of his diet, and those who are in charge of the medical care
+T11	Claim 1927 1992	without the cooperation, there would be no victory of competition
+A3	Stance T11 For
+R4	supports Arg1:T10 Arg2:T11	
+R5	supports Arg1:T9 Arg2:T11	
+R6	supports Arg1:T8 Arg2:T7	
+A4	PremiseType T10 invented_instance
+A5	Eloquence T11 1
+A6	Eloquence T4 3
+A7	Relevance T4 5
+A8	Persuasiveness T4 2
+A11	Eloquence T5 4
+A12	Relevance T5 6
+A13	Persuasiveness T5 5
+A14	PremiseType T5 common_knowledge
+A15	Specificity T5 4
+A16	Eloquence T6 3
+A17	Relevance T6 6
+A18	Persuasiveness T6 5
+A19	PremiseType T6 warrant
+A20	Specificity T6 3
+A21	Logos T3 yes
+A22	ClaimType T3 Value
+A23	Evidence T3 4
+A24	Ethos T3 no
+A25	Pathos T3 no
+#1	AnnotatorNotes T3	Claim of Value because it could be rephrased: "the skills learned through cooperation are significant"
+A26	Eloquence T8 1
+A27	Specificity T8 1
+A28	PremiseType T8 common_knowledge
+A29	Relevance T8 6
+A30	Persuasiveness T8 2
+A31	Logos T7 yes
+A32	Persuasiveness T7 2
+A33	ClaimType T7 Fact
+A34	Evidence T7 2
+A35	Eloquence T7 2
+A36	Specificity T7 2
+A37	Relevance T7 5
+A38	Ethos T7 no
+A39	Pathos T7 no
+A40	Eloquence T9 2
+A41	Specificity T9 2
+A43	Relevance T9 6
+A44	Persuasiveness T9 2
+A45	Eloquence T10 3
+A46	Specificity T10 5
+A47	Logos T11 yes
+A48	Persuasiveness T11 3
+A49	ClaimType T11 Fact
+A50	Evidence T11 3
+A51	Specificity T11 2
+A52	Relevance T11 6
+A53	Ethos T11 no
+A54	Pathos T11 no
+A55	Relevance T10 6
+A56	Persuasiveness T10 5
+A57	Eloquence T2 3
+A58	Logos T2 yes
+A59	Ethos T2 no
+A60	Pathos T2 no
+A61	Specificity T2 3
+A62	Persuasiveness T3 4
+A63	Eloquence T3 3
+A64	Specificity T3 3
+A65	Relevance T3 6
+A66	Evidence T2 3
+A67	Logos T1 yes
+A68	Persuasiveness T1 3
+A69	Evidence T1 3
+A70	Eloquence T1 3
+A71	Specificity T1 2
+A72	Ethos T1 no
+A73	Pathos T1 no
+A74	Persuasiveness T2 3
+A42	Strength T10 5
+A75	Evidence T10 1
+A76	Strength T8 2
+A77	Evidence T8 1
+A78	Evidence T4 1
+A79	Strength T5 5
+A80	Evidence T5 1
+A81	Strength T6 5
+A82	Evidence T6 1
+A83	Evidence T9 1
+A84	Logos T9 no
+A85	ClaimType T9 Fact
+A86	Ethos T9 no
+A87	Pathos T9 no
+A88	Logos T4 no
+A89	ClaimType T4 Value
+A90	Ethos T4 no
+A91	Pathos T4 no
+A9	Specificity T4 2

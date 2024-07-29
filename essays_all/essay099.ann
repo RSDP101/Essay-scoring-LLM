@@ -1,0 +1,133 @@
+T1	MajorClaim 1557 1629	I would agree to idea of taking a break before starting higher education
+T2	Claim 1631 1721	Students who take break, gain lot of benefits by traveling around the places or by working
+A1	Stance T2 For
+T3	Premise 1723 1816	They tend to contribute more due to their real world experiences which makes them more mature
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 375 486	Experience gained through traveling to different places, meeting different people and even at job goes long way
+A2	Stance T4 For
+T5	Claim 488 568	It not only enhances the confidence of a student but also makes them independent
+T6	Premise 570 686	Student's who works tend to gather better financial resources which they can rely on during their university studies
+T7	Premise 688 771	This experience also makes them aware of what they would like to make of their life
+T8	Premise 773 862	They develop broader view and can make a better choice of their future studies or courses
+T10	Premise 1072 1139	They might even find it difficult to adapt to education environment
+T11	Premise 1141 1223	There is also a risk of student never going back to university or higher education
+T12	Premise 1225 1380	Probably some might take some short term courses instead of proper and complete university education, which will help them to get a better job and salaries
+T13	Premise 1382 1537	This might only help them in a short run as it is a known fact that to make a reasonable career in longer runs, one needs a proper and higher qualification
+T9	Premise 947 1070	Once student's starts earning, they might not like to go back to studies where they would lose their financial independence
+T14	Claim 864 945	Taking a break not just has benefits but it also comes with some negative impacts
+A3	Stance T14 Against
+R2	supports Arg1:T9 Arg2:T14	
+R3	supports Arg1:T10 Arg2:T14	
+R4	supports Arg1:T11 Arg2:T14	
+R5	supports Arg1:T12 Arg2:T14	
+R6	supports Arg1:T13 Arg2:T14	
+R7	supports Arg1:T5 Arg2:T4	
+R8	supports Arg1:T6 Arg2:T4	
+R9	supports Arg1:T7 Arg2:T4	
+R10	supports Arg1:T8 Arg2:T4	
+A4	Eloquence T5 4
+A5	Relevance T5 4
+A6	Persuasiveness T5 3
+A8	Specificity T5 2
+A9	Eloquence T6 2
+A10	Relevance T6 4
+A11	Persuasiveness T6 4
+A12	PremiseType T6 common_knowledge
+A13	Specificity T6 4
+A14	Eloquence T7 3
+A15	Relevance T7 4
+A16	Persuasiveness T7 3
+A17	PremiseType T7 common_knowledge
+A18	Specificity T7 3
+A19	Eloquence T8 4
+A20	Relevance T8 5
+A21	Persuasiveness T8 4
+A22	PremiseType T8 common_knowledge
+A23	Specificity T8 3
+A24	Logos T4 yes
+A25	Persuasiveness T4 4
+A26	ClaimType T4 Fact
+A27	Evidence T4 4
+A28	Eloquence T4 4
+A29	Specificity T4 3
+A30	Relevance T4 5
+A31	Ethos T4 no
+A32	Pathos T4 no
+A33	Eloquence T9 4
+A34	Relevance T9 5
+A35	Persuasiveness T9 5
+A36	PremiseType T9 invented_instance
+A37	Specificity T9 5
+A38	Eloquence T10 3
+A39	Relevance T10 5
+A40	Persuasiveness T10 4
+A42	Specificity T10 2
+A43	Eloquence T11 3
+A44	Relevance T11 6
+A45	Persuasiveness T11 3
+A46	PremiseType T11 common_knowledge
+A47	Specificity T11 3
+A48	Eloquence T12 2
+A49	Relevance T12 6
+A50	Persuasiveness T12 4
+A51	PremiseType T12 invented_instance
+A52	Specificity T12 5
+A53	Relevance T13 6
+A54	PremiseType T13 warrant
+A55	Eloquence T13 5
+A56	Persuasiveness T13 5
+A57	Specificity T13 4
+A58	Eloquence T3 4
+A59	Relevance T3 5
+A60	Persuasiveness T3 4
+A61	PremiseType T3 common_knowledge
+A62	Specificity T3 4
+A63	Logos T2 yes
+A64	Persuasiveness T2 3
+A65	ClaimType T2 Fact
+A66	Evidence T2 3
+A67	Eloquence T2 2
+A68	Specificity T2 3
+A69	Relevance T2 6
+A70	Ethos T2 no
+A71	Pathos T2 no
+A72	Logos T1 yes
+A73	Persuasiveness T1 2
+A74	Evidence T1 2
+A75	Eloquence T1 3
+A76	Specificity T1 3
+A77	Ethos T1 no
+A78	Pathos T1 no
+A79	Relevance T14 6
+A80	Evidence T14 6
+A81	Eloquence T14 3
+A82	Specificity T14 2
+A83	Logos T14 yes
+A84	Ethos T14 no
+A85	Pathos T14 no
+A86	Persuasiveness T14 6
+A87	ClaimType T14 Fact
+A7	Logos T5 no
+A88	ClaimType T5 Fact
+A89	Evidence T5 1
+A90	Ethos T5 no
+A91	Pathos T5 no
+A92	Strength T6 4
+A93	Evidence T6 1
+A94	Strength T7 3
+A95	Evidence T7 1
+A96	Strength T8 4
+A97	Evidence T8 1
+A98	Strength T9 5
+A99	Evidence T9 1
+A101	Evidence T10 1
+A104	Strength T10 4
+A105	PremiseType T10 common_knowledge
+A41	Strength T11 3
+A100	Evidence T11 1
+A102	Strength T12 4
+A103	Evidence T12 1
+A106	Strength T13 5
+A107	Evidence T13 1
+A108	Strength T3 4
+A109	Evidence T3 1

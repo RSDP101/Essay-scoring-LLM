@@ -1,0 +1,190 @@
+T1	MajorClaim 564 608	technology makes children even more creative
+T2	Claim 497 550	technology may have some negative effects on children
+A1	Stance T2 Against
+T3	Claim 1828 1876	technology may have negative effects on children
+A2	Stance T3 Against
+T4	Premise 1878 1929	Technology has made life too easy for most children
+T5	Claim 1931 2038	In comfortable conditions, children may be satisfied with the world around them and refuse to make a change
+T6	Premise 617 666	technology inspires children to create new things
+T7	Premise 1290 1327	technology widen children's knowledge
+T8	Premise 722 864	when they come across a high-tech product like a cellphone, they will be obsessed with its mysterious functions and eager to know how it works
+T9	Premise 668 717	Children are curious about everything around them
+R1	supports Arg1:T9 Arg2:T8	
+T10	Premise 879 994	Bill Gates was attracted by the original huge computer, then he did everything he could to understand how it worked
+T11	Premise 996 1073	After he had figured out all the stuff, he then began to promote the computer
+T12	Premise 1075 1159	In the end, he successfully invented a computer that was easy to use and lightweight
+T13	Claim 1172 1280	instead of interfering children's creativity, technology actually encourages children to learn and to create
+A5	Stance T13 For
+R3	supports Arg1:T8 Arg2:T13	
+R6	supports Arg1:T10 Arg2:T13	
+R7	supports Arg1:T11 Arg2:T13	
+R8	supports Arg1:T12 Arg2:T13	
+T14	Premise 1329 1400	In the past, children were only able to see things from one perspective
+T15	Premise 1558 1640	they will be able to learn about different cultures and different ways of thinking
+T16	Premise 1411 1545	with highly advanced technology, children are able to get information from foreign countries and even communicate with foreign friends
+R11	supports Arg1:T16 Arg2:T15	
+T17	Claim 1642 1677	Knowledge is the base of creativity
+T18	Claim 1679 1814	The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things
+A6	Stance T18 For
+R12	supports Arg1:T17 Arg2:T18	
+R13	supports Arg1:T15 Arg2:T18	
+R14	supports Arg1:T14 Arg2:T18	
+R15	supports Arg1:T7 Arg2:T18	
+R16	supports Arg1:T4 Arg2:T3	
+R17	supports Arg1:T5 Arg2:T3	
+T19	MajorClaim 2161 2239	They kept researching new technology and became successful at a very young age
+T20	Premise 2053 2159	with the development of technology, increasingly more young people become obsessed with high-tech products
+R18	attacks Arg1:T20 Arg2:T3	
+R2	supports Arg1:T6 Arg2:T13	
+A3	Logos T2 no
+A4	Persuasiveness T2 1
+A7	ClaimType T2 Value
+A8	Evidence T2 1
+A9	Eloquence T2 3
+A10	Specificity T2 2
+A11	Relevance T2 4
+A12	Ethos T2 no
+A13	Pathos T2 no
+A14	Eloquence T6 3
+A15	PremiseType T6 common_knowledge
+A16	Specificity T6 1
+A17	Relevance T6 4
+A18	Persuasiveness T6 2
+A19	Eloquence T9 3
+A20	Specificity T9 1
+A21	Relevance T9 3
+A22	Persuasiveness T9 3
+A23	PremiseType T9 common_knowledge
+A24	Eloquence T8 4
+A25	PremiseType T8 invented_instance
+A26	Specificity T8 4
+A27	Relevance T8 5
+A28	Persuasiveness T8 5
+A29	Eloquence T10 3
+A30	PremiseType T10 real_example
+A31	Specificity T10 4
+A32	Relevance T10 5
+A33	Persuasiveness T10 4
+A34	Eloquence T11 2
+A35	PremiseType T11 real_example
+A36	Specificity T11 1
+A37	Relevance T11 2
+A38	Persuasiveness T11 2
+A39	Eloquence T12 4
+A40	PremiseType T12 warrant
+A41	Specificity T12 4
+A42	Relevance T12 6
+A43	Persuasiveness T12 5
+A44	Logos T13 yes
+A45	Ethos T13 no
+A46	Pathos T13 no
+A47	ClaimType T13 Fact
+A48	Eloquence T13 4
+A49	Specificity T13 4
+A50	Relevance T13 5
+A51	Persuasiveness T13 5
+A52	Evidence T13 4
+A53	Eloquence T7 1
+A54	Specificity T7 1
+A55	Relevance T7 4
+A56	Persuasiveness T7 2
+A57	PremiseType T7 common_knowledge
+A58	Eloquence T14 2
+A59	Specificity T14 2
+A60	Relevance T14 3
+A61	Persuasiveness T14 2
+A62	PremiseType T14 common_knowledge
+A63	Eloquence T16 5
+A64	Relevance T16 6
+A65	Persuasiveness T16 5
+A66	PremiseType T16 common_knowledge
+A67	Specificity T16 4
+A68	Specificity T15 3
+A69	Eloquence T15 3
+A70	PremiseType T15 common_knowledge
+A71	Relevance T15 6
+A72	Persuasiveness T15 5
+A73	Eloquence T17 1
+A74	Specificity T17 1
+A75	Relevance T17 2
+A76	Persuasiveness T17 1
+A78	Logos T18 yes
+A79	Pathos T18 yes
+A80	ClaimType T18 Value
+A81	Eloquence T18 5
+A82	Ethos T18 no
+A83	Specificity T18 4
+A84	Evidence T18 3
+A85	Relevance T18 5
+A86	Persuasiveness T18 4
+A87	Eloquence T4 3
+A88	Relevance T4 5
+A89	Persuasiveness T4 3
+A90	PremiseType T4 common_knowledge
+A91	Specificity T4 3
+A92	Eloquence T5 4
+A93	Specificity T5 3
+A94	Relevance T5 4
+A95	Persuasiveness T5 2
+A97	Eloquence T20 5
+A98	PremiseType T20 real_example
+A99	Specificity T20 5
+A100	Relevance T20 5
+A101	Persuasiveness T20 6
+A102	Logos T3 yes
+A103	ClaimType T3 Value
+A104	Eloquence T3 2
+A105	Ethos T3 no
+A106	Pathos T3 yes
+A107	Specificity T3 3
+A108	Evidence T3 2
+A109	Relevance T3 4
+A110	Persuasiveness T3 2
+A111	Specificity T1 3
+A112	Eloquence T1 3
+A113	Logos T1 yes
+A114	Ethos T1 no
+A115	Pathos T1 yes
+A116	Persuasiveness T1 4
+A117	Evidence T1 4
+A118	Logos T19 yes
+A119	Evidence T19 3
+A120	Eloquence T19 3
+A121	Specificity T19 3
+A122	Ethos T19 no
+A123	Pathos T19 no
+A124	Persuasiveness T19 4
+A125	Strength T6 2
+A126	Evidence T6 1
+A127	Strength T9 3
+A128	Evidence T9 1
+A129	Evidence T8 2
+A130	Strength T8 5
+A131	Strength T10 4
+A132	Evidence T10 1
+A133	Strength T11 2
+A134	Evidence T11 1
+A135	Strength T12 5
+A136	Evidence T12 1
+A137	Strength T7 2
+A138	Evidence T7 1
+A139	Strength T14 2
+A140	Evidence T14 1
+A141	Strength T16 5
+A142	Evidence T16 1
+A143	Strength T15 5
+A144	Evidence T15 1
+A77	Logos T17 no
+A145	ClaimType T17 Fact
+A146	Evidence T17 1
+A147	Ethos T17 no
+A148	Pathos T17 no
+A149	Strength T4 3
+A150	Evidence T4 1
+A96	Logos T5 no
+A151	ClaimType T5 Fact
+A152	Evidence T5 1
+A153	Ethos T5 no
+A154	Pathos T5 no
+A155	Strength T20 6
+A156	Evidence T20 1

@@ -1,0 +1,158 @@
+T1	MajorClaim 664 761	aiding poor countries has positive effects, overweighing its side-effects for the several reasons
+T2	MajorClaim 2322 2477	being a global neighbor by aiding poor countries would be continues by many organizations and volunteers, and it will make the earth a better place to live
+T3	Claim 2104 2296	there are abovementioned three key points of positive effects of aid; supporting poor countries to make its economy strong and building humane concepts to people, keeping strong global economy
+T4	Claim 422 507	just giving aid to impoverished countries could be manipulated by big power countries
+T5	Claim 522 640	a great amount of materials and money have poor countries being corrupted and politically dependent on other countries
+T6	Claim 1071 1174	Aiding help poor countries in this situation solve their economical problems and run their own business
+T7	Premise 777 884	poor counties suffer from shortage of basic materials and facilities to start businesses and make it richer
+T8	Premise 886 1069	To be out of poverty, it is fundamental to support basic industry related factors such as light, electricity, load, highways, natural resources, technology and buildings for companies
+T9	Premise 1187 1279	republic of Korea used to be the poorest country even compared to others in Africa in 1960's
+T10	Premise 1281 1390	Now that it has became strong economy country aiding poor countries after 10 years of aid from other counties
+R1	supports Arg1:T9 Arg2:T6	
+R2	supports Arg1:T10 Arg2:T6	
+R3	supports Arg1:T8 Arg2:T6	
+T11	Claim 1402 1465	aiding campaign gives a chance to considerate about poor people
+T12	Claim 1467 1600	If people in rich countries ponder poor people suffering from poverty and diseases, they would never take their abundance for granted
+T13	Claim 1602 1732	It not only raises the notice the meaning of harmony and love, but also be a good chance to learn humane doctrine of globalization
+R4	supports Arg1:T12 Arg2:T11	
+R5	supports Arg1:T13 Arg2:T11	
+T14	Claim 1741 1787	the campaigns might include practical benefits
+T15	Premise 1789 1899	In globalized world, the economies of several countries are in a big network and must influence on each others
+T16	Premise 1901 2087	When America mortgage loan system went bad, several economies of European and Asian countries fluctuated, even any countries had to be gotten international supports to block its bankrupt
+R6	supports Arg1:T15 Arg2:T14	
+R7	supports Arg1:T16 Arg2:T14	
+R8	supports Arg1:T7 Arg2:T6	
+A1	Stance T4 Against
+A2	Stance T5 Against
+A3	Stance T3 For
+A4	Stance T6 For
+A5	Stance T14 For
+A6	Stance T11 For
+A7	Logos T4 no
+A8	Persuasiveness T4 2
+A9	ClaimType T4 Fact
+A10	Evidence T4 1
+A11	Eloquence T4 2
+A12	Specificity T4 2
+A13	Relevance T4 6
+A14	Ethos T4 no
+A15	Pathos T4 no
+A16	Logos T5 no
+A17	Ethos T5 no
+A18	Pathos T5 no
+A19	Specificity T5 2
+A20	Relevance T5 6
+A21	Persuasiveness T5 2
+A22	ClaimType T5 Fact
+A23	Evidence T5 1
+A24	Eloquence T5 3
+A25	Eloquence T7 3
+A26	PremiseType T7 common_knowledge
+A27	Specificity T7 3
+A28	Relevance T7 6
+A29	Persuasiveness T7 3
+A30	Eloquence T8 4
+A31	PremiseType T8 common_knowledge
+A32	Specificity T8 5
+A33	Relevance T8 3
+A34	Eloquence T9 3
+A35	Relevance T9 5
+A36	PremiseType T9 real_example
+A37	Specificity T9 5
+A38	Persuasiveness T9 6
+A39	Eloquence T10 3
+A40	Relevance T10 6
+A41	Persuasiveness T10 6
+A42	PremiseType T10 real_example
+A43	Specificity T10 5
+A44	Logos T6 yes
+A45	Ethos T6 no
+A46	Pathos T6 no
+A47	Evidence T6 3
+A48	Relevance T6 6
+A49	Persuasiveness T6 5
+A50	ClaimType T6 Fact
+A51	Eloquence T6 3
+A52	Specificity T6 3
+A53	Eloquence T12 2
+A55	Specificity T12 2
+A56	Relevance T12 3
+A57	Persuasiveness T12 2
+A58	Eloquence T13 1
+A59	Relevance T13 5
+A60	Persuasiveness T13 2
+A62	Specificity T13 2
+A63	Logos T11 no
+A64	Pathos T11 yes
+A65	Eloquence T11 2
+A66	Specificity T11 3
+A67	Relevance T11 5
+A68	ClaimType T11 Fact
+A69	Ethos T11 no
+A70	Persuasiveness T11 3
+A71	Evidence T11 3
+A72	Eloquence T15 3
+A73	Specificity T15 2
+A74	Relevance T15 5
+A75	Persuasiveness T15 2
+A76	PremiseType T15 warrant
+A77	Eloquence T16 1
+A78	PremiseType T16 real_example
+A79	Specificity T16 5
+A80	Relevance T16 5
+A81	Persuasiveness T16 4
+A82	Logos T14 yes
+A83	Persuasiveness T14 3
+A84	ClaimType T14 Fact
+A85	Evidence T14 3
+A86	Eloquence T14 3
+A87	Specificity T14 2
+A88	Relevance T14 6
+A89	Ethos T14 no
+A90	Pathos T14 no
+A91	Logos T3 no
+A92	Ethos T3 no
+A93	Pathos T3 no
+A94	Evidence T3 1
+A95	Persuasiveness T3 2
+A96	ClaimType T3 Fact
+A97	Eloquence T3 2
+A98	Specificity T3 2
+A99	Relevance T3 6
+A100	Logos T2 yes
+A101	Persuasiveness T2 3
+A102	Evidence T2 3
+A103	Eloquence T2 1
+A104	Specificity T2 2
+A105	Ethos T2 no
+A106	Pathos T2 yes
+A107	Logos T1 yes
+A108	Persuasiveness T1 3
+A109	Evidence T1 3
+A110	Eloquence T1 3
+A111	Specificity T1 2
+A112	Ethos T1 no
+A113	Pathos T1 yes
+A114	Persuasiveness T8 3
+A115	Strength T7 3
+A116	Evidence T7 1
+A117	Strength T8 3
+A118	Evidence T8 1
+A119	Strength T9 6
+A120	Evidence T9 1
+A121	Strength T10 6
+A122	Evidence T10 1
+A54	Logos T12 no
+A123	ClaimType T12 Fact
+A124	Evidence T12 1
+A125	Ethos T12 no
+A126	Pathos T12 no
+A61	Logos T13 no
+A127	ClaimType T13 Value
+A128	Evidence T13 1
+A129	Ethos T13 no
+A130	Pathos T13 no
+A131	Strength T15 2
+A132	Evidence T15 1
+A133	Strength T16 4
+A134	Evidence T16 1

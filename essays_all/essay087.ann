@@ -1,0 +1,129 @@
+T1	MajorClaim 287 346	I would prefer to work for myself, and have my own business
+T2	Claim 1528 1570	working for the other have some advantages
+A1	Stance T2 Against
+T3	MajorClaim 1591 1647	people that have their own business are more comfortable
+T4	Claim 1649 1703	They have more opportunities, profits, and authorities
+A2	Stance T4 For
+T5	Claim 458 570	there are a large number of opportunities in privat works that you cannot find them when you work for the others
+A3	Stance T5 For
+T6	Premise 572 666	In your job you can be boss of yourself; however, in the other jobs someone else are your boss
+T7	Claim 668 771	You always have to be responsible for your task, and it make a stressful situation that I never like it
+R1	supports Arg1:T6 Arg2:T5	
+R2	supports Arg1:T7 Arg2:T5	
+T8	Claim 787 930	when people work for themselves they make more profit for themselves, but in the other jobs you make profits for the other such as your manager
+A4	Stance T8 For
+T9	Premise 946 1080	nowadays most of them pick up this profit without sharing a small sum of it with their workers, and from my point of view it is unfair
+R3	supports Arg1:T9 Arg2:T8	
+T10	Claim 1091 1211	there are some authorities in privat jobs that workers are always looking for them while they are working for the others
+A5	Stance T10 For
+T11	Premise 1213 1288	When you work for yourself you can punch in and punch out whenever you want
+T12	Premise 1290 1413	Sometimes some occasions happen to people for example a disease, sticking in a traffic jam and sometime going on a vacation
+T13	Claim 1415 1503	For all of them we have to ask for a permission, and most of the time we are not allowed
+R4	supports Arg1:T12 Arg2:T10	
+R5	supports Arg1:T11 Arg2:T10	
+R6	supports Arg1:T13 Arg2:T10	
+A6	Eloquence T6 2
+A7	Relevance T6 3
+A8	Persuasiveness T6 2
+A9	PremiseType T6 common_knowledge
+A10	Specificity T6 3
+A11	Eloquence T7 1
+A12	Relevance T7 2
+A13	Persuasiveness T7 2
+A15	Specificity T7 2
+A16	Eloquence T5 2
+A17	Persuasiveness T5 2
+A18	Evidence T5 2
+A19	Logos T5 yes
+A20	ClaimType T5 Fact
+A21	Specificity T5 2
+A22	Relevance T5 4
+A23	Ethos T5 no
+A24	Pathos T5 yes
+A25	PremiseType T9 common_knowledge
+A26	Eloquence T9 3
+A27	Relevance T9 6
+A28	Persuasiveness T9 3
+A29	Specificity T9 3
+A30	Logos T8 yes
+A31	Ethos T8 no
+A32	Pathos T8 yes
+A33	Evidence T8 2
+A34	Specificity T8 3
+A35	Relevance T8 5
+A36	Persuasiveness T8 2
+A37	ClaimType T8 Fact
+A38	Eloquence T8 2
+A39	Eloquence T11 3
+A40	Relevance T11 2
+A41	Persuasiveness T11 3
+A42	PremiseType T11 common_knowledge
+A43	Specificity T11 3
+A44	Eloquence T12 2
+A45	Relevance T12 2
+A46	Persuasiveness T12 2
+A47	PremiseType T12 common_knowledge
+A48	Specificity T12 4
+A49	Eloquence T13 2
+A50	Relevance T13 2
+A51	Persuasiveness T13 2
+A53	Specificity T13 3
+A54	Logos T10 yes
+A55	Persuasiveness T10 2
+A56	ClaimType T10 Fact
+A57	Evidence T10 2
+A58	Eloquence T10 1
+A59	Specificity T10 2
+A60	Relevance T10 2
+A61	Ethos T10 no
+A62	Pathos T10 yes
+A63	Logos T2 yes
+A64	Persuasiveness T2 2
+A65	ClaimType T2 Fact
+A66	Evidence T2 1
+A67	Eloquence T2 2
+A68	Specificity T2 2
+A69	Relevance T2 6
+A70	Ethos T2 no
+A71	Pathos T2 no
+A72	Logos T4 yes
+A73	Persuasiveness T4 2
+A74	ClaimType T4 Fact
+A75	Evidence T4 1
+A76	Eloquence T4 3
+A77	Specificity T4 2
+A78	Relevance T4 6
+A79	Ethos T4 no
+A80	Pathos T4 no
+A81	Logos T3 yes
+A82	Persuasiveness T3 2
+A83	Evidence T3 2
+A84	Eloquence T3 3
+A85	Specificity T3 2
+A86	Ethos T3 no
+A87	Pathos T3 yes
+A88	Logos T1 yes
+A89	Persuasiveness T1 2
+A90	Evidence T1 2
+A91	Eloquence T1 3
+A92	Specificity T1 2
+A93	Ethos T1 no
+A94	Pathos T1 yes
+A95	Strength T6 2
+A96	Evidence T6 1
+A98	Evidence T7 1
+A99	Strength T9 3
+A100	Evidence T9 1
+A101	Strength T11 3
+A102	Evidence T11 1
+A103	Strength T12 2
+A104	Evidence T12 1
+A106	Evidence T13 1
+A52	Logos T13 no
+A105	ClaimType T13 Fact
+A107	Ethos T13 no
+A108	Pathos T13 yes
+A14	Logos T7 no
+A97	ClaimType T7 Value
+A109	Ethos T7 no
+A110	Pathos T7 no

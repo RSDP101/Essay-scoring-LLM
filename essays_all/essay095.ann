@@ -1,0 +1,162 @@
+T1	MajorClaim 251 338	news media not only brings people entertainment, but also polishes up people' knowledge
+T2	MajorClaim 1443 1531	the development of news media has been making great inroads into the lives of all people
+T3	Claim 1726 1783	the progress of news media is an advantageous development
+A1	Stance T3 For
+T4	Claim 1533 1584	It relaxes people with plentiful entertainment news
+T5	Premise 1586 1643	It enriches people's knowledge with worldwide information
+T6	Claim 1645 1713	It also positively affects the way people live in many other aspects
+R1	supports Arg1:T6 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T4 Arg2:T3	
+T7	Claim 445 511	today entertainment is easier for people to enjoy than ever before
+T8	Premise 513 667	The fact is that such news media as televisions, radios, or newspapers are bringing many news on entertainment sector from all over the world to everybody
+T9	Claim 857 915	the popularity of news media is beneficial to human beings
+A3	Stance T9 For
+T10	Premise 669 788	People can sit in front of their televisions and watch whatever they want, from musical concerts to live football match
+T11	Claim 790 844	This is a convenient way of relaxation after hard work
+T12	Claim 938 984	news media help people broaden their knowledge
+A4	Stance T12 For
+T13	Claim 1166 1246	there is a strong likelihood that today people are able to know the world better
+T14	Premise 986 1157	It is clearly seen that mass media provide people with a variety of global news on all fields, including political situation, economic change, global warming, and so forth
+T15	Claim 1248 1355	This is particularly essential when the globalization process has been permeating into all areas of society
+T16	Claim 1365 1426	the fast growth of news media is helpful for people worldwide
+R12	supports Arg1:T15 Arg2:T12	
+R13	supports Arg1:T16 Arg2:T12	
+R4	supports Arg1:T8 Arg2:T7	
+R5	supports Arg1:T7 Arg2:T9	
+R6	supports Arg1:T10 Arg2:T9	
+R14	supports Arg1:T11 Arg2:T9	
+R7	supports Arg1:T14 Arg2:T13	
+R8	supports Arg1:T13 Arg2:T12	
+A2	Eloquence T8 1
+A5	PremiseType T8 common_knowledge
+A6	Specificity T8 4
+A7	Eloquence T11 3
+A8	Relevance T11 6
+A9	Persuasiveness T11 2
+A11	Specificity T11 2
+A12	Eloquence T10 3
+A13	Relevance T10 2
+A14	Persuasiveness T10 2
+A15	PremiseType T10 common_knowledge
+A16	Specificity T10 4
+A17	Eloquence T7 3
+A18	Relevance T7 2
+A19	Persuasiveness T7 2
+A21	Specificity T7 2
+A22	Logos T9 yes
+A23	ClaimType T9 Value
+A24	Evidence T9 2
+A25	Eloquence T9 3
+A26	Specificity T9 2
+A27	Relevance T9 5
+A28	Ethos T9 no
+A29	Pathos T9 no
+A30	Persuasiveness T9 2
+A31	Eloquence T14 4
+A32	PremiseType T14 common_knowledge
+A33	Specificity T14 4
+A34	Relevance T14 5
+A35	Persuasiveness T14 4
+A36	Eloquence T13 3
+A37	Relevance T13 5
+A38	Persuasiveness T13 3
+A40	Specificity T13 2
+A41	Eloquence T15 3
+A42	Relevance T15 4
+A43	Persuasiveness T15 2
+A45	Specificity T15 2
+A46	Relevance T16 3
+A48	Eloquence T16 3
+A49	Persuasiveness T16 2
+A50	Specificity T16 2
+A51	Evidence T12 2
+A52	Logos T12 yes
+A53	Persuasiveness T12 2
+A54	Ethos T12 no
+A55	Pathos T12 no
+A56	ClaimType T12 Fact
+A57	Eloquence T12 2
+A58	Specificity T12 3
+A59	Relevance T12 6
+A60	Eloquence T4 3
+A61	Relevance T4 6
+A62	Persuasiveness T4 2
+A64	Specificity T4 2
+A65	Eloquence T5 3
+A66	Relevance T5 5
+A67	Persuasiveness T5 2
+A68	PremiseType T5 common_knowledge
+A69	Specificity T5 2
+A70	Eloquence T6 3
+A71	Relevance T6 6
+A73	Specificity T6 1
+A74	Logos T3 yes
+A75	Persuasiveness T3 2
+A76	ClaimType T3 Value
+A77	Evidence T3 2
+A78	Eloquence T3 3
+A79	Specificity T3 2
+A80	Relevance T3 6
+A81	Ethos T3 no
+A82	Pathos T3 no
+A83	Logos T2 yes
+A84	Persuasiveness T2 2
+A85	Evidence T2 2
+A86	Eloquence T2 3
+A87	Specificity T2 3
+A88	Ethos T2 no
+A89	Pathos T2 no
+A90	Logos T1 yes
+A91	Persuasiveness T1 2
+A92	Evidence T1 2
+A93	Eloquence T1 3
+A94	Specificity T1 4
+A95	Ethos T1 no
+A96	Pathos T1 no
+A97	Persuasiveness T6 2
+A98	Relevance T8 5
+A99	Persuasiveness T8 4
+A100	Strength T8 4
+A101	Evidence T8 1
+A20	Logos T7 yes
+A102	ClaimType T7 Value
+A103	Evidence T7 4
+A104	Ethos T7 no
+A105	Pathos T7 no
+A106	Strength T10 2
+A107	Evidence T10 1
+A10	Logos T11 no
+A108	ClaimType T11 Value
+A109	Evidence T11 1
+A110	Ethos T11 no
+A111	Pathos T11 no
+A39	Logos T15 no
+A44	ClaimType T15 Value
+A47	Evidence T15 1
+A112	Ethos T15 no
+A113	Pathos T15 no
+A114	Logos T16 no
+A115	ClaimType T16 Value
+A116	Evidence T16 1
+A117	Ethos T16 no
+A118	Pathos T16 no
+A63	Logos T4 no
+A119	ClaimType T4 Fact
+A120	Evidence T4 1
+A121	Ethos T4 no
+A122	Pathos T4 no
+A123	Strength T5 2
+A124	Evidence T5 1
+A72	Logos T6 no
+A125	ClaimType T6 Value
+A126	Evidence T6 1
+A127	Ethos T6 no
+A128	Pathos T6 no
+A129	Strength T14 4
+A130	Evidence T14 1
+A131	Logos T13 yes
+A132	ClaimType T13 Fact
+A133	Evidence T13 3
+A134	Ethos T13 no
+A135	Pathos T13 no

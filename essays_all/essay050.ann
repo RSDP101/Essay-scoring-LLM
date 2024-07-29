@@ -1,0 +1,158 @@
+T1	MajorClaim 1999 2093	An integration of music into learning process bound to be successful when it is not compulsory
+T2	Claim 1946 1997	music can help an individual to shape its character
+A1	Stance T2 Against
+T3	Claim 387 455	many university authorities provide music lessons for their students
+A2	Stance T3 For
+T4	Premise 464 507	they live and study in a harmony with music
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 267 374	It is obvious that music has a great power which can positively influence on human being and its psychology
+R2	supports Arg1:T5 Arg2:T3	
+T6	Premise 535 695	students, who spend a great deal of their time studying different academic subjects should have an opportunity to cope with the stress gained during school time
+T7	Premise 711 757	music can be a useful and interesting solution
+T8	Premise 769 934	if musical activity involves many participants, there will be co-operation and developed team work in the group, which is, of course, beneficial in their future life
+T9	Premise 945 1024	students with a quite poor academic background can show themselves in the music
+T10	Premise 1040 1089	the calm atmosphere in the class might be created
+R3	supports Arg1:T6 Arg2:T3	
+R4	supports Arg1:T7 Arg2:T3	
+R5	supports Arg1:T8 Arg2:T3	
+R6	supports Arg1:T9 Arg2:T3	
+R7	supports Arg1:T10 Arg2:T3	
+T11	Premise 1104 1179	it is clear that music can have many mentally enhancing effects on students
+T12	Claim 1528 1584	music and other entertaining subjects should be optional
+A4	Stance T12 For
+T13	Premise 1586 1655	Nowadays, time is the most valuable thing in life with increased pace
+T14	Premise 1669 1807	students are to develop their professional skills by learning occupation-related subjects, rather than playing on guitar or singing a song
+R8	supports Arg1:T13 Arg2:T12	
+R9	supports Arg1:T14 Arg2:T12	
+T15	Premise 1426 1515	students can not obtain supposed impacts, unless they get interested in it more seriously
+R10	supports Arg1:T15 Arg2:T12	
+T16	Premise 1343 1402	music is the art which requires special attitude towards it
+R11	supports Arg1:T16 Arg2:T12	
+T17	Premise 1210 1299	demand is not for musically orientated students, but for academically developed employees
+R12	supports Arg1:T17 Arg2:T12	
+R13	supports Arg1:T11 Arg2:T12	
+A3	Persuasiveness T5 3
+A5	Strength T5 3
+A6	Evidence T5 1
+A7	Eloquence T5 2
+A8	PremiseType T5 common_knowledge
+A9	Specificity T5 4
+A10	Relevance T5 3
+A11	Persuasiveness T4 2
+A12	Strength T4 2
+A13	Evidence T4 1
+A14	Eloquence T4 4
+A15	PremiseType T4 common_knowledge
+A16	Specificity T4 1
+A17	Relevance T4 4
+A18	Persuasiveness T6 2
+A19	Strength T6 2
+A20	Evidence T6 1
+A21	Eloquence T6 4
+A22	PremiseType T6 common_knowledge
+A23	Specificity T6 3
+A24	Relevance T6 4
+A25	Eloquence T7 4
+A26	Persuasiveness T7 2
+A27	Strength T7 2
+A28	Evidence T7 1
+A29	PremiseType T7 common_knowledge
+A30	Specificity T7 1
+A31	Relevance T7 2
+A32	Persuasiveness T8 3
+A33	Strength T8 3
+A34	Evidence T8 1
+A35	Eloquence T8 4
+A36	PremiseType T8 invented_instance
+A37	Specificity T8 4
+A38	Relevance T8 3
+A39	Persuasiveness T9 2
+A40	Strength T9 2
+A41	Evidence T9 1
+A42	Eloquence T9 2
+A43	PremiseType T9 common_knowledge
+A44	Specificity T9 3
+A45	Relevance T9 2
+A46	Persuasiveness T10 2
+A47	Strength T10 2
+A48	Evidence T10 1
+A49	Eloquence T10 2
+A50	PremiseType T10 common_knowledge
+A51	Specificity T10 2
+A52	Relevance T10 2
+A53	Persuasiveness T11 3
+A54	Strength T11 3
+A55	Evidence T11 1
+A56	Eloquence T11 3
+A57	PremiseType T11 common_knowledge
+A58	Specificity T11 3
+A59	Relevance T11 2
+A60	Persuasiveness T17 3
+A61	Strength T17 3
+A62	Evidence T17 1
+A63	Eloquence T17 3
+A64	PremiseType T17 common_knowledge
+A65	Specificity T17 3
+A66	Relevance T17 5
+A67	Persuasiveness T16 2
+A68	Strength T16 2
+A69	Evidence T16 1
+A70	Eloquence T16 4
+A71	PremiseType T16 common_knowledge
+A72	Specificity T16 1
+A73	Relevance T16 4
+A74	Persuasiveness T15 3
+A75	Strength T15 3
+A76	Evidence T15 1
+A77	Eloquence T15 3
+A78	PremiseType T15 common_knowledge
+A79	Specificity T15 3
+A80	Relevance T15 4
+A81	Persuasiveness T13 4
+A82	Strength T13 4
+A83	Evidence T13 1
+A84	Eloquence T13 4
+A85	PremiseType T13 common_knowledge
+A86	Specificity T13 3
+A87	Relevance T13 4
+A88	Persuasiveness T14 4
+A89	Strength T14 4
+A90	Evidence T14 1
+A91	Eloquence T14 4
+A92	PremiseType T14 common_knowledge
+A93	Specificity T14 3
+A94	Relevance T14 5
+A95	Logos T2 no
+A96	Persuasiveness T2 2
+A97	ClaimType T2 Fact
+A98	Evidence T2 1
+A99	Eloquence T2 3
+A100	Specificity T2 2
+A101	Relevance T2 4
+A102	Ethos T2 no
+A103	Pathos T2 no
+A104	Logos T12 yes
+A105	Persuasiveness T12 4
+A106	ClaimType T12 Policy
+A107	Evidence T12 4
+A108	Eloquence T12 3
+A109	Specificity T12 2
+A110	Relevance T12 6
+A111	Ethos T12 no
+A112	Pathos T12 no
+A113	Eloquence T1 5
+A114	Logos T1 yes
+A115	Ethos T1 no
+A116	Pathos T1 no
+A117	Specificity T1 3
+A118	Logos T3 yes
+A119	Evidence T3 3
+A120	Relevance T3 4
+A121	Ethos T3 no
+A122	Pathos T3 no
+A123	Persuasiveness T3 3
+A124	ClaimType T3 Fact
+A125	Eloquence T3 3
+A126	Specificity T3 2
+A127	Persuasiveness T1 3
+A128	Evidence T1 3

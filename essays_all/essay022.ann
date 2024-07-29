@@ -1,0 +1,104 @@
+T1	MajorClaim 2029 2252	the benefits of learning in universities are the vital factor in creating more possibilities for the development of society through advancing academic fulfillment and the young generation who have experiences and challenges
+T2	Claim 1968 2027	higher education does not guarantee young students' success
+A1	Stance T2 Against
+T3	Claim 977 1118	it is a loss of national productivity that young people spend much time on searching for high salary jobs, even can be a sheer time-consuming
+A2	Stance T3 Against
+T4	Premise 618 771	there are numerous job opportunities for those who do not have the certification of university graduation, such as mechanics, sales persons, or engineers
+T5	Premise 791 831	labors for graduates are in short supply
+T6	Premise 848 960	the labor market for highly educated students is now too competitive to get a job after finishing their studying
+R1	supports Arg1:T6 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T4 Arg2:T3	
+T7	Claim 1201 1342	universities provide not only skills for careers, but also academic knowledge for the human race, such as bio science, politics, and medicine
+A3	Stance T7 For
+T8	Premise 1344 1408	These academic values are necessary to the progress of the world
+T9	Premise 1428 1552	many researches in the ivory-tower have created ingenious discoveries and achievements for the development of modern society
+T10	Premise 1605 1690	diverse experiences in the campus life can make the young generation more competently
+T11	Premise 1699 1812	there are a number of chances through internships, deeper discussion, independent life, and exchange scholarships
+R4	supports Arg1:T11 Arg2:T10	
+R5	supports Arg1:T10 Arg2:T7	
+R6	supports Arg1:T9 Arg2:T7	
+R7	supports Arg1:T8 Arg2:T7	
+A4	Eloquence T5 2
+A5	PremiseType T5 common_knowledge
+A6	Specificity T5 1
+A7	Relevance T5 3
+A8	Persuasiveness T5 2
+A9	Eloquence T4 3
+A10	PremiseType T4 common_knowledge
+A11	Specificity T4 3
+A12	Relevance T4 5
+A13	Persuasiveness T4 4
+A14	Eloquence T6 2
+A15	PremiseType T6 common_knowledge
+A16	Specificity T6 3
+A17	Relevance T6 4
+A18	Persuasiveness T6 3
+A19	Logos T3 yes
+A20	Ethos T3 no
+A21	Pathos T3 no
+A22	ClaimType T3 Fact
+A23	Eloquence T3 3
+A24	Persuasiveness T3 2
+A25	Evidence T3 2
+A26	Specificity T3 3
+A27	Relevance T3 3
+A28	Eloquence T8 3
+A29	PremiseType T8 common_knowledge
+A30	Specificity T8 1
+A31	Relevance T8 4
+A32	Persuasiveness T8 2
+A33	Eloquence T9 4
+A34	PremiseType T9 common_knowledge
+A35	Specificity T9 3
+A36	Relevance T9 5
+A37	Persuasiveness T9 4
+A38	Eloquence T10 3
+A39	PremiseType T10 common_knowledge
+A40	Eloquence T11 3
+A41	PremiseType T11 common_knowledge
+A42	Persuasiveness T2 1
+A43	ClaimType T2 Fact
+A44	Evidence T2 1
+A45	Eloquence T2 3
+A46	Specificity T2 2
+A47	Logos T2 no
+A48	Relevance T2 4
+A49	Ethos T2 no
+A50	Pathos T2 no
+A51	Specificity T10 2
+A52	Relevance T10 6
+A53	Persuasiveness T10 5
+A54	Relevance T11 6
+A55	Persuasiveness T11 5
+A56	Specificity T11 4
+A57	Ethos T7 no
+A58	Pathos T7 no
+A59	Logos T7 yes
+A60	ClaimType T7 Fact
+A61	Eloquence T7 4
+A62	Specificity T7 4
+A63	Persuasiveness T7 4
+A64	Evidence T7 4
+A65	Relevance T7 6
+A66	Eloquence T1 4
+A67	Logos T1 yes
+A68	Ethos T1 no
+A69	Pathos T1 no
+A70	Persuasiveness T1 3
+A71	Evidence T1 3
+A72	Specificity T1 3
+A73	Strength T4 4
+A74	Evidence T4 1
+A75	Strength T5 2
+A76	Evidence T5 1
+A77	Strength T6 3
+A78	Evidence T6 1
+A79	Strength T8 2
+A80	Evidence T8 1
+A81	Strength T9 4
+A82	Evidence T9 1
+A83	Strength T11 5
+A84	Evidence T11 1
+A85	Strength T10 5
+A86	Evidence T10 5

@@ -1,0 +1,156 @@
+T1	MajorClaim 444 515	giving those with no work a mobile phone each is a total waste of money
+T2	MajorClaim 2307 2460	providing those who are jobless with mobile phones that are accessible to internet is not a proper and the best way to trim down the rate of unemployment
+T3	Premise 546 684	when people without jobs have hand phones that have access to the Internet, they will be able to browse the net for more job opportunities
+T4	Claim 1081 1227	if the government provides those without work with a mobile phone, they will be able to find themselves an occupation in order to live and survive
+A2	Stance T4 Against
+T5	Premise 699 787	they can surf the The Star Onlines' work section to find a job that is suitable for them
+T6	Premise 789 947	With the help of the net, they can also do more research on the work that they have found apart from looking up on how they can prepare themselves for the job
+T7	Premise 964 1069	the mobile phones can also be used to make calls with the companies in which they would like to work with
+R4	supports Arg1:T5 Arg2:T4	
+R5	supports Arg1:T6 Arg2:T4	
+R6	supports Arg1:T7 Arg2:T4	
+T8	Claim 1276 1350	supplying hand phones to the unemployed is a waste of the taxpayers' money
+T9	Claim 1662 1753	the money can be used for other intentions rather than giving hand phones to the unemployed
+A4	Stance T9 For
+T10	Claim 1368 1485	the money instead of being used to supply the electronic gadget can be used for other useful purposes for the country
+T11	Premise 1515 1647	the money can be used to build more amenities for the public or given to the poor so that they can use it to help them earn a living
+R10	supports Arg1:T11 Arg2:T9	
+R11	supports Arg1:T10 Arg2:T9	
+T12	Claim 1768 1861	when hand phones are provided for free, many would want to take advantage of this opportunity
+A5	Stance T12 For
+T13	Premise 1863 1957	It will not be surprising that in order to obtain a mobile phone, they make themselves jobless
+T14	Premise 1959 2070	Some might even go to the extent of lying that they are on unemployment to make them eligible to get the phones
+T15	Claim 2089 2128	the public's money is spent worthlessly
+R13	supports Arg1:T14 Arg2:T15	
+R14	supports Arg1:T15 Arg2:T12	
+R15	supports Arg1:T13 Arg2:T12	
+T16	Claim 2146 2262	till now, there are no surveys or evidences that prove this method in effective in reducing the rate of unemployment
+A6	Stance T16 For
+R1	supports Arg1:T3 Arg2:T4	
+R2	supports Arg1:T8 Arg2:T9	
+A1	Eloquence T3 3
+A3	PremiseType T3 common_knowledge
+A7	Specificity T3 4
+A8	Relevance T3 6
+A9	Eloquence T5 3
+A10	PremiseType T5 common_knowledge
+A11	Specificity T5 5
+A12	Relevance T5 6
+A13	Persuasiveness T5 5
+A14	Persuasiveness T3 4
+A15	Eloquence T6 3
+A16	Relevance T6 6
+A17	Persuasiveness T6 4
+A18	PremiseType T6 common_knowledge
+A19	Specificity T6 3
+A20	Eloquence T7 3
+A21	Relevance T7 6
+A22	Persuasiveness T7 5
+A23	PremiseType T7 common_knowledge
+A24	Specificity T7 4
+A25	Evidence T4 5
+A26	Logos T4 yes
+A27	Persuasiveness T4 5
+A28	ClaimType T4 Fact
+A29	Eloquence T4 4
+A30	Specificity T4 2
+A31	Relevance T4 4
+A32	Ethos T4 no
+A33	Pathos T4 no
+A34	Eloquence T8 3
+A35	Relevance T8 6
+A36	Persuasiveness T8 2
+A38	Specificity T8 1
+A39	Eloquence T10 3
+A40	Relevance T10 6
+A41	Persuasiveness T10 2
+A43	Specificity T10 1
+A44	Eloquence T11 4
+A45	Relevance T11 6
+A46	Persuasiveness T11 4
+A47	PremiseType T11 common_knowledge
+A48	Specificity T11 3
+A49	Logos T9 yes
+A50	Persuasiveness T9 2
+A51	ClaimType T9 Fact
+A52	Evidence T9 2
+A53	Eloquence T9 4
+A54	Specificity T9 2
+A55	Relevance T9 6
+A56	Ethos T9 no
+A57	Pathos T9 no
+A58	Eloquence T14 4
+A59	PremiseType T14 common_knowledge
+A60	Specificity T14 4
+A61	Relevance T14 3
+A62	Persuasiveness T14 5
+A63	Eloquence T15 3
+A64	Relevance T15 4
+A66	Specificity T15 1
+A67	Persuasiveness T15 3
+A68	Eloquence T13 3
+A69	Relevance T13 5
+A70	Persuasiveness T13 4
+A71	PremiseType T13 invented_instance
+A72	Specificity T13 3
+A73	Logos T12 yes
+A74	Evidence T12 3
+A75	Specificity T12 2
+A76	Relevance T12 6
+A77	Ethos T12 no
+A78	Pathos T12 no
+A79	Persuasiveness T12 3
+A80	ClaimType T12 Fact
+A81	Eloquence T12 3
+A82	ClaimType T16 Fact
+A83	Logos T16 no
+A84	Persuasiveness T16 2
+A85	Evidence T16 1
+A86	Eloquence T16 3
+A87	Specificity T16 2
+A88	Relevance T16 6
+A89	Ethos T16 no
+A90	Pathos T16 no
+A91	Logos T2 yes
+A92	Ethos T2 no
+A93	Evidence T2 2
+A94	Persuasiveness T2 2
+A95	Eloquence T2 3
+A96	Specificity T2 2
+A97	Pathos T2 no
+A98	Logos T1 yes
+A99	Persuasiveness T1 2
+A100	Evidence T1 2
+A101	Eloquence T1 3
+A102	Specificity T1 2
+A103	Ethos T1 no
+A104	Pathos T1 no
+A105	Strength T3 4
+A106	Evidence T3 1
+A107	Strength T5 5
+A108	Evidence T5 1
+A109	Strength T6 4
+A110	Evidence T6 1
+A111	Strength T7 5
+A112	Evidence T7 1
+A37	Logos T8 no
+A113	Evidence T8 1
+A114	Ethos T8 no
+A115	Pathos T8 no
+A116	ClaimType T8 Value
+A117	Strength T11 4
+A118	Evidence T11 1
+A119	Strength T13 4
+A120	Evidence T13 1
+A121	Strength T14 5
+A122	Evidence T14 1
+A65	Logos T15 yes
+A123	ClaimType T15 Fact
+A124	Ethos T15 no
+A125	Pathos T15 no
+A126	Evidence T15 3
+A128	Evidence T10 1
+A42	Logos T10 no
+A127	ClaimType T10 Value
+A129	Ethos T10 no
+A130	Pathos T10 no

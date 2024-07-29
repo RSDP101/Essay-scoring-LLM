@@ -1,0 +1,95 @@
+T1	MajorClaim 352 475	it has contributed to the economic development as well as preserved the culture and environment of the tourist destinations
+T2	MajorClaim 1568 1701	international tourism has both triggered economic development and maintained cultural and environment values of the tourist countries
+T3	Claim 955 1012	tourism has clearly improved lives in the tourist country
+A1	Stance T3 For
+T4	Premise 487 613	international tourism promotes many aspects of the destination country’s economy in order to serve various demands of tourists
+T5	Premise 615 784	Take Cambodia for example, a large number of visitors coming to visit the Angkowat ancient temple need services like restaurants, hotels, souvenir shops and other stores
+T6	Premise 786 943	These demands trigger related business in the surrounding settings which in turn create many jobs for local people improve infrastructure and living standard
+T7	Premise 1024 1135	through tourism industry, many cultural values have been preserved and natural environments have been protected
+T8	Claim 1454 1526	tourism has survived many non-tangible cultural values and beauty scenes
+A3	Stance T8 For
+T9	Premise 1151 1329	in Vietnam, many cultural costumes and natural scenes, namely ‘Trong Dong’ drum performance and ‘Ha Long’ bay, are being encouraged to preserve and funded by the tourism ministry
+T10	Claim 1331 1446	Without this support and profit from tourism, many traditional cultures would disappear due to its low income works
+R6	supports Arg1:T10 Arg2:T8	
+R7	supports Arg1:T9 Arg2:T8	
+R3	supports Arg1:T6 Arg2:T3	
+R9	supports Arg1:T5 Arg2:T3	
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T7 Arg2:T8	
+A2	Eloquence T4 4
+A4	Relevance T4 6
+A5	Persuasiveness T4 6
+A6	PremiseType T4 warrant
+A7	Specificity T4 4
+A8	Eloquence T5 3
+A9	Relevance T5 6
+A10	Persuasiveness T5 6
+A11	PremiseType T5 real_example
+A12	Specificity T5 5
+A13	Eloquence T6 4
+A14	Relevance T6 6
+A15	Persuasiveness T6 6
+A16	PremiseType T6 common_knowledge
+A17	Specificity T6 4
+A18	Logos T3 yes
+A19	Persuasiveness T3 6
+A20	ClaimType T3 Fact
+A21	Evidence T3 6
+A22	Eloquence T3 3
+A23	Specificity T3 2
+A24	Relevance T3 5
+A25	Ethos T3 no
+A26	Pathos T3 no
+A27	Eloquence T9 5
+A28	Relevance T9 6
+A29	Persuasiveness T9 6
+A30	PremiseType T9 real_example
+A31	Specificity T9 5
+A32	Eloquence T10 3
+A33	Relevance T10 5
+A34	Persuasiveness T10 2
+A36	Specificity T10 1
+A37	Eloquence T7 4
+A38	Relevance T7 5
+A39	Persuasiveness T7 4
+A40	PremiseType T7 common_knowledge
+A41	Specificity T7 3
+A42	Logos T8 yes
+A43	Persuasiveness T8 5
+A44	ClaimType T8 Fact
+A45	Evidence T8 4
+A46	Eloquence T8 3
+A47	Specificity T8 4
+A48	Relevance T8 6
+A49	Ethos T8 no
+A50	Pathos T8 no
+A51	Eloquence T2 4
+A52	Specificity T2 4
+A53	Logos T2 yes
+A54	Persuasiveness T2 5
+A55	Evidence T2 5
+A56	Ethos T2 no
+A57	Pathos T2 no
+A58	Logos T1 yes
+A59	Persuasiveness T1 5
+A60	Evidence T1 5
+A61	Eloquence T1 4
+A62	Specificity T1 4
+A63	Ethos T1 no
+A64	Pathos T1 no
+A65	Strength T4 6
+A66	Evidence T4 1
+A67	Strength T5 6
+A68	Evidence T5 1
+A69	Strength T6 6
+A70	Evidence T6 1
+A71	Strength T7 4
+A72	Evidence T7 1
+A73	Strength T9 6
+A74	Evidence T9 1
+A35	Evidence T10 1
+A75	Logos T10 no
+A76	ClaimType T10 Fact
+A77	Ethos T10 no
+A78	Pathos T10 no
+#1	AnnotatorNotes T10	slippery slope

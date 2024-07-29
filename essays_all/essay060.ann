@@ -1,0 +1,178 @@
+T1	MajorClaim 267 345	a break of one year is good for young people after finishing their high school
+T2	MajorClaim 2104 2205	a break should be necessarily allowed to young minds between their high school and university studies
+T3	Claim 2009 2096	the sole purpose of education is to nurture a young mind and not thrust studies on them
+A1	Stance T3 For
+T4	Claim 648 750	a break will give students some time to refresh their systems, by traveling or following their hobbies
+A2	Stance T4 For
+T5	Claim 765 890	when students start their university studies after a break, they will feel fresh and full of energy to take the new challenge
+T6	Claim 443 521	A relaxation of one year to young minds will give them a quintessential change
+T7	Claim 523 634	A continuous study pressure for over 10 years makes the mind saturated and like a robot, to follow instructions
+R1	supports Arg1:T6 Arg2:T4	
+R2	supports Arg1:T7 Arg2:T4	
+R3	supports Arg1:T5 Arg2:T4	
+T8	Claim 1000 1100	Working or traveling for some time, after high school, can help them to find their field of interest
+A3	Stance T8 For
+T9	Premise 1102 1163	It will also help them to learn professional setup by working
+T10	Premise 1165 1263	Financially, students can save a little money to support their university education by doing a job
+T11	Premise 1265 1352	Some students even utilize this time for preparation of their desired university course
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T10 Arg2:T8	
+T12	Claim 1393 1456	A break can disturb the focus of students and prove detrimental
+A4	Stance T12 Against
+T13	Premise 1765 1830	Students can also indulge in smoking or drinking during this time
+T14	Claim 1458 1598	When students work during these breaks, the feel of money gives them an illusion that such salary is enough for them and they go in a utopia
+T15	Premise 1614 1702	my cousin started working in a customer care centre after high school and got distracted
+R6	supports Arg1:T15 Arg2:T14	
+R7	supports Arg1:T14 Arg2:T12	
+T16	Premise 1704 1763	When he started his university studies, he failed miserably
+R8	supports Arg1:T16 Arg2:T14	
+R9	supports Arg1:T13 Arg2:T12	
+T17	Claim 1947 1994	A break gives students more benefits than harms
+R10	attacks Arg1:T17 Arg2:T12	
+T18	Premise 1876 1945	It varies from individual to individual, how they utilize that period
+R11	attacks Arg1:T18 Arg2:T12	
+R12	supports Arg1:T11 Arg2:T8	
+A5	Logos T7 no
+A6	Persuasiveness T7 2
+A7	ClaimType T7 Fact
+A8	Evidence T7 2
+A9	Eloquence T7 4
+A10	Specificity T7 2
+A11	Relevance T7 5
+A12	Ethos T7 no
+A13	Pathos T7 no
+A14	Logos T6 no
+A15	Persuasiveness T6 2
+A16	ClaimType T6 Value
+A17	Evidence T6 1
+A18	Eloquence T6 3
+A19	Specificity T6 1
+A20	Relevance T6 4
+A21	Ethos T6 no
+A22	Pathos T6 no
+A23	Logos T5 no
+A24	Persuasiveness T5 2
+A25	ClaimType T5 Fact
+A26	Evidence T5 1
+A27	Eloquence T5 3
+A28	Specificity T5 2
+A29	Relevance T5 6
+A30	Ethos T5 no
+A31	Pathos T5 no
+A32	Logos T4 no
+A33	Evidence T4 2
+A34	Specificity T4 2
+A35	Relevance T4 5
+A36	Ethos T4 no
+A37	Pathos T4 no
+A38	Persuasiveness T4 2
+A39	ClaimType T4 Fact
+A40	Eloquence T4 3
+A41	Logos T3 no
+A42	Persuasiveness T3 2
+A43	ClaimType T3 Fact
+A44	Evidence T3 1
+A45	Eloquence T3 4
+A46	Specificity T3 2
+A47	Relevance T3 2
+A48	Ethos T3 no
+A49	Pathos T3 no
+A50	Persuasiveness T9 2
+A51	Strength T9 2
+A52	Evidence T9 1
+A53	Eloquence T9 2
+A54	PremiseType T9 common_knowledge
+A55	Specificity T9 2
+A56	Relevance T9 2
+A57	Persuasiveness T10 1
+A58	Strength T10 1
+A59	Evidence T10 1
+A60	Eloquence T10 3
+A61	PremiseType T10 common_knowledge
+A62	Specificity T10 3
+A63	Relevance T10 2
+A64	Persuasiveness T11 1
+A65	Strength T11 1
+A66	Evidence T11 1
+A67	Eloquence T11 2
+A68	PremiseType T11 real_example
+A69	Specificity T11 2
+A70	Relevance T11 2
+A71	Logos T8 yes
+A72	Persuasiveness T8 2
+A73	ClaimType T8 Fact
+A74	Evidence T8 2
+A75	Eloquence T8 3
+A76	Specificity T8 2
+A77	Relevance T8 4
+A78	Ethos T8 no
+A79	Pathos T8 no
+A80	PremiseType T15 real_example
+A81	Persuasiveness T16 4
+A82	Strength T16 4
+A83	Evidence T16 1
+A84	Eloquence T16 3
+A85	PremiseType T16 real_example
+A86	Specificity T16 3
+A87	Relevance T16 4
+A88	Persuasiveness T15 4
+A89	Strength T15 4
+A90	Evidence T15 1
+A91	Eloquence T15 3
+A92	Specificity T15 3
+A93	Relevance T15 4
+A94	Logos T14 yes
+A95	Persuasiveness T14 3
+A96	ClaimType T14 Fact
+A97	Evidence T14 4
+A98	Eloquence T14 2
+A99	Specificity T14 3
+A100	Relevance T14 5
+A101	Ethos T14 no
+A102	Pathos T14 no
+A103	Persuasiveness T13 3
+A104	Strength T13 3
+A105	Evidence T13 1
+A106	Eloquence T13 3
+A107	PremiseType T13 common_knowledge
+A108	Specificity T13 2
+A109	Relevance T13 5
+A110	Persuasiveness T18 3
+A111	Strength T18 3
+A112	Evidence T18 1
+A113	Eloquence T18 4
+A114	PremiseType T18 definition
+A115	Specificity T18 2
+A116	Relevance T18 4
+A117	Logos T17 no
+A118	Persuasiveness T17 2
+A119	ClaimType T17 Value
+A120	Evidence T17 1
+A121	Eloquence T17 3
+A122	Specificity T17 1
+A123	Relevance T17 5
+A124	Ethos T17 no
+A125	Pathos T17 no
+A126	Logos T12 yes
+A127	Persuasiveness T12 3
+A128	ClaimType T12 Fact
+A129	Evidence T12 3
+A130	Eloquence T12 4
+A131	Specificity T12 2
+A132	Relevance T12 6
+A133	Ethos T12 no
+A134	Pathos T12 no
+A135	Logos T1 yes
+A136	Persuasiveness T1 2
+A137	Evidence T1 2
+A138	Specificity T1 2
+A139	Ethos T1 no
+A140	Pathos T1 no
+A141	Logos T2 yes
+A142	Persuasiveness T2 2
+A143	Evidence T2 2
+A144	Eloquence T2 4
+A145	Specificity T2 2
+A146	Ethos T2 no
+A147	Pathos T2 no
+A148	Eloquence T1 3

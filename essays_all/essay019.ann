@@ -1,0 +1,164 @@
+T1	MajorClaim 1624 1689	for the young adults it will be better to live with their parents
+T2	Claim 246 318	their lives are going to be more difficult, when they are away from home
+A1	Stance T2 For
+T3	Premise 320 356	They will have to pay a lot of bills
+T4	Premise 366 525	they will have to find a lodging or at least a place where to live and in order to have less expenses they will have to find a co-tenant, who they may not like
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T4 Arg2:T2	
+T5	Claim 1731 1831	They will not need to worry about financial problems or if they will get on well with their roommate
+A2	Stance T5 For
+T6	Claim 528 596	Living in their own houses will save the young adults a lot of money
+A3	Stance T6 For
+T7	Premise 598 710	If they live separate from their parents they will have to pay for a loan, electricity, water or even for a meal
+T8	Premise 712 791	If the young adults still study they will have to combine studying with working
+T9	Premise 801 847	they will not have money to pay for everything
+T10	Premise 849 920	There will not be such worries when young adults live in their own home
+T11	Premise 930 961	parents will take care for them
+T12	Premise 973 1051	parents will give their children money in order they to focus only on studying
+R3	supports Arg1:T11 Arg2:T10	
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T7 Arg2:T6	
+R6	supports Arg1:T12 Arg2:T6	
+R7	supports Arg1:T10 Arg2:T6	
+R8	supports Arg1:T8 Arg2:T6	
+T13	Claim 1053 1149	Another problem that the young adults may encounter is to find a co-tenant, who they do not like
+A4	Stance T13 For
+T14	Premise 1151 1323	His habits may be totally different from theirs, his behavior may be inappropriate, but they will have to live with him or even share a room, in order to have less expenses
+T15	Premise 1325 1393	Living with such a person may be a huge problem for the young adults
+T16	Claim 1395 1506	When the co-tenant do not share their interests and points of view, they will not be able to ask him for advice
+T17	Claim 1521 1593	they are most likely to quarrel every day, instead of to help each other
+R9	supports Arg1:T14 Arg2:T13	
+R10	supports Arg1:T15 Arg2:T13	
+R11	supports Arg1:T16 Arg2:T13	
+R12	supports Arg1:T17 Arg2:T13	
+A5	Eloquence T3 3
+A6	Relevance T3 4
+A7	Persuasiveness T3 3
+A8	PremiseType T3 common_knowledge
+A9	Specificity T3 1
+A10	Eloquence T4 3
+A11	Specificity T4 5
+A12	Relevance T4 6
+A13	Persuasiveness T4 5
+A14	PremiseType T4 common_knowledge
+A15	Logos T2 yes
+A16	ClaimType T2 Fact
+A17	Eloquence T2 3
+A18	Specificity T2 3
+A19	Ethos T2 no
+A20	Pathos T2 no
+A21	Relevance T2 6
+A22	Persuasiveness T2 3
+A23	Evidence T2 3
+A24	Eloquence T7 3
+A25	Relevance T7 5
+A26	Persuasiveness T7 4
+A27	PremiseType T7 common_knowledge
+A28	Specificity T7 4
+A29	Eloquence T8 3
+A30	Relevance T8 6
+A31	Persuasiveness T8 4
+A32	PremiseType T8 common_knowledge
+A33	Specificity T8 3
+A34	Eloquence T9 3
+A35	Relevance T9 4
+A36	Persuasiveness T9 3
+A37	PremiseType T9 common_knowledge
+A38	Specificity T9 1
+A39	Eloquence T10 3
+A40	PremiseType T10 common_knowledge
+A41	Relevance T10 6
+A42	Persuasiveness T10 4
+A43	Specificity T10 2
+A44	Eloquence T11 3
+A45	Relevance T11 4
+A46	Persuasiveness T11 3
+A47	PremiseType T11 common_knowledge
+A48	Specificity T11 1
+A49	Eloquence T12 3
+A50	Logos T5 no
+A51	Ethos T5 no
+A52	Pathos T5 no
+A53	Evidence T5 1
+A54	Specificity T12 3
+A55	PremiseType T12 common_knowledge
+A56	Relevance T12 5
+A57	Persuasiveness T12 3
+A58	Ethos T6 no
+A59	Logos T6 yes
+A60	Persuasiveness T6 4
+A61	ClaimType T6 Fact
+A62	Evidence T6 4
+A63	Eloquence T6 3
+A64	Pathos T6 no
+A65	Specificity T6 4
+A66	Relevance T6 6
+A67	Eloquence T14 3
+A68	Relevance T14 6
+A69	PremiseType T14 common_knowledge
+A70	Persuasiveness T14 5
+A71	Specificity T14 5
+A72	Eloquence T17 3
+A73	PremiseType T15 warrant
+A74	Eloquence T15 3
+A75	Relevance T15 6
+A76	Persuasiveness T15 3
+A77	Specificity T15 2
+A78	Eloquence T16 3
+A79	Relevance T16 6
+A82	Specificity T17 2
+A83	Relevance T17 4
+A84	Persuasiveness T17 1
+A85	Persuasiveness T16 1
+A86	Specificity T16 3
+A87	Persuasiveness T5 2
+A88	Eloquence T5 3
+A89	Specificity T5 2
+A90	Relevance T5 5
+A91	ClaimType T5 Fact
+A92	Logos T13 yes
+A93	Ethos T13 no
+A94	ClaimType T13 Fact
+A95	Pathos T13 no
+A96	Eloquence T13 3
+A97	Specificity T13 3
+A98	Relevance T13 6
+A99	Persuasiveness T13 4
+A100	Evidence T13 4
+A101	Eloquence T1 3
+A102	Logos T1 yes
+A103	Ethos T1 no
+A104	Pathos T1 no
+A105	Specificity T1 3
+A106	Persuasiveness T1 4
+A107	Evidence T1 4
+A108	Strength T3 3
+A109	Evidence T3 1
+A110	Strength T4 5
+A111	Evidence T4 1
+A112	Strength T7 4
+A113	Evidence T7 1
+A114	Strength T11 3
+A115	Evidence T11 1
+A116	Strength T10 4
+A117	Evidence T10 2
+A118	Strength T9 3
+A119	Evidence T9 1
+A120	Strength T8 4
+A121	Evidence T8 2
+A122	Strength T15 3
+A123	Evidence T15 1
+A124	Strength T14 5
+A125	Evidence T14 1
+A126	Strength T12 3
+A127	Evidence T12 1
+A80	Logos T16 no
+A81	ClaimType T16 Fact
+A128	Evidence T16 1
+A129	Ethos T16 no
+A130	Pathos T16 no
+A131	Logos T17 no
+A132	ClaimType T17 Fact
+A133	Evidence T17 1
+A134	Ethos T17 no
+A135	Pathos T17 no

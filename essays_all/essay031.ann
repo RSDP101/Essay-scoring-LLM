@@ -1,0 +1,190 @@
+T1	MajorClaim 358 464	alternative means of transportation and international laws in controlling automobiles should be introduced
+T2	MajorClaim 2393 2565	alternative forms of transport and international laws on controlling automobiles are necessary due to the environmental protection and the alleviation of traffic congestion
+T3	Claim 2325 2372	some people claim the convenience of automobile
+A1	Stance T3 Against
+T4	Claim 822 933	it is crucial to alter automobiles to the other means of transportation and to legislate to control automobiles
+A2	Stance T4 For
+T5	Premise 561 638	an increase in the number of automobiles brings about environmental pollution
+T6	Premise 646 721	automobile exhaust and carbon dioxides emission have bad impacts on the air
+T7	Premise 723 809	the air gets to be polluted and it causes respiratory disease of the local inhabitants
+R1	supports Arg1:T6 Arg2:T7	
+R2	supports Arg1:T7 Arg2:T4	
+R3	supports Arg1:T5 Arg2:T4	
+T8	Claim 1221 1351	the methods to reduce the number of automobiles and to control car ownership and use should be immediately planned and implemented
+A3	Stance T8 For
+T9	Premise 945 1020	an increase in the number of automobiles causes terrible traffic congestion
+T10	Premise 1022 1098	Once we get into the traffic jam, it forces us to waste our time for a while
+T11	Claim 1115 1213	traffic congestion irritates drivers and as a result, it leads to an increase of traffic accidents
+R4	supports Arg1:T11 Arg2:T8	
+R5	supports Arg1:T10 Arg2:T8	
+R6	supports Arg1:T9 Arg2:T8	
+T12	Premise 1536 1623	alternative forms which emit less carbon dioxides and gasses than automobiles are ideal
+T13	Premise 1638 1709	rental bicycle system has been introduced in several European countries
+T14	Premise 1711 1860	This system is that at the corner of each district, the rental bicycles are placed and the people can ride it to the other districts with a small fee
+T15	Premise 1868 1925	bicycle expels neither carbon dioxides nor harmful gasses
+T16	Premise 1927 1985	it is a better form to protect environment than automobile
+R7	supports Arg1:T15 Arg2:T16	
+T17	Claim 1387 1507	alternative forms of transportation and international laws to control automobiles ownership and use can work effectively
+A4	Stance T17 For
+T18	Premise 2207 2299	these attempts to reduce automobiles can ease traffic congestion and environmental pollution
+R8	supports Arg1:T13 Arg2:T12	
+R9	supports Arg1:T14 Arg2:T12	
+R10	supports Arg1:T16 Arg2:T12	
+T19	Claim 2012 2072	the introduction of international laws can be also effective
+T20	Premise 2088 2199	there are some regulations to limit the use of automobiles by time and to allow the people possess one car only
+R11	supports Arg1:T20 Arg2:T19	
+R13	supports Arg1:T19 Arg2:T17	
+R14	supports Arg1:T12 Arg2:T17	
+R12	supports Arg1:T18 Arg2:T19	
+A5	Logos T3 no
+A6	Persuasiveness T3 1
+A7	ClaimType T3 Fact
+A8	Evidence T3 1
+A9	Eloquence T3 3
+A10	Specificity T3 2
+A11	Relevance T3 4
+A12	Ethos T3 no
+A13	Pathos T3 no
+A14	Eloquence T5 3
+A15	Relevance T5 6
+A16	PremiseType T5 common_knowledge
+A17	Specificity T5 3
+A18	Persuasiveness T5 4
+A19	Eloquence T6 3
+A20	PremiseType T6 common_knowledge
+A21	Specificity T6 3
+A22	Relevance T6 4
+A23	Persuasiveness T6 3
+A24	Eloquence T7 3
+A25	PremiseType T7 common_knowledge
+A26	Specificity T7 3
+A27	Relevance T7 6
+A28	Persuasiveness T7 4
+A29	Logos T4 yes
+A30	ClaimType T4 Fact
+A31	Eloquence T4 3
+A32	Ethos T4 no
+A33	Pathos T4 no
+A34	Specificity T4 1
+A35	Persuasiveness T4 4
+A36	Evidence T4 4
+A37	Relevance T4 6
+A38	Eloquence T9 3
+A39	Relevance T9 6
+A40	Persuasiveness T9 4
+A41	PremiseType T9 common_knowledge
+A42	Specificity T9 3
+A43	Eloquence T10 3
+A44	Relevance T10 3
+A45	Persuasiveness T10 3
+A46	PremiseType T10 common_knowledge
+A47	Specificity T10 2
+A48	Eloquence T11 3
+A50	Specificity T11 3
+A51	Relevance T11 5
+A52	Persuasiveness T11 1
+A53	Logos T8 yes
+A54	Eloquence T8 4
+A55	Specificity T8 4
+A56	Ethos T8 no
+A57	Pathos T8 no
+A58	ClaimType T8 Fact
+A59	Relevance T8 6
+A60	Evidence T8 3
+A61	Persuasiveness T8 3
+A62	Eloquence T12 3
+A63	Relevance T12 6
+A64	Persuasiveness T12 6
+A65	PremiseType T12 common_knowledge
+A66	Specificity T12 3
+A67	Eloquence T13 3
+A68	Relevance T13 6
+A69	Persuasiveness T13 4
+A70	PremiseType T13 real_example
+A71	Specificity T13 3
+A72	Eloquence T14 4
+A73	Relevance T14 6
+A74	Persuasiveness T14 5
+A75	PremiseType T14 real_example
+A76	Specificity T14 5
+A77	Eloquence T15 3
+A78	PremiseType T15 common_knowledge
+A79	Specificity T15 3
+A80	PremiseType T16 warrant
+A81	Relevance T15 4
+A82	Persuasiveness T15 3
+A83	Eloquence T16 3
+A84	Relevance T16 5
+A85	Specificity T16 2
+A86	Persuasiveness T16 5
+A87	Eloquence T19 3
+A88	Relevance T19 6
+A89	Persuasiveness T19 5
+A91	Specificity T19 2
+A92	PremiseType T20 invented_instance
+A93	Eloquence T20 3
+A94	Relevance T20 5
+A95	Persuasiveness T20 4
+A96	Specificity T20 4
+A97	Eloquence T18 3
+A98	Relevance T18 6
+A99	Persuasiveness T18 4
+A100	PremiseType T18 invented_instance
+A101	Specificity T18 3
+A102	Logos T17 yes
+A103	Persuasiveness T17 6
+A104	ClaimType T17 Policy
+A105	Evidence T17 6
+A106	Eloquence T17 4
+A107	Specificity T17 5
+A108	Relevance T17 6
+A109	Ethos T17 no
+A110	Pathos T17 no
+A111	Eloquence T2 4
+A112	Logos T2 yes
+A113	Ethos T2 no
+A114	Pathos T2 no
+A115	Eloquence T1 3
+A116	Logos T1 yes
+A117	Ethos T1 no
+A118	Pathos T1 no
+A119	Specificity T1 3
+A120	Persuasiveness T2 5
+A121	Evidence T2 5
+A122	Specificity T2 5
+A123	Persuasiveness T1 5
+A124	Evidence T1 5
+A125	Strength T5 4
+A126	Evidence T5 1
+A127	Strength T6 3
+A128	Evidence T6 1
+A129	Strength T7 4
+A130	Evidence T7 1
+A131	Strength T9 4
+A132	Evidence T9 1
+A133	Strength T10 3
+A134	Evidence T10 1
+A135	Strength T13 4
+A136	Evidence T13 1
+A137	Strength T14 5
+A138	Evidence T14 1
+A139	Strength T15 3
+A140	Evidence T15 1
+A141	Strength T20 4
+A142	Evidence T20 1
+A143	Strength T18 4
+A144	Evidence T18 1
+A49	Logos T11 no
+A145	Evidence T11 1
+A146	Ethos T11 no
+A147	Pathos T11 no
+A148	ClaimType T11 Fact
+A90	Logos T19 yes
+A149	ClaimType T19 Policy
+A150	Evidence T19 5
+A151	Ethos T19 no
+A152	Pathos T19 no
+A153	Strength T16 5
+A154	Evidence T16 3
+A155	Strength T12 6
+A156	Evidence T12 6

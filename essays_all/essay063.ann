@@ -1,0 +1,166 @@
+T1	MajorClaim 271 323	people are likely to spend less time in cooking food
+T2	MajorClaim 2788 2831	people will spend less time in cooking food
+T3	Claim 1119 1205	it is certain that spending less time on cooking will be the main trend in near future
+A1	Stance T3 For
+T4	Premise 717 829	people nowadays just spend one hour to prepare a meal instead of two, even three hours like in the last 10 years
+T5	Premise 468 702	with the development of science and technology, more advanced kitchen facilities, such as the modern microwaves or the advanced pressure cookers, have been created and invented to help people prepare and cook food in a very short time
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 841 1016	in recent years, there was a significant increase in the number of people from all walks of life realizing this valuable benefit of those technologies in doing their housework
+T7	Premise 1018 1111	And this figure still continuously go up along with the improvement of science and technology
+R2	supports Arg1:T7 Arg2:T3	
+R3	supports Arg1:T6 Arg2:T3	
+R4	supports Arg1:T4 Arg2:T3	
+T8	Premise 1646 1700	they find hard to have time to prepare and cook a meal
+T9	Premise 1401 1638	89% of people have come to think that, since they have been put in the situation which is filled with competitions and pressures, they have to use a lot of time to work hard, to update themselves, to acquire all kinds of skills and so on
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1230 1286	most of young people prefer to have meals at restaurants
+A2	Stance T10 For
+T11	Premise 1702 1822	Even they have some spare time, they prefer to go out with friends to relax and relieve the pressure from work and study
+R6	supports Arg1:T8 Arg2:T10	
+R7	supports Arg1:T11 Arg2:T10	
+T12	Premise 2478 2576	it is quite easy to have a nutritious meal with guaranteed quality, but do not waste a lot of time
+T13	Claim 1851 1955	investing much time in cooking food will guarantee nutrition as well as quality of food for their family
+T14	Premise 1994 2102	as a matter of fact, using technology or advanced facilities do not make food lose its nutrition and quality
+T15	Premise 2245 2281	health and life of eaters is assured
+T16	Premise 2104 2238	Even, with the help of ozone machines, bacterias, mold spores, or pesticide in vegetables, fruits and foods will be killed and removed
+R8	supports Arg1:T16 Arg2:T15	
+T17	Premise 2292 2462	along with the high living standard, requirements of quality products in almost restaurants, nowadays, are under severe control and supervision by appropriate authorities
+R9	supports Arg1:T14 Arg2:T12	
+R10	supports Arg1:T17 Arg2:T12	
+R11	supports Arg1:T15 Arg2:T12	
+A4	Stance T13 Against
+R12	attacks Arg1:T12 Arg2:T13	
+T18	Premise 1295 1369	they want to invest more time in their work or study to improve themselves
+R13	supports Arg1:T18 Arg2:T10	
+A3	Eloquence T5 5
+A5	PremiseType T5 common_knowledge
+A6	Specificity T5 5
+A7	Relevance T5 6
+A8	Persuasiveness T5 6
+A9	Eloquence T4 3
+A10	PremiseType T4 common_knowledge
+A11	Specificity T4 5
+A12	Relevance T4 4
+A13	Persuasiveness T4 6
+A14	Eloquence T6 5
+A15	PremiseType T6 statistics
+A16	Specificity T6 4
+A17	Relevance T6 4
+A18	Persuasiveness T6 5
+A19	Eloquence T7 3
+A20	PremiseType T7 statistics
+A21	Specificity T7 3
+A22	Relevance T7 4
+A23	Persuasiveness T7 4
+A24	Logos T3 yes
+A25	Evidence T3 5
+A26	Specificity T3 3
+A27	Ethos T3 no
+A28	Pathos T3 no
+A29	Persuasiveness T3 5
+A30	ClaimType T3 Fact
+A31	Eloquence T3 3
+A32	Relevance T3 6
+A33	Eloquence T18 3
+A34	Relevance T18 5
+A35	Persuasiveness T18 3
+A36	PremiseType T18 common_knowledge
+A37	Specificity T18 2
+A38	Eloquence T9 5
+A39	PremiseType T9 statistics
+A40	Specificity T9 5
+A41	Relevance T9 5
+A42	Persuasiveness T9 6
+A43	Eloquence T8 2
+A44	Relevance T8 4
+A45	Persuasiveness T8 6
+A46	PremiseType T8 common_knowledge
+A47	Specificity T8 2
+A48	Eloquence T11 3
+A49	PremiseType T11 common_knowledge
+A50	Specificity T11 3
+A51	Relevance T11 5
+A52	Persuasiveness T11 4
+A53	Logos T10 yes
+A54	Ethos T10 no
+A55	Pathos T10 no
+A56	Evidence T10 5
+A57	Persuasiveness T10 5
+A58	ClaimType T10 Fact
+A59	Eloquence T10 3
+A60	Specificity T10 2
+A61	Relevance T10 4
+A62	Eloquence T14 2
+A63	Relevance T14 6
+A64	Persuasiveness T14 4
+A65	PremiseType T14 common_knowledge
+A66	Specificity T14 3
+A67	Eloquence T16 2
+A68	PremiseType T16 common_knowledge
+A69	Specificity T16 4
+A70	Eloquence T15 2
+A71	PremiseType T15 common_knowledge
+A72	Specificity T15 2
+A73	Relevance T15 5
+A74	Relevance T16 5
+A75	Persuasiveness T16 4
+A76	Persuasiveness T15 4
+A77	Eloquence T17 4
+A78	PremiseType T17 common_knowledge
+A79	Specificity T17 4
+A80	Relevance T17 6
+A81	Persuasiveness T17 5
+A82	Eloquence T12 4
+A83	Relevance T12 6
+A84	Persuasiveness T12 6
+A85	PremiseType T12 common_knowledge
+A86	Specificity T12 3
+A87	Logos T13 no
+A88	Persuasiveness T13 2
+A89	ClaimType T13 Fact
+A90	Evidence T13 2
+A91	Eloquence T13 3
+A92	Specificity T13 2
+A93	Relevance T13 6
+A94	Ethos T13 no
+A95	Pathos T13 no
+A96	Logos T2 yes
+A97	Persuasiveness T2 6
+A98	Evidence T2 6
+A99	Eloquence T2 3
+A100	Specificity T2 2
+A101	Ethos T2 no
+A102	Pathos T2 no
+A103	Logos T1 yes
+A104	Persuasiveness T1 6
+A105	Evidence T1 6
+A106	Eloquence T1 3
+A107	Specificity T1 3
+A108	Ethos T1 no
+A109	Pathos T1 no
+A110	Strength T5 6
+A111	Evidence T5 1
+A112	Strength T6 5
+A113	Evidence T6 1
+A114	Strength T7 4
+A115	Evidence T7 1
+A116	Strength T4 6
+A117	Evidence T4 5
+A118	Strength T18 3
+A119	Evidence T18 1
+A120	Strength T9 6
+A121	Evidence T9 1
+A122	Strength T11 4
+A123	Evidence T11 1
+A124	Strength T8 2
+A125	Evidence T8 6
+A126	Strength T14 4
+A127	Evidence T14 1
+A128	Strength T16 4
+A129	Evidence T16 1
+A130	Strength T17 5
+A131	Evidence T17 1
+A132	Strength T15 2
+A133	Evidence T15 4
+A134	Strength T12 2
+A135	Evidence T12 6

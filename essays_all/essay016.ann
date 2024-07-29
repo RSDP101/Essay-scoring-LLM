@@ -1,0 +1,125 @@
+T1	Claim 1530 1577	there is some disadvantages of animals' profits
+A1	Stance T1 Against
+T2	MajorClaim 1579 1639	the merits of animal experiments still outweigh the demerits
+T3	MajorClaim 320 447	it is a dramatically cruel activity to humanity if the latest foods or medicines are allowed to sold without testing on animals
+T5	Claim 800 876	doing this various testing is a hazard of human's future and next generation
+A3	Stance T5 Against
+T4	Premise 540 581	animals are friendly and vital for people
+T6	Premise 591 703	if there are no animals in the world, the balance of nature will broke down, and we, human, will die out as well
+R1	supports Arg1:T6 Arg2:T4	
+T7	Premise 705 782	The animal experiments accelerate the vanishing of some categories of animals
+R2	supports Arg1:T4 Arg2:T5	
+R3	supports Arg1:T7 Arg2:T5	
+T8	Premise 885 947	animal experiments have negative impact on the natural balance
+T9	Claim 949 1010	it is necessary to make sure that people can live a long life
+T10	Claim 1027 1219	it is indisputable that every new kind food or pill may be noxious, and scientists must do something to insure that the new invention benefits people instead of making people ill or even dying
+T11	Premise 1221 1300	The new foods or medicines are invented to promote the quantity of human's life
+T12	Claim 1307 1408	even if they are volunteers; they cannot take the place of animals to test the new foods or medicines
+T13	Premise 1423 1491	it also have potentially harm for human's health without any testing
+A4	Stance T10 For
+R4	supports Arg1:T11 Arg2:T10	
+R5	attacks Arg1:T9 Arg2:T8	
+R6	attacks Arg1:T8 Arg2:T10	
+R7	supports Arg1:T13 Arg2:T10	
+R8	supports Arg1:T12 Arg2:T10	
+A2	Eloquence T4 2
+A5	PremiseType T4 common_knowledge
+A6	Specificity T4 1
+A7	Relevance T4 4
+A8	Persuasiveness T4 3
+A9	Eloquence T6 2
+A10	PremiseType T6 warrant
+A11	Specificity T6 3
+A12	Relevance T6 4
+A13	Persuasiveness T6 3
+A14	Eloquence T7 3
+A15	PremiseType T7 common_knowledge
+A16	Specificity T7 2
+A17	Relevance T7 3
+A18	Persuasiveness T7 3
+A19	Logos T5 yes
+A20	Ethos T5 no
+A21	Pathos T5 yes
+A22	ClaimType T5 Fact
+A23	Eloquence T5 2
+A24	Specificity T5 3
+A25	Relevance T5 4
+A26	Persuasiveness T5 3
+A27	Evidence T5 3
+A28	Logos T1 no
+A29	Ethos T1 no
+A30	Pathos T1 no
+A31	Evidence T1 1
+A32	ClaimType T1 Fact
+A33	Eloquence T1 2
+A34	Specificity T1 1
+A35	Persuasiveness T1 1
+A36	Relevance T1 2
+A37	Eloquence T8 3
+A38	Specificity T8 3
+A39	Relevance T8 5
+A40	Eloquence T9 3
+A42	Specificity T9 2
+A43	Relevance T9 5
+A44	Persuasiveness T9 1
+A45	Persuasiveness T8 3
+A46	PremiseType T8 common_knowledge
+A47	Eloquence T11 3
+A48	PremiseType T11 common_knowledge
+A49	Specificity T11 3
+A50	Relevance T11 6
+A51	Persuasiveness T11 4
+A52	Eloquence T13 1
+A53	Specificity T13 2
+A54	Relevance T13 4
+A55	Persuasiveness T13 2
+A56	PremiseType T13 common_knowledge
+A57	Eloquence T12 3
+A59	Specificity T12 3
+A60	Relevance T12 6
+A61	Persuasiveness T12 1
+A62	Logos T10 yes
+A63	Ethos T10 no
+A64	Pathos T10 no
+A65	ClaimType T10 Fact
+A66	Eloquence T10 4
+A67	Specificity T10 4
+A68	Evidence T10 4
+A69	Relevance T10 6
+A70	Persuasiveness T10 4
+A71	Specificity T3 3
+A72	Eloquence T3 4
+A73	Logos T3 yes
+A74	Ethos T3 no
+A75	Pathos T3 no
+A76	Evidence T3 2
+A77	Persuasiveness T3 2
+A78	Eloquence T2 3
+A79	Logos T2 yes
+A80	Ethos T2 no
+A81	Pathos T2 no
+A82	Persuasiveness T2 2
+A83	Evidence T2 2
+A84	Specificity T2 3
+A85	Strength T4 3
+A86	Evidence T4 2
+A87	Strength T6 3
+A88	Evidence T6 1
+A89	Strength T7 3
+A90	Evidence T7 1
+A91	Strength T11 4
+A92	Evidence T11 1
+A93	Strength T13 2
+A94	Evidence T13 1
+A41	Logos T12 no
+A58	Ethos T12 no
+A95	Pathos T12 no
+A96	Evidence T9 1
+A97	Logos T9 no
+A98	ClaimType T9 Fact
+A99	Ethos T9 no
+A100	Pathos T9 no
+A101	Strength T8 3
+A102	Evidence T8 1
+A103	ClaimType T12 Value
+A104	Evidence T12 1

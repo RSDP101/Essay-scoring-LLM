@@ -1,0 +1,96 @@
+T1	MajorClaim 343 435	while some of them are disturbing, we can not overlook other merits the advertisements bring
+T2	MajorClaim 1452 1531	advertisements have its social responsibility and contribute to economic growth
+T3	Claim 444 537	it is unfair to restrict those public service advertisements which are creative and inspiring
+A1	Stance T3 For
+T4	Claim 744 837	publicizing brand image or a particular product of mass media could boost sales for companies
+A2	Stance T4 For
+T5	Premise 1221 1382	the advertising expenses lead to a higher product price and some of them express fake information, creating information asymmetry between consumers and companies
+T6	Premise 548 714	they are not in the purpose of making profits but taking a role of disseminating valued culture, good moral traits and calling for helps for the disabled and the poor
+T7	Premise 858 962	it could simulate household spending and therefore promote the economic development of the whole country
+T8	Premise 964 1140	A recent study shows that after launching an advertising campaign, the sales revenue would increase by 40%, which is the very fact to verify its positive influences on economic
+T9	Claim 1389 1430	its merits still outweigh these downsides
+R1	supports Arg1:T6 Arg2:T3	
+R2	supports Arg1:T7 Arg2:T4	
+R3	supports Arg1:T8 Arg2:T4	
+A4	Eloquence T6 3
+A5	Persuasiveness T6 4
+A6	PremiseType T6 common_knowledge
+A7	Specificity T6 4
+A8	Logos T3 yes
+A9	Persuasiveness T3 3
+A10	ClaimType T3 Value
+A11	Evidence T3 3
+A12	Eloquence T3 3
+A13	Specificity T3 2
+A14	Relevance T3 4
+A15	Ethos T3 no
+A16	Pathos T3 no
+A17	Eloquence T7 2
+A18	Relevance T7 6
+A19	Persuasiveness T7 3
+A20	PremiseType T7 common_knowledge
+A21	Specificity T7 3
+A22	Eloquence T8 2
+A23	Relevance T8 6
+A24	Persuasiveness T8 5
+A25	PremiseType T8 statistics
+A26	Specificity T8 5
+A27	Logos T4 yes
+A28	Persuasiveness T4 4
+A29	ClaimType T4 Fact
+A30	Evidence T4 4
+A31	Eloquence T4 3
+A32	Specificity T4 3
+A33	Relevance T4 5
+A34	Ethos T4 no
+A35	Pathos T4 no
+A36	Stance T9 For
+T10	Claim 1142 1208	That is not to say, however, that advertisements have no downsides
+A3	Stance T10 Against
+R4	supports Arg1:T5 Arg2:T10	
+A37	Logos T9 no
+A38	Persuasiveness T9 2
+A39	ClaimType T9 Value
+A40	Evidence T9 1
+A41	Eloquence T9 3
+A42	Specificity T9 1
+A43	Relevance T9 4
+A44	Ethos T9 no
+A45	Pathos T9 no
+A46	Eloquence T5 4
+A47	Relevance T5 4
+A48	Persuasiveness T5 4
+A49	PremiseType T5 common_knowledge
+A50	Specificity T5 4
+A51	Logos T10 yes
+A52	Persuasiveness T10 4
+A53	ClaimType T10 Value
+A54	Evidence T10 4
+A55	Eloquence T10 3
+A56	Specificity T10 2
+A57	Relevance T10 6
+A58	Ethos T10 no
+A59	Pathos T10 no
+A60	Logos T2 yes
+A61	Persuasiveness T2 4
+A62	Evidence T2 4
+A63	Eloquence T2 3
+A64	Specificity T2 4
+A65	Ethos T2 no
+A66	Pathos T2 no
+A67	Logos T1 yes
+A68	Persuasiveness T1 4
+A69	Evidence T1 4
+A70	Eloquence T1 3
+A71	Specificity T1 3
+A72	Ethos T1 no
+A73	Pathos T1 no
+A74	Relevance T6 5
+A75	Strength T6 4
+A76	Evidence T6 1
+A77	Strength T7 3
+A78	Evidence T7 1
+A79	Strength T8 5
+A80	Evidence T8 1
+A81	Strength T5 4
+A82	Evidence T5 1

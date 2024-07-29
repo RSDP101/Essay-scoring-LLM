@@ -1,0 +1,101 @@
+T1	MajorClaim 1695 1827	the government should fund the deprived for their health care and education, who are the group in real need for the authority's help
+T2	Premise 737 879	such people might fail to get cured in time, thus influencing their working efficiency, which would destabilize the production of the industry
+T3	Premise 600 722	If citizens had no access to health care and education, their physical health and psychological soundness would be at risk
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 1038 1146	the government should be accountable for citizens' health care and education to keep society safe and stable
+A1	Stance T4 For
+T5	Claim 887 1025	without sufficient guidance of teachers, these citizens might misbehave or even commit crimes, posing a threat to other citizens' security
+T6	Claim 343 439	it is the government that should be obligated to fund the health care and education for citizens
+T7	Claim 457 598	citizens enjoy the right to live in a harmonious and stable environment, which should be enabled by the government, the leader of the society
+R4	supports Arg1:T7 Arg2:T4	
+R5	supports Arg1:T5 Arg2:T4	
+R8	supports Arg1:T2 Arg2:T4	
+T8	Claim 1207 1321	it is a waste of public money for the government to subsidize health care and education of each citizen in society
+A3	Stance T8 Against
+T9	Premise 1329 1415	a great number of people, in fact, have had the capacity to pay for the both privately
+T10	Claim 1426 1673	the government should give priority to more pressing problems related to social members' wellbeing, such as soaring crime rate, AIDS epidemic or the shortage of infrastructure, which are requiring financial resources from the government to address
+R9	supports Arg1:T10 Arg2:T8	
+R10	supports Arg1:T9 Arg2:T8	
+R2	supports Arg1:T6 Arg2:T4	
+A2	Eloquence T6 2
+A4	Relevance T6 6
+A5	Persuasiveness T6 2
+A7	Specificity T6 2
+A8	Eloquence T7 4
+A9	Relevance T7 2
+A10	Persuasiveness T7 2
+A12	Specificity T7 2
+A13	Eloquence T3 3
+A14	PremiseType T3 common_knowledge
+A15	Specificity T3 3
+A16	Relevance T3 3
+A17	Persuasiveness T3 2
+A18	Eloquence T2 3
+A19	Relevance T2 4
+A20	Persuasiveness T2 2
+A21	PremiseType T2 common_knowledge
+A22	Specificity T2 3
+A23	Eloquence T5 3
+A24	Relevance T5 5
+A25	Persuasiveness T5 2
+A27	Specificity T5 3
+A28	Logos T4 yes
+A29	Persuasiveness T4 2
+A30	ClaimType T4 Policy
+A31	Evidence T4 2
+A32	Eloquence T4 3
+A33	Specificity T4 2
+A34	Relevance T4 6
+A35	Ethos T4 no
+A36	Pathos T4 no
+A37	ClaimType T8 Value
+A38	Eloquence T9 2
+A39	Relevance T9 4
+A40	Persuasiveness T9 3
+A41	PremiseType T9 statistics
+A42	Specificity T9 2
+A43	Eloquence T10 4
+A44	Relevance T10 6
+A45	Persuasiveness T10 2
+A47	Specificity T10 4
+A48	Logos T8 yes
+A49	Persuasiveness T8 3
+A50	Evidence T8 3
+A51	Eloquence T8 3
+A52	Specificity T8 2
+A53	Relevance T8 6
+A54	Ethos T8 no
+A55	Pathos T8 no
+A56	Logos T1 yes
+A57	Persuasiveness T1 2
+A58	Evidence T1 2
+A59	Eloquence T1 2
+A60	Specificity T1 2
+A61	Ethos T1 no
+A62	Pathos T1 no
+A64	Evidence T5 1
+A65	Strength T3 2
+A66	Evidence T3 1
+A67	Strength T2 2
+A68	Evidence T2 2
+A6	Logos T6 no
+A69	ClaimType T6 Policy
+A70	Evidence T6 1
+A71	Ethos T6 no
+A72	Pathos T6 no
+A11	Logos T7 no
+A73	ClaimType T7 Policy
+A74	Evidence T7 1
+A75	Ethos T7 no
+A76	Pathos T7 no
+A77	Strength T9 3
+A78	Evidence T9 1
+A46	Logos T10 no
+A79	ClaimType T10 Policy
+A80	Evidence T10 1
+A81	Ethos T10 no
+A82	Pathos T10 no
+A26	Logos T5 no
+A63	ClaimType T5 Fact
+A83	Ethos T5 no
+A84	Pathos T5 no

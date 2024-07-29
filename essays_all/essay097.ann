@@ -1,0 +1,166 @@
+T1	MajorClaim 252 358	popular sports events can help reduce international tensions remarkably and promote national prides safely
+T2	MajorClaim 2130 2293	international sporting occasions are not only one of the effective solutions to tensions among nations but also a stimulant for releasing patriotic emotions safely
+T3	Claim 498 586	they can improve their results, break records and bring victories to their own countries
+A1	Stance T3 For
+T4	Claim 752 892	sport events with the spirit of healthiness, honesty and fairness can help strengthen understanding, friendship and solidarity among nations
+A2	Stance T4 For
+T5	Claim 2034 2113	sport events help to wake up love and responsibilities strongly in each citizen
+A3	Stance T5 For
+T6	Premise 380 489	sports events are good chances for excellent athletes to meet and learn valuable experiences from one another
+T7	Premise 596 666	a large number of people will gather in the host city for sport events
+T8	Premise 668 736	there are many good opportunities for discovering different cultures
+T9	Premise 894 1105	After sharing competitive but interesting moments in each competition, the competitors often shake hands friendly and congratulate the winners, which can lead to an improvement in the relationships among nations
+T10	Premise 1117 1220	sporting occasions play an essential role in raising patriotic emotions in both athletes and spectators
+T11	Premise 1222 1304	Seeing national flags be honored may be the most emotional moments to each athlete
+T12	Premise 1306 1424	The athlete also seems to be more aware of his responsibilities and he wants to contribute more to his beloved country
+T13	Premise 1426 1540	When witnessing our national flags flying proudly among others, many of us can stop hiding our pride and happiness
+T14	Premise 1556 1677	when Vietnam became the champion of SEAGAMES for the first time in 2008, a festival atmosphere permeated into the streets
+T15	Premise 1679 1796	People from all ages turned out to the streets with flags, banners and they sang aloud songs of Ho Chi Minh President
+T16	Premise 1798 1840	The eager atmosphere lasted many next days
+T17	Premise 1851 1946	some hooligans were so excited that they took part in motor racing or using fireworks illegally
+T18	Premise 1957 2001	the hooligans only took a minority of people
+R1	supports Arg1:T6 Arg2:T3	
+R2	supports Arg1:T7 Arg2:T8	
+R3	supports Arg1:T8 Arg2:T4	
+R4	supports Arg1:T9 Arg2:T4	
+R5	supports Arg1:T10 Arg2:T5	
+R6	supports Arg1:T11 Arg2:T5	
+R7	supports Arg1:T12 Arg2:T5	
+R8	supports Arg1:T13 Arg2:T5	
+R11	attacks Arg1:T18 Arg2:T17	
+R9	attacks Arg1:T17 Arg2:T13	
+R10	supports Arg1:T14 Arg2:T13	
+R12	supports Arg1:T15 Arg2:T13	
+R13	supports Arg1:T16 Arg2:T13	
+A4	Eloquence T6 3
+A5	Relevance T6 2
+A6	Persuasiveness T6 4
+A7	PremiseType T6 common_knowledge
+A8	Specificity T6 3
+A9	Logos T3 yes
+A10	Ethos T3 no
+A11	Pathos T3 no
+A12	Evidence T3 2
+A13	Persuasiveness T3 2
+A14	ClaimType T3 Fact
+A15	Eloquence T3 3
+A16	Specificity T3 3
+A17	Relevance T3 2
+A18	Eloquence T7 3
+A19	Relevance T7 4
+A20	Persuasiveness T7 5
+A21	PremiseType T7 common_knowledge
+A22	Specificity T7 4
+A23	Eloquence T8 3
+A24	Relevance T8 5
+A25	Persuasiveness T8 4
+A26	PremiseType T8 common_knowledge
+A27	Specificity T8 2
+A28	Eloquence T9 4
+A29	Relevance T9 6
+A30	Persuasiveness T9 6
+A31	PremiseType T9 real_example
+A32	Specificity T9 4
+A33	Logos T4 yes
+A34	Persuasiveness T4 4
+A35	ClaimType T4 Fact
+A36	Evidence T4 3
+A37	Eloquence T4 4
+A38	Specificity T4 3
+A39	Relevance T4 5
+A40	Ethos T4 no
+A41	Pathos T4 no
+A42	Eloquence T10 4
+A43	Specificity T10 3
+A44	Relevance T10 4
+A45	PremiseType T10 warrant
+A46	Eloquence T11 3
+A47	Relevance T11 4
+A48	Persuasiveness T11 5
+A49	Specificity T11 5
+A50	PremiseType T11 invented_instance
+A51	PremiseType T12 invented_instance
+A52	Relevance T12 6
+A53	Eloquence T12 4
+A54	Persuasiveness T12 4
+A55	Specificity T12 2
+A56	Eloquence T13 3
+A57	Relevance T13 4
+A58	Persuasiveness T13 6
+A59	PremiseType T13 invented_instance
+A61	Eloquence T14 4
+A62	Relevance T14 4
+A63	Persuasiveness T14 6
+A64	PremiseType T14 real_example
+A65	Specificity T14 5
+A66	Eloquence T15 4
+A67	Relevance T15 5
+A68	Persuasiveness T15 6
+A69	PremiseType T15 real_example
+A70	Specificity T15 4
+A71	Eloquence T16 2
+A72	Relevance T16 6
+A73	Persuasiveness T16 5
+A74	PremiseType T16 real_example
+A75	Specificity T16 5
+A76	Eloquence T17 3
+A77	Relevance T17 6
+A78	Persuasiveness T17 3
+A79	PremiseType T17 real_example
+A80	Specificity T17 5
+A81	Eloquence T18 3
+A82	Relevance T18 6
+A83	Persuasiveness T18 5
+A84	PremiseType T18 real_example
+A85	Specificity T18 5
+A86	Persuasiveness T10 3
+A87	Logos T5 yes
+A88	Persuasiveness T5 6
+A89	ClaimType T5 Fact
+A90	Evidence T5 6
+A91	Eloquence T5 3
+A92	Specificity T5 4
+A93	Relevance T5 4
+A94	Ethos T5 no
+A95	Pathos T5 yes
+A96	Specificity T2 5
+A97	Logos T2 yes
+A98	Evidence T2 6
+A99	Eloquence T2 5
+A100	Ethos T2 no
+A101	Pathos T2 yes
+A102	Persuasiveness T2 6
+A103	Logos T1 yes
+A104	Persuasiveness T1 6
+A105	Evidence T1 6
+A106	Eloquence T1 4
+A107	Specificity T1 5
+A108	Ethos T1 no
+A109	Pathos T1 yes
+A60	Specificity T13 4
+A110	Strength T6 4
+A111	Evidence T6 1
+A112	Strength T7 5
+A113	Evidence T7 1
+A114	Strength T8 4
+A115	Evidence T8 4
+A116	Strength T9 6
+A117	Evidence T9 1
+A118	Strength T10 3
+A119	Evidence T10 1
+A120	Strength T11 5
+A121	Evidence T11 1
+A122	Strength T12 4
+A123	Evidence T12 1
+A124	Strength T14 6
+A125	Evidence T14 1
+A126	Strength T15 6
+A127	Evidence T15 1
+A128	Strength T16 5
+A129	Evidence T16 1
+A130	Strength T18 5
+A131	Evidence T18 1
+A132	Strength T17 5
+A133	Evidence T17 2
+A134	Strength T13 4
+A135	Evidence T13 6

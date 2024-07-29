@@ -1,0 +1,181 @@
+T1	MajorClaim 397 458	one can also shine without even having to attend universities
+T2	MajorClaim 2177 2295	it would be wrong to say that one's success completely depends on the education he or she receives at the institutions
+T3	Claim 2065 2166	it is indeed true that university education is pivotal in a person's life in order for one to prosper
+A1	Stance T3 Against
+T4	Claim 480 613	it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer
+A2	Stance T4 Against
+T5	Premise 615 724	Without proper training and knowledge, it would be impossible for them to perform their best in their careers
+T6	Premise 726 886	Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners
+T7	Premise 888 980	This can benefit them in future when they intend to open up their own companies or hospitals
+R1	supports Arg1:T5 Arg2:T4	
+R2	supports Arg1:T6 Arg2:T4	
+R3	supports Arg1:T7 Arg2:T4	
+T8	Claim 1016 1129	there are also a significant number of people who are very successful in their fields without going to university
+A3	Stance T8 For
+T9	Premise 1131 1183	Take for instance those who start their own business
+T10	Claim 1185 1233	These people depend solely on hard work and luck
+T11	Premise 1250 1299	for some of them it proved to be a profitable job
+T12	Premise 1321 1391	Michael Dell who is the founder and the CEO of Dell left college at 19
+T13	Premise 1404 1460	he started his computer company in his college dorm room
+T14	Premise 1474 1564	he used his earnings as well as his family's loan in order to progress to be who he is now
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T10 Arg2:T8	
+R6	supports Arg1:T11 Arg2:T8	
+R7	supports Arg1:T12 Arg2:T8	
+R8	supports Arg1:T13 Arg2:T8	
+R9	supports Arg1:T14 Arg2:T8	
+T15	Premise 1579 1650	people with natural talents are also most likely to excel in their life
+T16	Claim 1974 2044	individuals born with talents have also a high chance to be successful
+A5	Stance T16 For
+T17	Premise 1652 1716	This is especially true in sectors like entertainment and sports
+T18	Claim 1718 1830	The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph
+T19	Premise 1860 1946	David Archuleta who was once a nobody has now taken up a large space in hearts of many
+R13	supports Arg1:T19 Arg2:T18	
+R14	supports Arg1:T18 Arg2:T16	
+R15	supports Arg1:T17 Arg2:T16	
+R10	supports Arg1:T15 Arg2:T16	
+A4	Specificity T2 3
+A6	Eloquence T5 4
+A7	Relevance T5 6
+A8	Persuasiveness T5 4
+A9	PremiseType T5 common_knowledge
+A10	Specificity T5 3
+A11	Eloquence T6 4
+A12	Relevance T6 6
+A13	Persuasiveness T6 4
+A14	PremiseType T6 invented_instance
+A15	Specificity T6 4
+A16	Eloquence T7 3
+A17	Relevance T7 6
+A18	Persuasiveness T7 4
+A19	PremiseType T7 warrant
+A20	Specificity T7 2
+A21	Logos T4 yes
+A22	Persuasiveness T4 4
+A23	ClaimType T4 Value
+A24	Evidence T4 4
+A25	Eloquence T4 4
+A26	Specificity T4 2
+A27	Relevance T4 6
+A28	Ethos T4 no
+A29	Pathos T4 no
+A30	PremiseType T9 common_knowledge
+A31	Eloquence T9 3
+A32	Relevance T9 3
+A33	Persuasiveness T9 2
+A34	Specificity T9 1
+A35	Eloquence T10 3
+A36	Relevance T10 5
+A37	Persuasiveness T10 2
+A39	Specificity T10 4
+A40	Eloquence T11 3
+A41	Relevance T11 4
+A42	PremiseType T11 common_knowledge
+A43	Specificity T11 2
+A44	Persuasiveness T11 2
+A45	Eloquence T12 3
+A46	Relevance T12 6
+A47	Persuasiveness T12 6
+A48	PremiseType T12 real_example
+A49	Specificity T12 5
+A50	Eloquence T13 3
+A51	Relevance T13 6
+A52	Persuasiveness T13 6
+A53	PremiseType T13 real_example
+A54	Specificity T13 5
+A55	Eloquence T14 3
+A56	Relevance T14 6
+A57	Persuasiveness T14 6
+A58	PremiseType T14 real_example
+A59	Specificity T14 5
+A60	Logos T8 yes
+A61	Persuasiveness T8 5
+A62	ClaimType T8 Fact
+A63	Evidence T8 5
+A64	Eloquence T8 4
+A65	Specificity T8 3
+A66	Relevance T8 6
+A67	Ethos T8 no
+A68	Pathos T8 no
+A69	Eloquence T15 3
+A70	PremiseType T15 warrant
+A71	Specificity T15 2
+A72	Persuasiveness T15 2
+A73	Relevance T15 6
+A74	Eloquence T17 3
+A75	PremiseType T17 warrant
+A76	Specificity T17 2
+A77	Persuasiveness T17 2
+A78	Eloquence T19 3
+A79	Relevance T19 6
+A80	Persuasiveness T19 5
+A81	PremiseType T19 real_example
+A82	Specificity T19 4
+A83	Eloquence T18 4
+A84	Specificity T18 4
+A85	Relevance T18 3
+A86	Persuasiveness T18 4
+A88	Logos T16 yes
+A89	Ethos T16 no
+A90	Pathos T16 no
+A91	Evidence T16 4
+A92	Persuasiveness T16 4
+A93	ClaimType T16 Fact
+A94	Eloquence T16 3
+A95	Specificity T16 2
+A96	Relevance T16 6
+A97	Evidence T2 5
+A98	Specificity T3 2
+A99	Logos T3 no
+A100	Evidence T3 1
+A101	Eloquence T3 4
+A102	Relevance T3 6
+A103	Ethos T3 no
+A104	Pathos T3 no
+A105	ClaimType T3 Value
+A106	Persuasiveness T3 2
+A107	Logos T2 yes
+A108	Persuasiveness T2 5
+A109	Eloquence T2 4
+A110	Ethos T2 no
+A111	Pathos T2 no
+A112	Logos T1 yes
+A113	Persuasiveness T1 5
+A114	Evidence T1 5
+A115	Eloquence T1 3
+A116	Specificity T1 2
+A117	Ethos T1 no
+A118	Pathos T1 no
+A119	Relevance T17 6
+A120	Strength T5 4
+A121	Evidence T5 1
+A122	Strength T6 4
+A123	Evidence T6 1
+A124	Strength T7 4
+A125	Evidence T7 1
+A126	Strength T9 2
+A127	Evidence T9 1
+A38	Logos T10 no
+A128	ClaimType T10 Fact
+A129	Evidence T10 1
+A130	Ethos T10 no
+A131	Pathos T10 no
+A132	Strength T11 2
+A133	Evidence T11 1
+A134	Strength T12 6
+A135	Evidence T12 1
+A136	Strength T13 6
+A137	Evidence T13 1
+A138	Strength T14 6
+A139	Evidence T14 1
+A140	Strength T15 2
+A141	Evidence T15 1
+A142	Strength T17 2
+A143	Evidence T17 1
+A87	Strength T19 5
+A144	Evidence T19 1
+A145	Logos T18 yes
+A146	ClaimType T18 Fact
+A147	Evidence T18 4
+A148	Ethos T18 no
+A149	Pathos T18 no

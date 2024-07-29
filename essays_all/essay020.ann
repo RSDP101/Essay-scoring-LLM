@@ -1,0 +1,125 @@
+T1	MajorClaim 192 302	more responsibilities should put on private individuals and companies such as paying to clean up air pollution
+T2	MajorClaim 1848 1942	both companies and private individuals should take the main part to clean up the air pollution
+T3	Claim 1698 1846	governments are responsible to provide a healthy environment for their inhabitants and they should be responsible from cleaning up the air pollution
+A1	Stance T3 For
+T4	Claim 703 856	If these companies were obliged to pay to clean up the air pollution, they would at least make an effort to reduce the amount of air pollution they cause
+A2	Stance T4 For
+T5	Premise 312 426	in most industrialized countries, there is a number of companies that holds heavy factories in their constitutions
+T6	Premise 428 536	The waste products and harmful gases produced by these factories cause a significant amount of air pollution
+T7	Premise 538 701	While these companies make a huge amount of money from their businesses, most of them are not considering to take precautions to reduce the amount of air pollution
+R1	supports Arg1:T7 Arg2:T4	
+R2	supports Arg1:T6 Arg2:T4	
+R3	supports Arg1:T5 Arg2:T4	
+T8	Claim 1222 1348	by charging private individuals for causing air pollution, that will at least contribute to reduce the amount of the pollution
+A3	Stance T8 For
+T9	Premise 866 971	private individuals cause air pollution in several ways such as inessential use of cars and house heating
+T10	Premise 973 1130	As house heating is a major need in the winter time, some households do not consider to use filters to reduce the amount of pollution that the heating causes
+T11	Premise 1149 1205	some expensive vehicles cause a huge amount of pollution
+R4	supports Arg1:T11 Arg2:T8	
+R5	supports Arg1:T10 Arg2:T8	
+R6	supports Arg1:T9 Arg2:T8	
+T12	Claim 1385 1492	governments should restrict the use of products that cause air pollution for both individuals and companies
+A4	Stance T12 For
+T13	Claim 1494 1659	Governments also should use an amount of money from their budgets to clean up the air, instead of putting all the responsibility to companies and private individuals
+A5	Stance T13 For
+A6	ClaimType T12 Policy
+A7	ClaimType T13 Policy
+A8	ClaimType T3 Policy
+A9	Eloquence T5 2
+A10	PremiseType T5 common_knowledge
+A11	Specificity T5 3
+A12	Relevance T5 4
+A13	Persuasiveness T5 3
+A14	Eloquence T6 4
+A15	Relevance T6 6
+A16	Persuasiveness T6 4
+A17	PremiseType T6 common_knowledge
+A18	Specificity T6 4
+A19	Eloquence T7 4
+A20	Relevance T7 6
+A21	Persuasiveness T7 5
+A22	PremiseType T7 common_knowledge
+A23	Specificity T7 4
+A24	Logos T4 yes
+A25	ClaimType T4 Fact
+A26	Eloquence T4 4
+A27	Ethos T4 no
+A28	Pathos T4 no
+A29	Specificity T4 5
+A30	Relevance T4 6
+A31	Persuasiveness T4 4
+A32	Evidence T4 4
+A33	PremiseType T9 common_knowledge
+A34	Eloquence T9 4
+A35	Specificity T9 4
+A36	Relevance T9 6
+A37	Persuasiveness T9 5
+A38	Eloquence T10 4
+A39	PremiseType T10 common_knowledge
+A40	Relevance T10 6
+A41	Persuasiveness T10 6
+A42	Specificity T10 4
+A43	Eloquence T11 3
+A44	Relevance T11 6
+A45	Persuasiveness T11 4
+A46	PremiseType T11 common_knowledge
+A47	Specificity T11 3
+A48	Logos T8 yes
+A49	ClaimType T8 Fact
+A50	Eloquence T8 3
+A51	Ethos T8 no
+A52	Pathos T8 no
+A53	Persuasiveness T8 4
+A54	Evidence T8 4
+A55	Specificity T8 4
+A56	Relevance T8 6
+A57	Logos T12 no
+A58	Eloquence T12 3
+A59	Specificity T12 2
+A60	Ethos T12 no
+A61	Pathos T12 no
+A62	Persuasiveness T12 2
+A63	Evidence T12 1
+A64	Relevance T12 6
+A65	Logos T13 no
+A66	Eloquence T13 3
+A67	Specificity T13 3
+A68	Ethos T13 no
+A69	Pathos T13 no
+A70	Persuasiveness T13 2
+A71	Evidence T13 1
+A72	Relevance T13 6
+A73	Logos T3 no
+A74	Persuasiveness T3 2
+A75	Evidence T3 1
+A76	Eloquence T3 3
+A77	Specificity T3 3
+A78	Relevance T3 6
+A79	Ethos T3 no
+A80	Pathos T3 no
+A81	Eloquence T2 3
+A82	Logos T2 yes
+A83	Ethos T2 no
+A84	Pathos T2 no
+A85	Logos T1 yes
+A86	Ethos T1 no
+A87	Pathos T1 no
+A88	Specificity T1 4
+A89	Persuasiveness T1 4
+A90	Evidence T1 4
+A91	Eloquence T1 3
+A92	Specificity T2 3
+A93	Persuasiveness T2 4
+A94	Evidence T2 4
+A95	Strength T7 5
+A96	Evidence T7 1
+A97	Strength T6 4
+A98	Evidence T6 1
+A99	Strength T5 3
+A100	Evidence T5 1
+A101	Strength T9 5
+A102	Evidence T9 1
+A103	Strength T10 6
+A104	Evidence T10 1
+A105	Strength T11 4
+A106	Evidence T11 1

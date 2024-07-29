@@ -1,0 +1,133 @@
+T3	Claim 390 467	email can be count as one of the most beneficial results of modern technology
+A2	Stance T3 For
+T4	Premise 469 696	Many years ago, peoples had to pay a great deal of money to post their letters, and their payements were related to the weight of their letters or boxes, and many accidents may cause problem that the post could not be delivered
+T5	Premise 702 897	nowadays, all people can take advantage of internet to have their own email free, and send their emails to everyone in no time, besides they can be sure if their emails have been delivered or not
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+T6	Premise 899 959	Another important aspect on technology is transferring money
+T7	Premise 961 1035	Today, students can apply for foreign universities much easier than before
+T1	Claim 1151 1247	with the advent of internet and online paying systems, you can do many thing at your home easily
+A1	Stance T1 For
+T2	MajorClaim 1845 1899	technology has helped us to have more comfortable life
+T8	Claim 1901 1980	You can see its effects on transportation, communication, medicine and so forth
+A4	Stance T8 For
+T9	Premise 1037 1138	Not only with the help of sending email, but also using credit cards to pay all necessary fees online
+R3	supports Arg1:T9 Arg2:T1	
+R4	supports Arg1:T7 Arg2:T1	
+R5	supports Arg1:T6 Arg2:T1	
+T10	Premise 1716 1831	But now, biomedical engineers can make artificial heart valves which works well and doctors can implant them easily
+T11	Premise 1580 1714	In the past time doctors used pig heart's valve to implant, but the patient could not be alive more than 3 years after the replacement
+T12	Premise 1459 1578	one of their inventions was related to artificial heart valves which can be count as a turning point in heart surgeries
+T13	Premise 1352 1444	Biomedical engineers could make a significant effect on increasing life expectancy the world
+T14	Claim 1249 1350	Another technological innovations which help people around the world is related to medical equipments
+A3	Stance T14 For
+R6	supports Arg1:T13 Arg2:T14	
+R7	supports Arg1:T12 Arg2:T14	
+R8	supports Arg1:T11 Arg2:T14	
+R9	supports Arg1:T10 Arg2:T14	
+A5	Eloquence T4 2
+A6	Relevance T4 5
+A7	Persuasiveness T4 3
+A8	PremiseType T4 common_knowledge
+A9	Specificity T4 5
+A10	Eloquence T5 2
+A11	Relevance T5 6
+A12	Persuasiveness T5 4
+A13	PremiseType T5 common_knowledge
+A14	Specificity T5 5
+A15	Logos T3 yes
+A16	Persuasiveness T3 3
+A17	ClaimType T3 Value
+A18	Evidence T3 3
+A19	Eloquence T3 2
+A20	Specificity T3 3
+A21	Relevance T3 4
+A22	Ethos T3 no
+A23	Pathos T3 no
+A24	Eloquence T6 2
+A26	Specificity T6 2
+A27	Relevance T6 4
+A28	Persuasiveness T6 2
+A29	Eloquence T7 3
+A30	Relevance T7 5
+A31	Persuasiveness T7 2
+A32	PremiseType T7 common_knowledge
+A33	Specificity T7 1
+A34	Eloquence T9 3
+A35	Relevance T9 6
+A36	Persuasiveness T9 4
+A37	PremiseType T9 common_knowledge
+A38	Specificity T9 3
+A39	Logos T1 yes
+A40	Persuasiveness T1 2
+A41	ClaimType T1 Fact
+A42	Evidence T1 2
+A43	Eloquence T1 2
+A44	Specificity T1 3
+A45	Relevance T1 6
+A46	Ethos T1 no
+A47	Pathos T1 no
+A48	Eloquence T13 1
+A49	Relevance T13 5
+A50	Persuasiveness T13 2
+A51	PremiseType T13 common_knowledge
+A52	Specificity T13 2
+A53	Eloquence T12 2
+A54	Relevance T12 6
+A55	Persuasiveness T12 4
+A56	PremiseType T12 real_example
+A57	Specificity T12 5
+A58	Eloquence T11 3
+A59	Relevance T11 6
+A60	Persuasiveness T11 6
+A61	PremiseType T11 real_example
+A62	Specificity T11 5
+A63	Eloquence T10 3
+A64	Relevance T10 5
+A65	Persuasiveness T10 5
+A66	PremiseType T10 common_knowledge
+A67	Specificity T10 4
+A68	Logos T14 yes
+A69	Ethos T14 no
+A70	Pathos T14 no
+A71	Specificity T14 2
+A72	Relevance T14 6
+A73	Persuasiveness T14 4
+A74	ClaimType T14 Fact
+A75	Evidence T14 4
+A76	Eloquence T14 2
+A77	Logos T8 no
+A78	Persuasiveness T8 2
+A79	ClaimType T8 Fact
+A80	Evidence T8 1
+A81	Eloquence T8 3
+A82	Specificity T8 2
+A83	Relevance T8 6
+A84	Ethos T8 no
+A85	Pathos T8 no
+A86	Eloquence T2 2
+A87	Logos T2 yes
+A88	Ethos T2 no
+A89	Pathos T2 no
+A90	Specificity T2 2
+A91	Persuasiveness T2 2
+A92	Evidence T2 2
+A93	Strength T4 3
+A94	Evidence T4 1
+A95	Strength T5 4
+A96	Evidence T5 1
+A97	Evidence T6 1
+A101	Strength T7 2
+A102	Evidence T7 1
+A103	Strength T9 4
+A104	Evidence T9 1
+A105	Strength T13 2
+A106	Evidence T13 1
+A107	Strength T12 4
+A108	Evidence T12 1
+A109	Strength T11 6
+A110	Evidence T11 1
+A111	Strength T10 5
+A112	Evidence T10 1
+A25	Strength T6 2
+A98	PremiseType T6 common_knowledge

@@ -1,0 +1,195 @@
+T1	MajorClaim 2059 2101	dependence on computers is not a bad thing
+T2	Claim 1996 2047	computers have provided security and sophistication
+A1	Stance T2 For
+T3	MajorClaim 244 342	The whole world is dependent on computers, without which, the world will go back hundreds of years
+T4	Claim 801 945	Computers provide speed, increase efficiency, accuracy, precision, help to increase productivity and other countless benefits are provided by it
+A2	Stance T4 For
+T5	Claim 957 1002	future prospects of computers are very bright
+A3	Stance T5 For
+T6	Claim 1344 1385	Computers have made humans over-dependent
+A4	Stance T6 Against
+T7	Premise 344 394	In the modern world, computers are used everywhere
+T8	Premise 396 470	Right from flying planes to sending a small document, computers are needed
+T9	Premise 472 539	They are used in space programs, wars, hospitals, schools and so on
+T10	Premise 541 612	Computers have made human life more easy, convenient and lightning fast
+T11	Premise 627 724	in earlier days, if one had to send a message to someone in other country, it used to take months
+T12	Premise 730 799	today, it can be sent in few minutes by typing a email and few clicks
+T13	Premise 1004 1085	From a computer as big as a room, it has now been minimized to the size of a palm
+T14	Premise 1087 1165	Nanotechnology is working to make computers to the order of microscopic levels
+T15	Premise 1167 1256	Research on making computerized drone soldiers (unmanned computer controlled) is going on
+T16	Premise 1258 1303	There is no end to the evolution of computers
+T17	Premise 1387 1541	Virus programs, privacy breach, leak of confidential documents, cyber attacks, identity theft, frauds etc. are some of its demerits, from a countless list
+T18	Premise 1543 1588	Computers expose children to vulgar materials
+T19	Premise 1590 1738	They have even invaded mental health of humans, for example, FAD (Facebook Addiction Disorder - excessive use of social networking website Facebook)
+T20	Premise 1740 1847	Computers have intruded our lives to the effect that a satellite can peep into our homes and privates lives
+T21	Premise 1849 1947	The recent case of Wikileaks, leaking confidential data is an example of how computers are harmful
+R1	supports Arg1:T11 Arg2:T10	
+R2	supports Arg1:T12 Arg2:T10	
+R3	supports Arg1:T7 Arg2:T4	
+R4	supports Arg1:T8 Arg2:T4	
+R5	supports Arg1:T9 Arg2:T4	
+R6	supports Arg1:T10 Arg2:T4	
+R7	supports Arg1:T13 Arg2:T5	
+R8	supports Arg1:T14 Arg2:T5	
+R9	supports Arg1:T15 Arg2:T5	
+R10	supports Arg1:T16 Arg2:T5	
+R11	supports Arg1:T17 Arg2:T6	
+R12	supports Arg1:T18 Arg2:T6	
+R13	supports Arg1:T19 Arg2:T6	
+R14	supports Arg1:T20 Arg2:T6	
+R15	supports Arg1:T21 Arg2:T6	
+A5	PremiseType T7 common_knowledge
+A6	PremiseType T8 common_knowledge
+A7	PremiseType T9 common_knowledge
+A8	PremiseType T10 common_knowledge
+A9	PremiseType T11 common_knowledge
+A10	PremiseType T12 common_knowledge
+A11	Eloquence T7 3
+A12	Relevance T7 4
+A13	Persuasiveness T7 3
+A14	Specificity T7 2
+A15	Eloquence T8 3
+A16	Relevance T8 6
+A17	Persuasiveness T8 4
+A18	Specificity T8 3
+A19	Eloquence T9 3
+A20	Relevance T9 6
+A21	Persuasiveness T9 4
+A22	Specificity T9 3
+A23	Eloquence T10 3
+A24	Relevance T10 6
+A25	Persuasiveness T10 5
+A26	Specificity T10 3
+A27	Eloquence T11 3
+A28	Relevance T11 5
+A29	Persuasiveness T11 4
+A30	Specificity T11 3
+A31	Eloquence T12 3
+A32	Relevance T12 6
+A33	Persuasiveness T12 4
+A34	Specificity T12 3
+A35	Eloquence T4 4
+A36	Relevance T4 6
+A37	Specificity T4 5
+A38	Evidence T4 4
+A39	Logos T4 yes
+A40	Persuasiveness T4 4
+A41	ClaimType T4 Fact
+A42	Ethos T4 no
+A43	Pathos T4 no
+A44	PremiseType T13 common_knowledge
+A45	PremiseType T14 common_knowledge
+A46	Eloquence T15 3
+A47	Relevance T15 6
+A48	PremiseType T15 common_knowledge
+A49	Specificity T15 2
+A50	Persuasiveness T15 4
+A51	Eloquence T16 3
+A52	Relevance T16 4
+A53	Persuasiveness T16 3
+A54	PremiseType T16 common_knowledge
+A55	Specificity T16 1
+A56	Eloquence T13 3
+A57	Relevance T13 6
+A58	Persuasiveness T13 4
+A59	Specificity T13 3
+A60	Eloquence T14 3
+A61	Relevance T14 6
+A62	Persuasiveness T14 4
+A63	Specificity T14 3
+A64	Logos T5 yes
+A65	ClaimType T5 Fact
+A66	Eloquence T5 3
+A67	Specificity T5 2
+A68	Ethos T5 no
+A69	Pathos T5 no
+A70	Persuasiveness T5 4
+A71	Evidence T5 4
+A72	Relevance T5 6
+A73	PremiseType T19 real_example
+A74	PremiseType T21 real_example
+A75	PremiseType T17 common_knowledge
+A76	PremiseType T18 common_knowledge
+A77	PremiseType T20 common_knowledge
+A78	Eloquence T17 4
+A79	Relevance T17 6
+A80	Persuasiveness T17 5
+A81	Specificity T17 5
+A82	Eloquence T18 3
+A83	Relevance T18 5
+A84	Persuasiveness T18 3
+A85	Specificity T18 2
+A86	Eloquence T19 4
+A87	Relevance T19 6
+A88	Persuasiveness T19 5
+A89	Specificity T19 4
+A90	Eloquence T20 3
+A91	Relevance T20 6
+A92	Persuasiveness T20 4
+A93	Specificity T20 3
+A94	Eloquence T21 3
+A95	Relevance T21 6
+A96	Persuasiveness T21 4
+A97	Specificity T21 3
+A98	Eloquence T6 3
+A99	Specificity T6 1
+A100	Logos T6 yes
+A101	Relevance T6 6
+A102	Ethos T6 no
+A103	Pathos T6 yes
+A104	ClaimType T6 Fact
+A105	Evidence T6 4
+A106	Persuasiveness T6 4
+A107	Evidence T3 3
+A108	Logos T1 yes
+A109	Ethos T1 no
+A110	Pathos T1 no
+A111	Evidence T1 3
+A112	Logos T3 yes
+A113	Eloquence T3 3
+A114	Specificity T3 3
+A115	Ethos T3 no
+A116	Pathos T3 no
+A117	Persuasiveness T1 3
+A118	Eloquence T1 3
+A119	Specificity T1 2
+A120	Persuasiveness T3 3
+A121	Logos T2 no
+A122	Persuasiveness T2 2
+A123	ClaimType T2 Fact
+A124	Evidence T2 1
+A125	Eloquence T2 3
+A126	Specificity T2 2
+A127	Relevance T2 4
+A128	Ethos T2 no
+A129	Pathos T2 no
+A130	Strength T7 3
+A131	Evidence T7 1
+A132	Strength T8 4
+A133	Evidence T8 1
+A134	Strength T9 4
+A135	Evidence T9 1
+A136	Strength T11 4
+A137	Evidence T11 1
+A138	Strength T12 4
+A139	Evidence T12 1
+A140	Strength T13 4
+A141	Evidence T13 1
+A142	Strength T14 4
+A143	Evidence T14 1
+A144	Strength T15 4
+A145	Evidence T15 1
+A146	Strength T16 3
+A147	Evidence T16 1
+A148	Strength T17 5
+A149	Evidence T17 1
+A150	Strength T19 5
+A151	Evidence T19 1
+A152	Strength T18 3
+A153	Evidence T18 1
+A154	Strength T21 4
+A155	Evidence T21 1
+A156	Strength T20 4
+A157	Evidence T20 1
+A158	Strength T10 5
+A159	Evidence T10 4

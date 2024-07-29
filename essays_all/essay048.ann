@@ -1,0 +1,107 @@
+T1	MajorClaim 364 506	online-teaching should be widely used among colleges and universities in terms of convenience and optimizing cost for educational institutions
+T2	MajorClaim 1814 1910	distance-learning will become increasingly important in the future as the pace of life increases
+T3	Claim 1049 1137	educational institutions are able to optimize costs by increasing teacher-student ratios
+A1	Stance T3 For
+T4	Claim 523 613	distance-learning brings significant convenience for students in every corner of the world
+A2	Stance T4 For
+T5	Premise 615 803	In earlier times, students who were tired of commuting had to attend schools nearby, regardless of any differences in teaching facilities, teacher's qualifications or the school reputation
+T6	Premise 805 929	Now, however, students are able to apply for online-courses provided by top-of-the-range universities and colleges worldwide
+R1	supports Arg1:T5 Arg2:T4	
+R2	supports Arg1:T6 Arg2:T4	
+T7	Premise 944 1033	the presence of video conferencing allows a teacher to teach a greater number of students
+R3	supports Arg1:T7 Arg2:T3	
+T8	Premise 1139 1352	Thanks to the economical online-teaching, universities and colleges are able to offer grants for students who have outstanding academic achievements but are unable to attend schools because of financial constrains
+R4	supports Arg1:T8 Arg2:T3	
+T9	Claim 1413 1524	attending lectures in person provides students an opportunity to communicate with teachers and other classmates
+A3	Stance T9 Against
+T10	Claim 1526 1676	They further point out that traditional teaching approaches involving discussion and cooperation among students play a significant role in campus life
+T11	Claim 1678 1769	It is the real interactions and communications in class make education much more attractive
+R5	supports Arg1:T10 Arg2:T9	
+R6	supports Arg1:T11 Arg2:T9	
+A4	Persuasiveness T6 4
+A5	Strength T6 4
+A6	Evidence T6 1
+A7	Eloquence T6 3
+A8	PremiseType T6 common_knowledge
+A9	Specificity T6 3
+A10	Relevance T6 6
+A11	Persuasiveness T5 5
+A12	Strength T5 5
+A13	Evidence T5 1
+A14	Eloquence T5 4
+A15	PremiseType T5 real_example
+A16	Specificity T5 4
+A17	Relevance T5 6
+A18	Logos T4 yes
+A19	Persuasiveness T4 4
+A20	ClaimType T4 Fact
+A21	Evidence T4 4
+A22	Eloquence T4 4
+A23	Specificity T4 3
+A24	Relevance T4 6
+A25	Ethos T4 no
+A26	Pathos T4 no
+A27	Persuasiveness T7 4
+A28	Strength T7 4
+A29	Evidence T7 1
+A30	Eloquence T7 4
+A31	PremiseType T7 common_knowledge
+A32	Specificity T7 3
+A33	Relevance T7 6
+A34	Persuasiveness T8 5
+A35	Strength T8 5
+A36	Evidence T8 1
+A37	Eloquence T8 4
+A38	PremiseType T8 common_knowledge
+A39	Specificity T8 5
+A40	Relevance T8 6
+A41	Logos T3 yes
+A42	Persuasiveness T3 4
+A43	ClaimType T3 Fact
+A44	Evidence T3 4
+A45	Eloquence T3 4
+A46	Specificity T3 3
+A47	Relevance T3 6
+A48	Ethos T3 no
+A49	Pathos T3 no
+A50	Logos T10 no
+A51	Persuasiveness T10 2
+A52	ClaimType T10 Value
+A53	Evidence T10 1
+A54	Eloquence T10 4
+A55	Specificity T10 2
+A56	Relevance T10 6
+A57	Ethos T10 no
+A58	Pathos T10 no
+A59	Logos T11 no
+A60	Persuasiveness T11 2
+A61	ClaimType T11 Fact
+A62	Evidence T11 1
+A63	Eloquence T11 2
+A64	Specificity T11 2
+A65	Relevance T11 4
+A66	Ethos T11 no
+A67	Pathos T11 no
+A68	Logos T9 yes
+A69	Persuasiveness T9 2
+A70	ClaimType T9 Fact
+A71	Evidence T9 2
+A72	Eloquence T9 4
+A73	Specificity T9 3
+A74	Relevance T9 6
+A75	Pathos T9 yes
+A76	Ethos T9 no
+A77	Logos T2 yes
+A78	Persuasiveness T2 3
+A79	Evidence T2 3
+A80	Eloquence T2 3
+A81	Specificity T2 2
+A82	Ethos T2 no
+A83	Pathos T2 yes
+A84	Logos T1 yes
+A85	Persuasiveness T1 3
+A86	Evidence T1 3
+A87	Eloquence T1 4
+A88	Specificity T1 4
+A89	Ethos T1 no
+A90	Pathos T1 yes

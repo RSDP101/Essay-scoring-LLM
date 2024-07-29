@@ -1,0 +1,133 @@
+T1	Claim 419 504	students at schools and universities still learn much more from lessons with teachers
+A1	Stance T1 For
+T2	Premise 522 609	teachers teach students how to write, read and calculate since they are in kindergarten
+T3	Premise 611 731	And when they are in primary school, teachers teach them more further knowledge, like writing skills and using computers
+T4	Premise 733 790	It is teachers that help them with obstacles in schooling
+T5	Premise 811 929	students gain most of the knowledge through teachers and learn what is right and wrong with the assistance of teachers
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T1	
+R3	supports Arg1:T4 Arg2:T1	
+R4	supports Arg1:T5 Arg2:T1	
+T7	MajorClaim 1519 1585	students learn far more from their teachers than from other source
+T8	Claim 1607 1679	teachers teach us knowledge but also the skills to tell right from wrong
+A3	Stance T8 For
+T9	Premise 1137 1252	They can only input some key words and google it, and then there are numberless articles and websites related to it
+T10	Premise 1268 1296	students learn things easily
+T11	Premise 1308 1368	they contend that good television programs do teach students
+T12	Premise 1384 1431	Discovery Channel has many instructive episodes
+T13	Premise 1433 1492	Students have knowledge of others cultures, outer space etc
+R5	supports Arg1:T12 Arg2:T11	
+R6	supports Arg1:T13 Arg2:T11	
+R7	supports Arg1:T10 Arg2:T9	
+T6	Claim 951 1030	students learn far more from other sources, such as the Internet and television
+A2	Stance T6 Against
+T14	Claim 1052 1135	within this sources students learn lots of things which they can't learn in classes
+R8	supports Arg1:T14 Arg2:T6	
+R9	supports Arg1:T9 Arg2:T6	
+R10	supports Arg1:T11 Arg2:T6	
+A4	Eloquence T2 3
+A5	Relevance T2 5
+A6	Persuasiveness T2 4
+A7	PremiseType T2 common_knowledge
+A8	Specificity T2 3
+A9	PremiseType T3 common_knowledge
+A10	Specificity T3 4
+A11	Eloquence T3 3
+A12	Relevance T3 5
+A13	Persuasiveness T3 4
+A14	Eloquence T4 2
+A15	Relevance T4 3
+A16	Persuasiveness T4 2
+A17	PremiseType T4 common_knowledge
+A18	Specificity T4 2
+A19	Eloquence T5 4
+A20	Relevance T5 6
+A21	Specificity T5 4
+A22	Persuasiveness T5 5
+A23	PremiseType T5 common_knowledge
+A24	Logos T1 yes
+A25	Ethos T1 no
+A26	Pathos T1 no
+A27	ClaimType T1 Value
+A28	Eloquence T1 4
+A29	Relevance T1 5
+A30	Specificity T1 4
+A31	Persuasiveness T1 4
+A32	Evidence T1 4
+A33	Eloquence T14 3
+A34	Relevance T14 3
+A35	Specificity T14 2
+A36	Persuasiveness T14 2
+A38	PremiseType T10 warrant
+A39	PremiseType T12 real_example
+A40	PremiseType T13 warrant
+A41	Eloquence T9 3
+A42	PremiseType T9 real_example
+A43	Specificity T9 3
+A44	Relevance T9 5
+A45	Eloquence T10 2
+A46	Relevance T10 5
+A47	Persuasiveness T10 3
+A48	Specificity T10 1
+A49	Persuasiveness T9 4
+A50	Eloquence T11 4
+A51	PremiseType T11 common_knowledge
+A52	Relevance T11 5
+A53	Specificity T11 3
+A54	Persuasiveness T11 5
+A55	Eloquence T12 3
+A56	Relevance T12 5
+A57	Persuasiveness T12 3
+A58	Specificity T12 3
+A59	Eloquence T13 2
+A60	Specificity T13 1
+A61	Relevance T13 3
+A62	Persuasiveness T13 2
+A63	Ethos T6 no
+A64	ClaimType T6 Fact
+A65	Logos T6 yes
+A66	Pathos T6 yes
+A67	Eloquence T6 4
+A68	Specificity T6 5
+A69	Relevance T6 5
+A70	Persuasiveness T6 4
+A71	Evidence T6 4
+A72	Logos T8 no
+A73	Persuasiveness T8 2
+A74	ClaimType T8 Value
+A75	Evidence T8 1
+A76	Eloquence T8 2
+A77	Specificity T8 2
+A78	Relevance T8 3
+A79	Ethos T8 no
+A80	Pathos T8 yes
+A81	Eloquence T7 3
+A82	Logos T7 yes
+A83	Ethos T7 no
+A84	Pathos T7 yes
+A85	Specificity T7 3
+A86	Persuasiveness T7 3
+A87	Evidence T7 3
+A88	Strength T2 4
+A89	Evidence T2 1
+A90	Strength T3 4
+A91	Evidence T3 1
+A92	Strength T4 2
+A93	Evidence T4 1
+A94	Strength T5 5
+A95	Evidence T5 1
+A37	Logos T14 no
+A96	ClaimType T14 Fact
+A97	Evidence T14 1
+A98	Ethos T14 no
+A99	Pathos T14 no
+A100	Strength T9 4
+A101	Evidence T9 2
+A102	Strength T10 3
+A103	Evidence T10 1
+A104	Strength T11 5
+A105	Evidence T11 3
+A106	Strength T12 3
+A107	Evidence T12 1
+A108	Strength T13 2
+A109	Evidence T13 1

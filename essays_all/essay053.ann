@@ -1,0 +1,124 @@
+T1	MajorClaim 1591 1678	human being should behave as a guardian to animals rather than as their lord or masters
+T2	Claim 1680 1735	Animal rights are meant to set limits on human behavior
+A1	Stance T2 For
+T3	Claim 474 598	Human being has driven many animals for their personal use such as, cows and other milch animals for yielding milk from them
+A2	Stance T3 For
+T4	Premise 600 717	Likewise, other animals such as, horses, cattles and donkeys for farming, agriculture and as a mode of transportation
+T5	Premise 719 877	Many people keep pets like dogs and cats, trained them as service dogs and snuffing dogs which are very helpful to police force and even to some blind peoples
+T6	Premise 879 924	They are kept for security purposes in houses
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T6 Arg2:T3	
+T7	Claim 945 1004	many farmers and owners exploit animals beyond their limits
+A3	Stance T7 For
+T8	Premise 1020 1111	cows are often injected by Oxytocin, a hormone which is used to forcibly increase lactation
+T9	Premise 1113 1175	This in turn, causes lots of discomfort and pain to the cattle
+T10	Claim 1190 1309	thousand of animals undergo painful suffering or death as a result of scientific research of drugs and various products
+A4	Stance T10 For
+T11	Premise 1311 1381	Another example of this is cage farming which is against animal rights
+T12	Premise 1383 1513	Many other practices like, equestrian sport where horses run miles and miles and beaten up by jockeys to make them run more faster
+T13	Premise 1515 1568	And above all pleasure hunting of defenseless animals
+R7	supports Arg1:T8 Arg2:T7	
+R8	supports Arg1:T9 Arg2:T7	
+R4	supports Arg1:T11 Arg2:T7	
+R5	supports Arg1:T12 Arg2:T7	
+R6	supports Arg1:T13 Arg2:T7	
+A5	PremiseType T4 common_knowledge
+A6	Eloquence T5 3
+A7	Relevance T5 6
+A8	Persuasiveness T5 4
+A9	PremiseType T5 common_knowledge
+A10	Specificity T5 5
+A11	Eloquence T4 3
+A12	Relevance T4 6
+A13	Persuasiveness T4 4
+A14	Specificity T4 3
+A15	Eloquence T6 3
+A16	Relevance T6 4
+A17	Persuasiveness T6 3
+A18	PremiseType T6 common_knowledge
+A19	Specificity T6 1
+A20	Logos T3 yes
+A21	ClaimType T3 Fact
+A22	Eloquence T3 3
+A23	Specificity T3 4
+A24	Ethos T3 no
+A25	Pathos T3 no
+A26	Persuasiveness T3 4
+A27	Evidence T3 4
+A28	Relevance T3 5
+A29	Eloquence T8 4
+A30	Relevance T8 6
+A31	Persuasiveness T8 6
+A32	PremiseType T8 common_knowledge
+A33	Specificity T8 5
+A34	Eloquence T9 3
+A35	Relevance T9 6
+A36	Specificity T9 2
+A37	Persuasiveness T9 4
+A38	PremiseType T9 warrant
+A39	Eloquence T11 3
+A40	Relevance T11 5
+A41	Persuasiveness T11 4
+A42	PremiseType T11 real_example
+A43	Specificity T11 2
+A44	Eloquence T13 3
+A45	Relevance T13 4
+A46	Persuasiveness T13 3
+A47	PremiseType T13 common_knowledge
+A48	Specificity T13 1
+A49	Eloquence T12 3
+A50	PremiseType T12 common_knowledge
+A51	Relevance T12 6
+A52	Persuasiveness T12 4
+A53	Specificity T12 4
+A54	Evidence T7 5
+A55	Logos T7 yes
+A56	ClaimType T7 Fact
+A57	Eloquence T7 3
+A58	Ethos T7 no
+A59	Pathos T7 yes
+A60	Persuasiveness T7 5
+A61	Specificity T7 3
+A62	Relevance T7 6
+A63	Evidence T10 1
+A64	Logos T10 no
+A65	Persuasiveness T10 2
+A66	ClaimType T10 Fact
+A67	Eloquence T10 4
+A68	Specificity T10 3
+A69	Relevance T10 6
+A70	Ethos T10 no
+A71	Pathos T10 no
+A72	Logos T2 no
+A73	Persuasiveness T2 1
+A74	ClaimType T2 Policy
+A75	Evidence T2 1
+A76	Eloquence T2 3
+A77	Specificity T2 2
+A78	Relevance T2 4
+A79	Ethos T2 no
+A80	Pathos T2 no
+A81	Logos T1 yes
+A82	Ethos T1 no
+A83	Pathos T1 yes
+A84	Evidence T1 4
+A85	Persuasiveness T1 4
+A86	Eloquence T1 3
+A87	Specificity T1 3
+A88	Strength T4 4
+A89	Evidence T4 1
+A90	Strength T5 4
+A91	Evidence T5 1
+A92	Strength T6 3
+A93	Evidence T6 1
+A94	Strength T8 6
+A95	Evidence T8 1
+A96	Strength T9 4
+A97	Evidence T9 1
+A98	Strength T11 4
+A99	Evidence T11 1
+A100	Strength T12 4
+A101	Evidence T12 1
+A102	Strength T13 3
+A103	Evidence T13 1

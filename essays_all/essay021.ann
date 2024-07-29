@@ -1,0 +1,174 @@
+T1	MajorClaim 325 384	advertising is the major reason for high sales of a product
+T2	MajorClaim 1701 1769	high sales are obviously a reflection of the powerful advertisements
+T3	Claim 118 207	The most effective way to convince consumers to purchase a product is through advertising
+A1	Stance T3 For
+T4	Claim 218 248	it is not sufficient in itself
+T5	Premise 250 308	The product also should satisfy the needs of the consumers
+T6	Claim 479 569	advertisers push the limits of creativity to dispose the consumers to purchase the product
+A2	Stance T6 For
+T7	Claim 1097 1167	Advertisement is the most effective way to create a well-known product
+A3	Stance T7 For
+T8	Claim 1569 1601	They make the product preferable
+A4	Stance T8 For
+T9	Premise 407 466	We are mainly introduced to products through advertisements
+T10	Premise 571 714	When the consumers are impressed by the way a product is advertised, they can be convinced to consider that the product is a need in some cases
+T11	Premise 716 795	Recently, there is a very creative advertisements of a soft drink product on TV
+T12	Premise 797 909	The story delivers a desired call to drink that soft drink that people tend to drink when the weather is too hot
+T13	Claim 932 984	the number of that product being sold will increases
+T14	Premise 993 1095	the more an advertisement of a product takes place in mass media, the more popular the product becomes
+T15	Premise 1169 1295	Consumers tend to purchase the most known product when it comes to picking one out of two different brands of the same product
+T16	Claim 1297 1398	When a product is commonly used, it becomes trustworthy for the society, no matter what quality it is
+T17	Premise 1409 1454	it also has to be affordable for the consumer
+T18	Premise 1479 1567	advertisements have undeniable affects on the society about the product being advertised
+R1	supports Arg1:T5 Arg2:T4	
+R2	attacks Arg1:T4 Arg2:T3	
+R3	supports Arg1:T9 Arg2:T6	
+R4	supports Arg1:T11 Arg2:T13	
+R5	supports Arg1:T12 Arg2:T13	
+R6	supports Arg1:T10 Arg2:T6	
+R7	supports Arg1:T13 Arg2:T6	
+R8	supports Arg1:T14 Arg2:T7	
+R9	supports Arg1:T15 Arg2:T7	
+R10	supports Arg1:T18 Arg2:T8	
+R11	supports Arg1:T17 Arg2:T16	
+R12	supports Arg1:T16 Arg2:T8	
+A5	Eloquence T4 3
+A6	Relevance T4 4
+A7	Persuasiveness T4 2
+A9	Specificity T4 2
+A10	Eloquence T5 3
+A11	Relevance T5 6
+A12	Persuasiveness T5 2
+A14	Specificity T5 2
+A15	Logos T3 no
+A16	Ethos T3 no
+A17	Pathos T3 no
+A18	Evidence T3 2
+A19	Persuasiveness T3 2
+A20	ClaimType T3 Value
+A21	Eloquence T3 3
+A22	Specificity T3 2
+A23	Relevance T3 6
+A24	Eloquence T9 3
+A25	Relevance T9 3
+A26	Persuasiveness T9 2
+A27	PremiseType T9 common_knowledge
+A28	Specificity T9 1
+A29	Eloquence T10 4
+A30	Relevance T10 5
+A31	Persuasiveness T10 2
+A33	Specificity T10 2
+A34	Eloquence T11 3
+A35	Relevance T11 3
+A36	PremiseType T11 real_example
+A37	Specificity T11 2
+A38	Eloquence T12 2
+A39	Relevance T12 2
+A40	Persuasiveness T12 1
+A41	PremiseType T12 real_example
+A42	Specificity T12 3
+A43	Persuasiveness T11 1
+A44	Eloquence T13 2
+A45	Relevance T13 3
+A46	Persuasiveness T13 2
+A48	Specificity T13 1
+A49	Logos T6 yes
+A50	Ethos T6 no
+A51	Pathos T6 no
+A52	Evidence T6 2
+A53	Persuasiveness T6 2
+A54	ClaimType T6 Fact
+A55	Eloquence T6 4
+A56	Specificity T6 2
+A57	Relevance T6 5
+A58	Eloquence T14 3
+A59	Relevance T14 6
+A60	Persuasiveness T14 2
+A61	PremiseType T14 common_knowledge
+A62	Specificity T14 2
+A63	Eloquence T15 3
+A64	Relevance T15 5
+A65	Persuasiveness T15 4
+A66	PremiseType T15 common_knowledge
+A67	Specificity T15 3
+A68	Logos T7 yes
+A69	Persuasiveness T7 2
+A70	ClaimType T7 Value
+A71	Evidence T7 2
+A72	Eloquence T7 3
+A73	Specificity T7 2
+A74	Relevance T7 6
+A75	Ethos T7 no
+A76	Pathos T7 no
+A77	Eloquence T17 3
+A78	PremiseType T17 warrant
+A79	Specificity T17 4
+A80	Eloquence T16 3
+A81	Relevance T16 4
+A82	Persuasiveness T16 2
+A84	Specificity T16 2
+A85	Relevance T17 6
+A86	Persuasiveness T17 3
+A87	Eloquence T18 3
+A88	Relevance T18 4
+A89	Persuasiveness T18 2
+A91	Specificity T18 1
+A92	Logos T8 yes
+A93	Persuasiveness T8 2
+A94	ClaimType T8 Fact
+A95	Evidence T8 2
+A96	Eloquence T8 3
+A97	Specificity T8 2
+A98	Relevance T8 4
+A99	Ethos T8 no
+A100	Pathos T8 no
+A101	Logos T2 yes
+A102	Persuasiveness T2 2
+A103	Evidence T2 2
+A104	Eloquence T2 4
+A105	Specificity T2 2
+A106	Ethos T2 no
+A107	Pathos T2 no
+A108	Logos T1 yes
+A109	Persuasiveness T1 2
+A110	Evidence T1 2
+A111	Eloquence T1 3
+A112	Specificity T1 2
+A113	Ethos T1 no
+A114	Pathos T1 no
+A115	Evidence T5 1
+A118	Evidence T4 1
+A119	Logos T4 no
+A120	ClaimType T4 Value
+A121	Ethos T4 no
+A122	Pathos T4 no
+A123	Strength T9 2
+A124	Evidence T9 1
+A126	Evidence T10 1
+A47	Strength T11 1
+A129	Evidence T11 1
+A130	Strength T12 1
+A131	Evidence T12 1
+A132	Logos T13 yes
+A133	ClaimType T13 Fact
+A134	Evidence T13 2
+A135	Ethos T13 no
+A136	Pathos T13 no
+A137	Strength T14 2
+A138	Evidence T14 1
+A139	Strength T15 4
+A140	Evidence T15 1
+A83	Strength T17 3
+A141	Evidence T17 1
+A142	Logos T16 no
+A143	ClaimType T16 Value
+A144	Evidence T16 2
+A145	Ethos T16 no
+A146	Pathos T16 no
+A148	Evidence T18 1
+A32	Strength T10 2
+A125	PremiseType T10 common_knowledge
+A90	Strength T18 2
+A127	PremiseType T18 common_knowledge
+A8	Strength T5 2
+A13	PremiseType T5 warrant

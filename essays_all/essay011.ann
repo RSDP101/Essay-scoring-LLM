@@ -1,0 +1,181 @@
+T1	MajorClaim 147 199	the physical education part should not be outweighed
+T2	Claim 201 350	Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country
+A1	Stance T2 For
+T3	MajorClaim 2111 2240	the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students
+T4	Claim 795 938	if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation
+A3	Stance T4 For
+T5	Premise 446 484	healthy body is basis for healthy soul
+T6	Premise 486 581	There is a direct linkage between people's health and the frequency of doing physical exercises
+T7	Premise 583 623	The more we practice, the better we feel
+T8	Premise 639 789	there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better
+R1	supports Arg1:T8 Arg2:T4	
+R2	supports Arg1:T7 Arg2:T4	
+R3	supports Arg1:T6 Arg2:T4	
+R4	supports Arg1:T5 Arg2:T4	
+T9	Claim 949 1027	when we practice outdoors and indoors sports, many aspects are getting clearer
+A4	Stance T9 For
+T10	Premise 1042 1147	when a person goes jogging everyday, eventually he can understand his own body through direct observation
+T11	Premise 1156 1322	the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically
+T12	Premise 1337 1446	almost all natural science discoveries were made by direct observation, which is a part of physical education
+R5	supports Arg1:T10 Arg2:T9	
+R6	supports Arg1:T11 Arg2:T9	
+R7	supports Arg1:T12 Arg2:T9	
+T13	Claim 1470 1554	financial sustainability of a region mostly depends on how healthy the population is
+A5	Stance T13 For
+T14	Premise 1570 1657	the money invested into physical education program can save allocations into healthcare
+T15	Premise 1665 1700	the nation is comparatively healthy
+T16	Premise 1719 1808	physically healthy people can contribute more both into economical and social development
+T17	Claim 1831 1884	the better a person feels, the better his brain works
+T18	Claim 1897 2007	putting physical activities in early steps of human development would finally lead to mentally healthy society
+T19	Premise 2018 2065	it ends up with financially competitive country
+R9	supports Arg1:T15 Arg2:T14	
+A2	Stance T18 For
+R8	supports Arg1:T14 Arg2:T13	
+R10	supports Arg1:T17 Arg2:T18	
+R11	supports Arg1:T16 Arg2:T18	
+R12	supports Arg1:T19 Arg2:T18	
+A6	Logos T2 yes
+A7	ClaimType T2 Fact
+A8	Evidence T2 1
+A9	Specificity T2 3
+A10	Ethos T2 no
+A11	Pathos T2 no
+A12	Eloquence T2 3
+A13	Persuasiveness T2 3
+A14	Relevance T2 4
+A15	Eloquence T5 3
+A16	Relevance T5 4
+A17	Persuasiveness T5 4
+A18	PremiseType T5 testimony
+A19	Specificity T5 3
+A20	Eloquence T6 4
+A21	Specificity T6 3
+A22	Relevance T6 4
+A23	Eloquence T7 2
+A24	Relevance T7 3
+A25	Persuasiveness T7 2
+A26	PremiseType T7 common_knowledge
+A27	Specificity T7 1
+A28	Eloquence T8 2
+A29	Specificity T8 3
+A30	Relevance T8 5
+A31	PremiseType T6 common_knowledge
+A32	Persuasiveness T6 4
+A33	Persuasiveness T8 3
+A34	PremiseType T8 common_knowledge
+A35	Logos T4 yes
+A36	Ethos T4 no
+A37	ClaimType T4 Value
+A38	Eloquence T4 3
+A39	Pathos T4 yes
+A40	Specificity T4 4
+A41	Relevance T4 4
+A42	Persuasiveness T4 3
+A43	Evidence T4 3
+A44	Eloquence T10 3
+A45	Specificity T10 3
+A46	Relevance T10 3
+A47	Persuasiveness T10 3
+A48	PremiseType T10 common_knowledge
+A49	Specificity T9 3
+A50	Eloquence T11 2
+A51	Specificity T11 4
+A52	Relevance T11 4
+A53	PremiseType T11 real_example
+A54	Persuasiveness T11 3
+A55	Eloquence T12 3
+A56	Specificity T12 3
+A57	Relevance T12 2
+A58	Persuasiveness T12 2
+A59	PremiseType T12 common_knowledge
+A60	Ethos T9 no
+A61	Logos T9 yes
+A62	Relevance T9 3
+A63	Evidence T9 2
+A64	ClaimType T9 Fact
+A65	Pathos T9 no
+A66	Persuasiveness T9 2
+A67	Eloquence T9 2
+A68	Eloquence T14 4
+A69	Relevance T14 6
+A70	Persuasiveness T14 5
+A71	PremiseType T14 invented_instance
+A72	Specificity T14 4
+A73	PremiseType T15 warrant
+A74	Eloquence T15 3
+A75	Relevance T15 6
+A76	Persuasiveness T15 4
+A77	Specificity T15 4
+A78	Eloquence T16 5
+A79	Relevance T16 4
+A80	PremiseType T16 common_knowledge
+A81	Specificity T16 4
+A82	Persuasiveness T16 5
+A83	Eloquence T17 2
+A84	Relevance T17 2
+A85	Persuasiveness T17 1
+A87	Specificity T17 1
+A88	Logos T13 yes
+A89	Ethos T13 no
+A90	Pathos T13 no
+A91	ClaimType T13 Fact
+A92	Eloquence T13 5
+A93	Specificity T13 5
+A94	Relevance T13 4
+A95	Persuasiveness T13 4
+A96	Evidence T13 2
+A97	Ethos T18 no
+A98	Eloquence T19 2
+A99	Relevance T19 2
+A100	PremiseType T19 invented_instance
+A101	Specificity T19 1
+A102	Persuasiveness T19 1
+A103	Logos T18 yes
+A104	ClaimType T18 Value
+A105	Specificity T18 4
+A106	Pathos T18 yes
+A107	Eloquence T18 3
+A108	Relevance T18 2
+A109	Evidence T18 2
+A110	Persuasiveness T18 2
+A111	Eloquence T1 2
+A112	Logos T1 yes
+A113	Ethos T1 no
+A114	Pathos T1 yes
+A115	Evidence T1 3
+A116	Specificity T1 3
+A117	Persuasiveness T1 3
+A118	Logos T3 yes
+A119	Persuasiveness T3 1
+A120	Evidence T3 1
+A121	Eloquence T3 2
+A122	Specificity T3 3
+A123	Ethos T3 no
+A124	Pathos T3 no
+A125	Strength T5 4
+A126	Evidence T5 1
+A127	Strength T6 4
+A128	Evidence T6 1
+A129	Strength T7 2
+A130	Evidence T7 1
+A131	Strength T8 3
+A132	Evidence T8 1
+A133	Strength T10 3
+A134	Evidence T10 1
+A135	Strength T11 3
+A136	Evidence T11 1
+A137	Strength T12 2
+A138	Evidence T12 1
+A139	Strength T14 5
+A140	Evidence T14 2
+A141	Strength T16 5
+A142	Evidence T16 1
+A143	Strength T15 4
+A144	Evidence T15 1
+A145	Strength T19 1
+A146	Evidence T19 1
+A86	Logos T17 no
+A147	ClaimType T17 Fact
+A148	Evidence T17 1
+A149	Ethos T17 no
+A150	Pathos T17 no

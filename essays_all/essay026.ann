@@ -1,0 +1,127 @@
+T3	MajorClaim 193 383	it is obvious that prepared food can bring about some negative influence result from utilizing the artificial ingredients, ignoring the nutrition of food and modifying people's eating habits
+T4	Claim 104 183	it can effectively save time which is considered as money in our modern society
+A2	Stance T4 Against
+T5	Claim 911 977	easy-to-cook foods sometimes could be dangerous for human's health
+A3	Stance T5 For
+T6	Premise 501 676	to make their food easier to prepare and taste delicious, almost every producer adds a wide range of artificial ingredients in to the food that is now purchased by most people
+T7	Premise 683 736	ingredients being added have caused dire consequences
+T8	Premise 752 903	there are usually some articles in newspapers and magazines which report the relationship between certain chemical components in some food and diseases
+R1	supports Arg1:T8 Arg2:T7	
+R2	supports Arg1:T7 Arg2:T5	
+R3	supports Arg1:T6 Arg2:T5	
+T9	Claim 979 1041	Not cooking fresh food will also lead to the lack of nutrition
+A4	Stance T9 For
+T10	Premise 1137 1295	Whereas some research has apparently demonstrated that prepared food is unable to support enough nutrients we need, especially for children who are growing up
+R4	supports Arg1:T10 Arg2:T9	
+T1	Claim 1745 1850	the invention of prepared foods definitely satisfies the demand of some people who are busy in their work
+A1	Stance T1 Against
+T2	MajorClaim 1852 1874	it is not a good thing
+T11	Claim 1348 1409	The more prepared food we eat the more cooking skills we lose
+A5	Stance T11 For
+T12	Premise 1411 1558	At the increasing living pace, the majority of people tend to choose microwave as their unique cooker that help them prepare a dish in five minutes
+T13	Claim 1564 1719	rare people have been aware that this has contributed to a modification of cooking habits, which may cause the loss of our custom and culture about cooking
+R5	supports Arg1:T12 Arg2:T11	
+R6	supports Arg1:T13 Arg2:T11	
+A6	Eloquence T4 3
+A7	ClaimType T4 Value
+A8	Specificity T4 2
+A9	Relevance T4 3
+A10	Logos T4 no
+A11	Persuasiveness T4 1
+A12	Evidence T4 1
+A13	Ethos T4 no
+A14	Pathos T4 no
+A15	Eloquence T6 5
+A16	PremiseType T6 common_knowledge
+A17	Specificity T6 5
+A18	Relevance T6 6
+A19	Persuasiveness T6 6
+A20	Eloquence T8 4
+A21	PremiseType T8 common_knowledge
+A22	Specificity T8 3
+A23	Relevance T8 6
+A24	Persuasiveness T8 4
+A25	Eloquence T7 3
+A26	PremiseType T7 warrant
+A27	Specificity T7 1
+A28	Relevance T7 6
+A29	Persuasiveness T7 4
+A30	Ethos T5 yes
+A31	Logos T5 yes
+A32	Pathos T5 yes
+A33	Eloquence T5 3
+A34	Evidence T5 4
+A35	Relevance T5 6
+A36	Persuasiveness T5 4
+A37	ClaimType T5 Fact
+A38	Specificity T5 3
+A39	PremiseType T10 statistics
+A40	Eloquence T10 4
+A41	Relevance T10 6
+A42	Persuasiveness T10 5
+A43	Specificity T10 4
+A44	Logos T9 yes
+A45	Ethos T9 yes
+A46	Pathos T9 no
+A47	ClaimType T9 Fact
+A48	Eloquence T9 3
+A49	Specificity T9 3
+A50	Relevance T9 6
+A51	Persuasiveness T9 3
+A52	Evidence T9 3
+A53	Eloquence T12 3
+A54	PremiseType T12 common_knowledge
+A55	Specificity T12 4
+A56	Logos T1 no
+A57	Persuasiveness T1 1
+A58	ClaimType T1 Fact
+A59	Evidence T1 1
+A60	Eloquence T1 3
+A61	Specificity T1 3
+A62	Ethos T1 no
+A63	Pathos T1 no
+A64	Specificity T2 2
+A65	Eloquence T2 2
+A66	Relevance T12 5
+A67	Persuasiveness T12 4
+A68	Eloquence T13 2
+A69	Specificity T13 3
+A70	Relevance T13 3
+A71	Persuasiveness T13 1
+A73	Logos T11 yes
+A74	Ethos T11 no
+A75	Pathos T11 yes
+A76	ClaimType T11 Fact
+A77	Eloquence T11 3
+A78	Specificity T11 3
+A79	Relevance T11 6
+A80	Persuasiveness T11 2
+A81	Evidence T11 2
+A82	Relevance T1 6
+A83	Logos T2 yes
+A84	Ethos T2 yes
+A85	Pathos T2 yes
+A86	Eloquence T3 4
+A87	Logos T3 yes
+A88	Ethos T3 yes
+A89	Pathos T3 yes
+A90	Specificity T3 5
+A91	Persuasiveness T3 3
+A92	Evidence T3 3
+A93	Persuasiveness T2 2
+A94	Evidence T2 3
+A95	Strength T8 4
+A96	Evidence T8 1
+A97	Strength T6 6
+A98	Evidence T6 1
+A99	Strength T10 5
+A100	Evidence T10 1
+A101	Strength T12 4
+A102	Evidence T12 1
+A72	Strength T7 4
+A103	Evidence T7 4
+A104	Logos T13 no
+A105	ClaimType T13 Value
+A106	Evidence T13 1
+A107	Ethos T13 no
+A108	Pathos T13 no

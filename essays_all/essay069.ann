@@ -1,0 +1,116 @@
+T1	MajorClaim 242 311	This, contrary to some ideas, is a positive progress in human society
+T3	Claim 544 680	Women nowadays are much more active, they may be successful businessmen, they join the political world, they become scientists and so on
+A1	Stance T3 For
+T4	Claim 698 902	the "weaker" gender as often be thought has enough right as well as ability to contribute to the development of human beings just like any other men, not to mention they even perform better in some fields
+T5	Premise 432 542	Gone are the days when women could do nothing rather than stick to boring house work and take care of children
+T6	Claim 350 430	the fairness between males and females is inevitable in such a developed society
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T6 Arg2:T3	
+T7	Claim 925 1032	the revolution in females' right has brought about many benefits not only to themselves but society as well
+A2	Stance T7 For
+T8	Premise 1034 1168	The financial burden of families, for instance, has decreased significantly with both the wives and the husbands working to earn money
+T2	MajorClaim 1755 1900	in a society where females are given equal opportunities compared with males would obviously enjoy lots of benefits far outweighing its obstacles
+T9	Premise 1184 1326	women have the outstanding instinct to take up some careers like healthcare or human resource management due to their patience and elaboration
+R4	supports Arg1:T8 Arg2:T7	
+R5	supports Arg1:T9 Arg2:T7	
+T10	Claim 1340 1422	such changes do lead to some negative results like an upward trend in divorce rate
+A3	Stance T10 Against
+T11	Premise 1453 1538	women find it difficult to balance their work and their traditional role as the wives
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 1546 1627	children might enjoy less care from parents as they are both busy with their work
+R7	supports Arg1:T12 Arg2:T10	
+A5	Eloquence T6 3
+A6	Relevance T6 5
+A7	Persuasiveness T6 2
+A8	Specificity T6 1
+A9	Eloquence T5 3
+A10	PremiseType T5 common_knowledge
+A11	Specificity T5 2
+A12	Eloquence T4 1
+A14	Specificity T4 2
+A15	Relevance T4 3
+A16	Persuasiveness T4 2
+A17	Relevance T5 4
+A18	Persuasiveness T5 3
+A19	Logos T3 yes
+A20	Persuasiveness T3 2
+A21	Evidence T3 2
+A22	Specificity T3 2
+A23	Ethos T3 no
+A24	Pathos T3 no
+A25	ClaimType T3 Value
+A26	Eloquence T3 2
+A27	Relevance T3 3
+A28	Eloquence T8 3
+A29	PremiseType T8 common_knowledge
+A30	Specificity T8 3
+A31	Relevance T8 5
+A32	Persuasiveness T8 4
+A33	Eloquence T9 2
+A34	Relevance T9 4
+A35	Persuasiveness T9 4
+A36	PremiseType T9 common_knowledge
+A37	Specificity T9 4
+A38	Logos T7 yes
+A39	Persuasiveness T7 3
+A40	ClaimType T7 Fact
+A41	Evidence T7 3
+A42	Eloquence T7 2
+A43	Specificity T7 1
+A44	Relevance T7 6
+A45	Ethos T7 no
+A46	Pathos T7 no
+A47	Eloquence T11 3
+A48	Relevance T11 4
+A49	Persuasiveness T11 3
+A50	PremiseType T11 common_knowledge
+A51	Specificity T11 2
+A52	Eloquence T12 3
+A53	Relevance T12 4
+A54	Persuasiveness T12 3
+A55	PremiseType T12 common_knowledge
+A56	Specificity T12 2
+A57	Logos T10 yes
+A58	Persuasiveness T10 2
+A59	Evidence T10 2
+A60	Ethos T10 no
+A61	Pathos T10 no
+A62	ClaimType T10 Fact
+A63	Eloquence T10 3
+A64	Specificity T10 2
+A65	Relevance T10 6
+A66	Logos T2 yes
+A67	Persuasiveness T2 2
+A68	Evidence T2 2
+A69	Eloquence T2 3
+A70	Specificity T2 3
+A71	Ethos T2 no
+A72	Pathos T2 no
+A73	Logos T1 yes
+A74	Persuasiveness T1 2
+A75	Evidence T1 2
+A76	Eloquence T1 3
+A77	Specificity T1 2
+A78	Ethos T1 no
+A79	Pathos T1 no
+A80	Strength T5 3
+A81	Evidence T5 1
+A4	Logos T6 no
+A82	ClaimType T6 Value
+A83	Evidence T6 1
+A84	Ethos T6 no
+A85	Pathos T6 no
+A13	Logos T4 no
+A86	ClaimType T4 Fact
+A87	Evidence T4 1
+A88	Ethos T4 no
+A89	Pathos T4 no
+A90	Strength T8 4
+A91	Evidence T8 1
+A92	Strength T9 4
+A93	Evidence T9 1
+A94	Strength T11 3
+A95	Evidence T11 1
+A96	Strength T12 3
+A97	Evidence T12 1

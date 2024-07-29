@@ -1,0 +1,143 @@
+T1	MajorClaim 205 260	big cities can be a good place for bringing up children
+T2	MajorClaim 1394 1492	Today's children needs somethings to entertain them, and occupy their leisure time in the best way
+T3	Claim 554 631	it is a good idea for children to past their first earlier life in the cities
+A1	Stance T3 For
+T4	Claim 732 787	Children who live in cities have a lot of entertainment
+A2	Stance T4 For
+T5	Claim 1059 1140	they can learn a lot of things by watching television and surfing through the net
+A3	Stance T5 For
+T6	Claim 1235 1303	they can exchange their knowledge, they can learn different cultures
+A4	Stance T6 For
+T7	Claim 1325 1392	countrysides have some advantages such as fresh air, peace, and etc
+A5	Stance T7 Against
+T8	Premise 299 364	education is better in big cities in comparison with countrysides
+T9	Premise 380 541	in my country the best schools, universities and institutes are located in cities, and todays education is one of the most important parts of our children's life
+T10	Premise 647 730	it is acknowledged that a large number of creational facilities are built in cities
+T11	Premise 801 849	playgrounds, parks, science museums, cinemas etc
+T12	Premise 860 916	in countrysides we hardly ever see creational facilities
+T13	Premise 918 998	Children who live in countrysides most of the time pass their free time in farms
+T14	Premise 1009 1054	in big cities children access to media easily
+T15	Premise 1142 1224	Via internet they can have connection with the other children all around the world
+R1	supports Arg1:T9 Arg2:T3	
+R2	supports Arg1:T8 Arg2:T3	
+R3	supports Arg1:T10 Arg2:T4	
+R4	supports Arg1:T11 Arg2:T4	
+R5	supports Arg1:T12 Arg2:T4	
+R6	supports Arg1:T13 Arg2:T4	
+R7	supports Arg1:T14 Arg2:T5	
+R8	supports Arg1:T15 Arg2:T6	
+A6	Eloquence T8 3
+A7	PremiseType T8 common_knowledge
+A8	Specificity T8 2
+A9	Relevance T8 4
+A10	Persuasiveness T8 3
+A11	Eloquence T9 2
+A12	Relevance T9 5
+A13	Persuasiveness T9 4
+A14	PremiseType T9 real_example
+A15	Specificity T9 4
+A16	Logos T3 yes
+A17	Ethos T3 no
+A18	Pathos T3 no
+A19	Evidence T3 3
+A20	Persuasiveness T3 2
+A21	ClaimType T3 Fact
+A22	Eloquence T3 2
+A23	Specificity T3 1
+A24	Relevance T3 6
+A25	Eloquence T10 1
+A26	Relevance T10 2
+A27	Persuasiveness T10 2
+A28	PremiseType T10 common_knowledge
+A29	Specificity T10 2
+A30	Eloquence T11 3
+A31	Relevance T11 6
+A32	Persuasiveness T11 5
+A33	PremiseType T11 common_knowledge
+A34	Specificity T11 4
+A35	Eloquence T12 1
+A36	Relevance T12 2
+A37	Persuasiveness T12 2
+A38	PremiseType T12 common_knowledge
+A39	Specificity T12 1
+A40	Eloquence T13 2
+A41	Relevance T13 2
+A42	Persuasiveness T13 2
+A43	PremiseType T13 common_knowledge
+A44	Specificity T13 2
+A45	Logos T4 yes
+A46	Persuasiveness T4 2
+A47	ClaimType T4 Fact
+A48	Evidence T4 2
+A49	Eloquence T4 3
+A50	Specificity T4 2
+A51	Relevance T4 6
+A52	Ethos T4 no
+A53	Pathos T4 no
+A54	Eloquence T14 2
+A55	PremiseType T14 common_knowledge
+A56	Specificity T14 2
+A57	Relevance T14 4
+A58	Persuasiveness T14 3
+A59	Logos T5 yes
+A60	Persuasiveness T5 2
+A61	ClaimType T5 Fact
+A62	Evidence T5 2
+A63	Eloquence T5 3
+A64	Specificity T5 2
+A65	Relevance T5 3
+A66	Ethos T5 no
+A67	Pathos T5 no
+A68	Eloquence T15 3
+A69	Relevance T15 5
+A70	Persuasiveness T15 3
+A71	PremiseType T15 common_knowledge
+A72	Specificity T15 2
+A73	Logos T6 yes
+A74	Persuasiveness T6 2
+A75	ClaimType T6 Fact
+A76	Evidence T6 2
+A77	Eloquence T6 3
+A78	Specificity T6 2
+A79	Ethos T6 no
+A80	Pathos T6 no
+A81	Logos T2 yes
+A82	Persuasiveness T2 2
+A83	Evidence T2 2
+A84	Eloquence T2 3
+A85	Specificity T2 3
+A86	Ethos T2 no
+A87	Pathos T2 no
+A88	Logos T7 no
+A89	Persuasiveness T7 2
+A90	ClaimType T7 Fact
+A91	Evidence T7 1
+A92	Eloquence T7 3
+A93	Specificity T7 2
+A94	Relevance T7 6
+A95	Ethos T7 no
+A96	Pathos T7 no
+A97	Logos T1 yes
+A98	Persuasiveness T1 2
+A99	Evidence T1 2
+A100	Eloquence T1 3
+A101	Ethos T1 no
+A102	Pathos T1 no
+A103	Specificity T1 2
+A104	Relevance T6 4
+A105	Strength T8 3
+A106	Evidence T8 1
+A107	Strength T9 4
+A108	Evidence T9 1
+A109	Strength T10 2
+A110	Evidence T10 1
+A111	Strength T11 5
+A112	Evidence T11 1
+A113	Strength T12 2
+A114	Evidence T12 1
+A115	Strength T13 2
+A116	Evidence T13 1
+A117	Strength T14 3
+A118	Evidence T14 1
+A119	Strength T15 3
+A120	Evidence T15 1

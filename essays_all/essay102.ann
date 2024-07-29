@@ -1,0 +1,201 @@
+T1	MajorClaim 34 90	public museums and art galleries will still be necessary
+T2	Claim 104 158	we can see the art works and historical objects online
+A1	Stance T2 Against
+T3	Premise 239 282	the Internet really brings them convenience
+T4	Premise 401 450	pictures online are only limited to a screen size
+T5	Premise 465 562	the exhibits in museums or galleries are all life size and visitors can get a more direct felling
+T6	MajorClaim 1578 1617	we still need museums and art galleries
+T7	Claim 1622 1755	computers can be introduced to museums and galleries in order to help visitors to know more about the art works or historical objects
+A2	Stance T7 Against
+T8	Claim 577 636	only when we see the real mummy, can we experience mystique
+T9	Claim 160 230	Most people nowadays prefer to use the Internet to search for art work
+A3	Stance T9 Against
+T10	Premise 284 342	We can browse the art work from all over the world at home
+T11	Premise 353 394	people may not get a spiritual experience
+R1	supports Arg1:T4 Arg2:T11	
+R2	supports Arg1:T3 Arg2:T9	
+R3	supports Arg1:T10 Arg2:T9	
+R4	supports Arg1:T8 Arg2:T5	
+R5	attacks Arg1:T5 Arg2:T9	
+R6	attacks Arg1:T11 Arg2:T9	
+T12	Claim 638 781	In order to help visitors to learn more about the exhibits, museums hold various activities which make visitors be part of what they are seeing
+A4	Stance T12 For
+T13	Premise 796 903	at American Museum of Natural History, you can make a bone-by-bone reproduction of the museum's stegosaurus
+T14	Premise 905 1006	at Museum of Art in New York, you can look at 17th century instruments while listening to their music
+T15	Claim 1008 1095	While if you "visit" the museum online, you may not able to get this kind of experience
+R7	supports Arg1:T13 Arg2:T12	
+R8	supports Arg1:T14 Arg2:T12	
+R9	supports Arg1:T15 Arg2:T12	
+T16	Claim 1097 1183	Seeing an art work on computer screen is not the same as you watch it by your own eyes
+A5	Stance T16 For
+T17	Premise 1199 1302	you can't see the texture of the artwork which is very important to study the skills used by the artist
+T18	Premise 1317 1387	not all the details of the artwork can be shown on the computer screen
+T19	Premise 1389 1414	Some details might be dim
+T20	Premise 1421 1474	the resolution ratio of the screen is not high enough
+R10	supports Arg1:T20 Arg2:T19	
+T21	Premise 1476 1551	These may influence the comprehension of the art work or historical objects
+R11	supports Arg1:T17 Arg2:T16	
+R12	supports Arg1:T18 Arg2:T16	
+R13	supports Arg1:T19 Arg2:T16	
+R14	supports Arg1:T21 Arg2:T16	
+A6	Logos T2 no
+A7	Persuasiveness T2 2
+A8	ClaimType T2 Fact
+A9	Evidence T2 1
+A10	Eloquence T2 3
+A11	Specificity T2 2
+A12	Relevance T2 6
+A13	Ethos T2 no
+A14	Pathos T2 no
+A15	Eloquence T3 2
+A16	Relevance T3 6
+A17	Persuasiveness T3 2
+A18	PremiseType T3 common_knowledge
+A19	Specificity T3 1
+A20	Eloquence T10 3
+A21	Relevance T10 6
+A22	Persuasiveness T10 4
+A23	PremiseType T10 common_knowledge
+A24	Specificity T10 3
+A25	Eloquence T11 3
+A26	Relevance T11 5
+A27	Persuasiveness T11 4
+A28	PremiseType T11 common_knowledge
+A29	Specificity T11 3
+A30	Eloquence T4 3
+A31	Relevance T4 5
+A32	Persuasiveness T4 5
+A33	PremiseType T4 common_knowledge
+A34	Specificity T4 4
+A35	Eloquence T5 3
+A36	Relevance T5 5
+A37	PremiseType T5 common_knowledge
+A38	Specificity T5 4
+A39	Eloquence T8 4
+A40	Relevance T8 6
+A41	Persuasiveness T8 2
+A43	Specificity T8 4
+A44	Persuasiveness T5 5
+A45	Logos T9 yes
+A46	Persuasiveness T9 2
+A47	Evidence T9 2
+A48	Ethos T9 no
+A49	Pathos T9 no
+A50	Pathos T1 yes
+A51	Pathos T6 yes
+A52	ClaimType T9 Fact
+A53	Eloquence T9 3
+A54	Specificity T9 2
+A55	Relevance T9 4
+A56	Eloquence T13 3
+A57	Relevance T13 4
+A58	Persuasiveness T13 5
+A59	PremiseType T13 real_example
+A60	Specificity T13 5
+A61	Eloquence T14 4
+A62	Relevance T14 4
+A63	Persuasiveness T14 5
+A64	PremiseType T14 real_example
+A65	Specificity T14 5
+A66	Eloquence T15 4
+A67	Relevance T15 5
+A68	Persuasiveness T15 2
+A70	Specificity T15 3
+A71	Logos T12 yes
+A72	Persuasiveness T12 6
+A73	ClaimType T12 Fact
+A74	Evidence T12 5
+A75	Eloquence T12 4
+A76	Specificity T12 2
+A77	Relevance T12 6
+A78	Ethos T12 no
+A79	Pathos T12 yes
+A80	Eloquence T17 3
+A81	Relevance T17 6
+A82	Persuasiveness T17 6
+A83	PremiseType T17 common_knowledge
+A84	Specificity T17 5
+A85	Eloquence T18 3
+A86	Relevance T18 6
+A87	Persuasiveness T18 4
+A88	PremiseType T18 common_knowledge
+A89	Specificity T18 3
+A90	Eloquence T20 3
+A91	Relevance T20 6
+A92	Persuasiveness T20 4
+A93	PremiseType T20 common_knowledge
+A94	Specificity T20 4
+A95	Eloquence T19 3
+A96	Relevance T19 6
+A97	Persuasiveness T19 5
+A98	PremiseType T19 common_knowledge
+A99	Specificity T19 2
+A100	Eloquence T21 4
+A101	Relevance T21 6
+A102	Persuasiveness T21 5
+A103	PremiseType T21 common_knowledge
+A104	Specificity T21 3
+A105	Logos T16 yes
+A106	Evidence T16 5
+A107	Persuasiveness T16 5
+A108	ClaimType T16 Fact
+A109	Eloquence T16 2
+A110	Specificity T16 2
+A111	Relevance T16 5
+A112	Ethos T16 no
+A113	Pathos T16 no
+A114	Logos T7 no
+A115	Persuasiveness T7 2
+A116	ClaimType T7 Policy
+A117	Evidence T7 1
+A118	Eloquence T7 3
+A119	Specificity T7 3
+A120	Relevance T7 6
+A121	Ethos T7 no
+A122	Pathos T7 no
+A123	Logos T6 no
+A124	Persuasiveness T6 6
+A125	Evidence T6 6
+A126	Eloquence T6 3
+A127	Specificity T6 2
+A128	Ethos T6 no
+A129	Logos T1 yes
+A130	Persuasiveness T1 6
+A131	Evidence T1 6
+A132	Eloquence T1 3
+A133	Specificity T1 2
+A134	Ethos T1 no
+A135	Strength T3 2
+A136	Evidence T3 1
+A137	Strength T10 4
+A138	Evidence T10 1
+A139	Strength T4 5
+A140	Evidence T4 1
+A141	Strength T11 3
+A142	Evidence T11 4
+A143	Strength T13 5
+A144	Evidence T13 1
+A145	Strength T17 6
+A146	Evidence T17 1
+A147	Strength T18 4
+A148	Evidence T18 1
+A149	Strength T20 4
+A150	Evidence T20 1
+A151	Strength T21 5
+A152	Evidence T21 1
+A153	Strength T19 3
+A154	Evidence T19 5
+A42	Logos T8 no
+A155	ClaimType T8 Fact
+A156	Evidence T8 1
+A157	Ethos T8 no
+A158	Pathos T8 no
+A159	Strength T5 5
+A160	Evidence T5 2
+A69	Logos T15 no
+A161	ClaimType T15 Fact
+A162	Evidence T15 1
+A163	Ethos T15 no
+A164	Pathos T15 no
+A165	Strength T14 5
+A166	Evidence T14 1

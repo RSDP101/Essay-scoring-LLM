@@ -1,0 +1,116 @@
+T1	MajorClaim 317 366	some museums and art galleries will not disappear
+T2	MajorClaim 1469 1568	museums and art galleries are necessary to be preserved for its importance of education and culture
+T3	Claim 1360 1463	modern technology has provided a more convenient and comfortable manner for people to watch exhibitions
+A1	Stance T3 Against
+T4	Premise 385 440	technology indeed simplifies people's life all the time
+T5	Claim 453 620	people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society
+T6	Premise 631 742	in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy
+T7	Premise 751 812	they lack of physical exercise and face-to-face communication
+R1	supports Arg1:T7 Arg2:T6	
+T8	Claim 833 919	the importance of museums and art galleries is plain in terms of education and culture
+A3	Stance T8 For
+T9	Claim 1260 1330	these buildings will not disappear unless people abandon their culture
+A4	Stance T9 For
+T10	Premise 1190 1247	museums and art galleries preserve some culture heritages
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 935 1010	authentic exhibits cannot be completely displayed only by images and videos
+T12	Premise 1012 1175	It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it
+R5	supports Arg1:T11 Arg2:T8	
+R6	supports Arg1:T12 Arg2:T8	
+A5	Stance T5 Against
+R2	supports Arg1:T4 Arg2:T5	
+R3	attacks Arg1:T6 Arg2:T5	
+A2	Persuasiveness T4 2
+A6	Strength T4 2
+A7	Evidence T4 1
+A8	Eloquence T4 3
+A9	PremiseType T4 common_knowledge
+A10	Specificity T4 1
+A11	Relevance T4 4
+A12	Persuasiveness T7 3
+A13	Strength T7 3
+A14	Evidence T7 1
+A15	Eloquence T7 3
+A16	PremiseType T7 common_knowledge
+A17	Specificity T7 3
+A18	Relevance T7 6
+A19	Persuasiveness T6 2
+A20	Evidence T6 3
+A21	Eloquence T6 4
+A22	PremiseType T6 testimony
+A23	Specificity T6 3
+A24	Relevance T6 1
+A25	Strength T6 2
+A26	Persuasiveness T11 2
+A28	Evidence T11 1
+A29	Eloquence T11 4
+A31	Specificity T11 2
+A32	Relevance T11 4
+A34	Persuasiveness T12 5
+A36	Evidence T12 1
+A37	Eloquence T12 3
+A38	Specificity T12 4
+A39	Relevance T12 4
+A42	Logos T5 yes
+A43	Persuasiveness T5 2
+A44	ClaimType T5 Fact
+A45	Evidence T5 2
+A46	Eloquence T5 3
+A47	Specificity T5 3
+A48	Relevance T5 3
+A49	Pathos T5 no
+A50	Logos T8 yes
+A51	Ethos T8 no
+A52	Pathos T8 no
+A53	Evidence T8 4
+A54	Ethos T1 yes
+A55	Ethos T2 yes
+A56	Ethos T5 no
+A57	Persuasiveness T8 4
+A58	ClaimType T8 Value
+A59	Eloquence T8 4
+A60	Specificity T8 2
+A61	Relevance T8 6
+A62	Persuasiveness T10 3
+A63	Strength T10 3
+A64	Evidence T10 1
+A65	Eloquence T10 3
+A66	PremiseType T10 common_knowledge
+A67	Specificity T10 2
+A68	Relevance T10 6
+A69	Logos T9 yes
+A70	Persuasiveness T9 2
+A71	ClaimType T9 Fact
+A72	Evidence T9 2
+A73	Eloquence T9 4
+A74	Specificity T9 4
+A75	Relevance T9 6
+A76	Ethos T9 no
+A77	Pathos T9 no
+A78	Logos T3 no
+A79	ClaimType T3 Fact
+A80	Evidence T3 1
+A81	Eloquence T3 4
+A82	Specificity T3 2
+A83	Relevance T3 4
+A84	Ethos T3 no
+A85	Pathos T3 no
+A86	Persuasiveness T3 2
+A87	Logos T2 yes
+A88	Persuasiveness T2 2
+A89	Evidence T2 2
+A90	Eloquence T2 3
+A91	Specificity T2 3
+A92	Pathos T2 no
+A93	Logos T1 yes
+A94	Persuasiveness T1 2
+A95	Evidence T1 2
+A96	Eloquence T1 3
+A97	Specificity T1 3
+A98	Pathos T1 no
+A33	Strength T12 5
+A35	PremiseType T12 analogy
+A30	Logos T11 no
+A40	ClaimType T11 Value
+A41	Ethos T11 no
+A99	Pathos T11 no

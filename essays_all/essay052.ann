@@ -1,0 +1,139 @@
+T1	MajorClaim 1537 1648	English as an elegant language should be advocated in many fields to expand the global trade and communications
+T2	Claim 274 343	the prevalent of English brings a great number of benefits for people
+A1	Stance T2 For
+T3	Claim 983 1090	the dominated status of English has destroyed culture diversity and many less-used languages become extinct
+A2	Stance T3 Against
+T4	Premise 1097 1132	English is a sophisticated language
+T5	Premise 359 462	it promotes the communication and interaction between different countries more conveniently and clearly
+T6	Premise 464 580	In the ancient time, the different languages and geography set barriers for people to exchange their goods and ideas
+T7	Premise 595 661	the innovation of plane and train solved the geographical barriers
+T8	Claim 663 746	If we can popularize the use of English, the language hinder will disappear as well
+T9	Claim 761 860	English is a beautiful language, which is more systematical and extensive than many other languages
+T10	Claim 862 945	Learning English can foster people's sentiment and nourish their literature and art
+T11	Premise 1134 1251	it does not express every detail of life especially in Asia countries, which have totally different linguistic system
+T12	Premise 1275 1394	language contains many aspects of people's daily life, which is influenced by culture, environment as well as religious
+T13	Claim 1407 1523	these languages have special significance for people who belong to them and using English to replace them is crudity
+T14	Claim 1655 1751	we still need preserve other languages for sake of keeping the linguistic and cultural diversity
+A3	Stance T14 Against
+R1	supports Arg1:T5 Arg2:T2	
+R2	supports Arg1:T6 Arg2:T2	
+R3	supports Arg1:T7 Arg2:T2	
+R4	supports Arg1:T8 Arg2:T2	
+R5	supports Arg1:T9 Arg2:T2	
+R6	supports Arg1:T10 Arg2:T2	
+R7	attacks Arg1:T11 Arg2:T4	
+R8	supports Arg1:T4 Arg2:T3	
+R9	supports Arg1:T12 Arg2:T13	
+R10	supports Arg1:T13 Arg2:T3	
+A4	Relevance T5 5
+A5	PremiseType T5 common_knowledge
+A6	Persuasiveness T5 4
+A7	Strength T5 4
+A8	Evidence T5 1
+A9	Eloquence T5 3
+A10	Specificity T5 3
+A11	Persuasiveness T6 4
+A12	Strength T6 4
+A13	Evidence T6 1
+A14	Eloquence T6 3
+A15	PremiseType T6 real_example
+A16	Specificity T6 2
+A17	Relevance T6 5
+A18	Persuasiveness T7 1
+A19	Strength T7 1
+A20	Evidence T7 1
+A21	Eloquence T7 2
+A22	PremiseType T7 common_knowledge
+A23	Specificity T7 2
+A24	Relevance T7 1
+A25	Persuasiveness T8 2
+A27	Evidence T8 1
+A28	Eloquence T8 1
+A30	Specificity T8 3
+A31	Relevance T8 5
+A32	Logos T9 no
+A33	Persuasiveness T9 2
+A34	ClaimType T9 Value
+A35	Evidence T9 1
+A36	Eloquence T9 3
+A37	Specificity T9 2
+A38	Relevance T9 5
+A39	Ethos T9 no
+A40	Pathos T9 no
+A41	Persuasiveness T10 2
+A43	Evidence T10 1
+A44	Eloquence T10 3
+A46	Specificity T10 1
+A47	Relevance T10 5
+A48	Logos T2 yes
+A49	Ethos T2 no
+A50	Pathos T2 no
+A51	Evidence T2 3
+A52	Persuasiveness T2 3
+A53	ClaimType T2 Fact
+A54	Eloquence T2 2
+A55	Specificity T2 3
+A56	Relevance T2 5
+A57	Persuasiveness T11 3
+A58	Strength T11 3
+A59	Evidence T11 1
+A60	Eloquence T11 3
+A61	PremiseType T11 common_knowledge
+A62	Specificity T11 2
+A63	Relevance T11 4
+A64	Eloquence T4 3
+A65	PremiseType T4 common_knowledge
+A66	Specificity T4 1
+A67	Evidence T4 2
+A68	Persuasiveness T12 3
+A69	Strength T12 3
+A70	Evidence T12 1
+A71	Eloquence T12 2
+A72	PremiseType T12 common_knowledge
+A73	Specificity T12 4
+A74	Relevance T12 5
+A75	Logos T13 yes
+A76	ClaimType T13 Value
+A77	Eloquence T13 4
+A78	Specificity T13 2
+A79	Relevance T13 5
+A80	Ethos T13 no
+A81	Pathos T13 no
+A82	Persuasiveness T13 2
+A83	Evidence T13 2
+A84	Pathos T3 yes
+A85	Strength T4 2
+A86	Relevance T4 4
+A87	Persuasiveness T4 2
+A88	Logos T3 yes
+A89	Persuasiveness T3 2
+A90	ClaimType T3 Fact
+A91	Evidence T3 2
+A92	Eloquence T3 2
+A93	Specificity T3 3
+A94	Relevance T3 3
+A95	Ethos T3 no
+A96	Logos T14 no
+A97	Persuasiveness T14 2
+A98	ClaimType T14 Policy
+A99	Evidence T14 1
+A100	Eloquence T14 3
+A101	Specificity T14 2
+A102	Relevance T14 4
+A103	Ethos T14 no
+A104	Pathos T14 no
+A105	Logos T1 yes
+A106	Persuasiveness T1 2
+A107	Evidence T1 2
+A108	Eloquence T1 3
+A109	Specificity T1 3
+A110	Ethos T1 no
+A111	Pathos T1 no
+A26	Logos T8 no
+A29	ClaimType T8 Fact
+A112	Ethos T8 no
+A113	Pathos T8 no
+A42	Logos T10 no
+A45	ClaimType T10 Fact
+A114	Ethos T10 no
+A115	Pathos T10 no

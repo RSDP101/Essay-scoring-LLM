@@ -1,0 +1,112 @@
+T1	MajorClaim 523 601	technology plays a key role in promoting traditional techniques and lifestyles
+T3	Claim 603 730	In terms of time and space, technology makes it more efficient and effective to promote the traditional skills and ways of life
+A1	Stance T3 For
+T4	Premise 1044 1211	with the access to the Internet, one of the greatest innovations in modern society, humankind can acquire the traditional techniques displayed online anytime, anywhere
+T5	Premise 732 843	In the past, only when people went to the local place could they experience the specific traditional lifestyles
+T6	Premise 845 1033	This means individuals who were engaged in work and therefore could not spare time to travel or restricted by traffic conditions had to miss the chance to appreciate the traditional skills
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T6 Arg2:T3	
+T7	Claim 1227 1334	technology enriches the way of displaying traditional cultural heritage, making it more vivid and appealing
+A3	Stance T7 For
+T2	Premise 1349 1521	China has successfully promoted traditional techniques in the Shanghai World Expo, using a variety of state-of-the-art technological methods, such as robots and LED screens
+T8	Premise 1532 1649	many tourists around the world marveled at the perfect synthesis of the modern technology and the traditional culture
+R6	supports Arg1:T2 Arg2:T7	
+R7	supports Arg1:T8 Arg2:T7	
+T9	Claim 1670 1771	some people are concerned that technology may have a detrimental effect on the traditional lifestyles
+A4	Stance T9 Against
+T10	Premise 1797 1942	especially youngsters, are crazier about fresh and advanced things, such as digital products, thus becoming indifferent to traditional techniques
+R8	supports Arg1:T10 Arg2:T9	
+T11	Premise 1988 2061	people tend to follow the trend back to the tradition in the recent years
+R9	attacks Arg1:T11 Arg2:T10	
+T12	MajorClaim 2095 2193	technology indeed supports the preservation and promotion of traditional techniques and lifestyles
+R1	supports Arg1:T4 Arg2:T3	
+A2	Eloquence T5 2
+A5	Relevance T5 3
+A6	Persuasiveness T5 3
+A7	PremiseType T5 common_knowledge
+A8	Specificity T5 2
+A9	Eloquence T6 3
+A10	Relevance T6 4
+A11	Persuasiveness T6 4
+A12	PremiseType T6 common_knowledge
+A13	Specificity T6 3
+A14	Eloquence T4 2
+A15	Relevance T4 4
+A16	Persuasiveness T4 3
+A17	PremiseType T4 common_knowledge
+A18	Specificity T4 3
+A19	Logos T3 yes
+A20	ClaimType T3 Value
+A21	Evidence T3 3
+A22	Eloquence T3 3
+A23	Ethos T3 no
+A24	Pathos T3 no
+A25	Specificity T3 3
+A26	Persuasiveness T3 3
+A27	Relevance T3 6
+A28	Eloquence T2 3
+A29	PremiseType T2 real_example
+A30	Specificity T2 5
+A31	Ethos T7 yes
+A32	Logos T7 no
+A33	Relevance T2 6
+A34	Persuasiveness T2 6
+A35	Eloquence T8 4
+A36	Relevance T8 5
+A37	Persuasiveness T8 6
+A38	PremiseType T8 real_example
+A39	Specificity T8 5
+A40	Persuasiveness T7 4
+A41	ClaimType T7 Value
+A42	Evidence T7 4
+A43	Eloquence T7 4
+A44	Specificity T7 2
+A45	Relevance T7 6
+A46	Pathos T7 no
+A47	Eloquence T11 3
+A48	PremiseType T11 common_knowledge
+A49	Specificity T11 2
+A50	Relevance T11 5
+A51	Persuasiveness T11 3
+A52	Eloquence T10 4
+A53	PremiseType T10 common_knowledge
+A54	Specificity T10 4
+A55	Relevance T10 4
+A56	Persuasiveness T10 3
+A57	Logos T9 yes
+A58	Persuasiveness T9 2
+A59	ClaimType T9 Value
+A60	Evidence T9 2
+A61	Eloquence T9 3
+A62	Specificity T9 1
+A63	Relevance T9 6
+A64	Ethos T9 no
+A65	Pathos T9 no
+A66	Logos T12 yes
+A67	Persuasiveness T12 3
+A68	Evidence T12 3
+A69	Eloquence T12 4
+A70	Specificity T12 2
+A71	Ethos T12 yes
+A72	Pathos T12 no
+A73	Logos T1 yes
+A74	Persuasiveness T1 3
+A75	Evidence T1 3
+A76	Eloquence T1 2
+A77	Specificity T1 2
+A78	Ethos T1 yes
+A79	Pathos T1 no
+A80	Strength T5 3
+A81	Evidence T5 1
+A82	Strength T6 4
+A83	Evidence T6 1
+A84	Strength T4 3
+A85	Evidence T4 1
+A86	Strength T2 6
+A87	Evidence T2 1
+A88	Strength T8 6
+A89	Evidence T8 1
+A90	Strength T11 3
+A91	Evidence T11 1
+A92	Evidence T10 2
+A93	Strength T10 4

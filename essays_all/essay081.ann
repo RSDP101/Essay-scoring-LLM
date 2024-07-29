@@ -1,0 +1,193 @@
+T1	MajorClaim 301 394	the artists must be given freedom so that they will produce some really marvelous masterpiece
+T2	MajorClaim 2217 2270	there should not be any restrictions on artists' work
+T3	Claim 2515 2594	there are many wonderful and beautiful Arts due to the freedom to express ideas
+A1	Stance T3 For
+T4	MajorClaim 2624 2663	there should be no restrictions on them
+T5	Premise 2272 2353	Allowing them to think freely will give them an opportunity to express themselves
+T6	Premise 2357 2411	ideas can naturally flow when there are no limitations
+T7	Claim 2420 2488	even though freedom to express ideas can bring some negative effects
+R1	attacks Arg1:T7 Arg2:T3	
+R2	supports Arg1:T6 Arg2:T5	
+R3	supports Arg1:T5 Arg2:T3	
+T8	Claim 844 923	without any limitations, there will be more awe inspiring work from our artists
+A2	Stance T8 For
+T9	Claim 416 524	if there is control over artists' ideas, they will definitely lose their sense of creativity in the long run
+T10	Premise 548 707	when they are given the opportunity to express themselves, most artists will think out of the box and come up with spectacular Arts such as paintings or movies
+T11	Premise 722 832	paintings by Da Vinci and Michallengo are admired even till now as they were not restricted during those times
+R6	supports Arg1:T10 Arg2:T8	
+R7	supports Arg1:T11 Arg2:T8	
+T12	Claim 938 1070	it is every human's right to be able to voice out their opinions in any ways as long as they do not cause any problems to the nation
+T13	Claim 1486 1570	human rights is violated if artists are not allowed to express their feelings freely
+A5	Stance T13 For
+T14	Premise 1072 1158	Today, many countries make numerous efforts to show that they are democratic countries
+T15	Premise 1160 1277	Arts is one of the ways that can be used to criticise social problems and government policies in a particular country
+T16	Premise 1307 1478	the famous movie '3 Idiots' acted by Amir Khan criticises the education system which is chiefly based on memorising and not being able to apply whatever the students learn
+R12	supports Arg1:T14 Arg2:T13	
+R13	supports Arg1:T15 Arg2:T13	
+R14	supports Arg1:T16 Arg2:T15	
+T17	Claim 1865 2019	In case there is anyone who brings up some sensitive issues in their films or books regarding any races, this might end up in some chaos among the society
+A6	Stance T17 Against
+T18	Claim 2049 2179	artists know their boundaries very well and would surely do not want their names tarnished just because of their unscrupulous acts
+T19	Premise 1665 1748	They might go deeper into certain aspects that can cause controversies in a country
+T20	Premise 1770 1863	Malaysia is a multiracial country whereby all the citizens live together in harmony and peace
+R16	supports Arg1:T20 Arg2:T17	
+R17	supports Arg1:T19 Arg2:T17	
+R18	supports Arg1:T18 Arg2:T17	
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T12 Arg2:T13	
+A3	Eloquence T9 4
+A4	Persuasiveness T9 2
+A8	Specificity T9 2
+A9	Eloquence T10 4
+A10	Persuasiveness T10 3
+A11	PremiseType T10 common_knowledge
+A12	Specificity T10 3
+A13	Eloquence T11 3
+A14	Persuasiveness T11 4
+A15	PremiseType T11 real_example
+A16	Specificity T11 4
+A17	Relevance T11 6
+A18	Relevance T10 6
+A19	Relevance T9 6
+A20	Logos T8 yes
+A21	Persuasiveness T8 2
+A22	ClaimType T8 Fact
+A23	Evidence T8 3
+A24	Eloquence T8 3
+A25	Specificity T8 1
+A26	Relevance T8 6
+A27	Ethos T8 no
+A28	Pathos T8 no
+A29	Eloquence T12 4
+A31	Specificity T12 2
+A32	Relevance T12 6
+A33	Persuasiveness T12 2
+A34	Eloquence T14 3
+A35	PremiseType T14 real_example
+A36	Specificity T14 2
+A37	Relevance T14 2
+A38	Persuasiveness T14 3
+A39	Eloquence T16 4
+A40	Relevance T16 6
+A41	Persuasiveness T16 6
+A42	PremiseType T16 real_example
+A43	Specificity T16 5
+A44	Eloquence T15 3
+A45	Relevance T15 3
+A46	PremiseType T15 common_knowledge
+A47	Specificity T15 3
+A48	Persuasiveness T15 3
+A49	Ethos T13 yes
+A50	Pathos T13 yes
+A51	Eloquence T13 3
+A52	Specificity T13 2
+A53	Logos T13 yes
+A54	Persuasiveness T13 3
+A55	ClaimType T13 Fact
+A56	Evidence T13 3
+A57	Relevance T13 5
+A58	Eloquence T19 3
+A59	PremiseType T19 common_knowledge
+A60	Specificity T19 2
+A61	Relevance T19 4
+A62	Persuasiveness T19 3
+A63	Relevance T20 2
+A64	Eloquence T18 3
+A66	Specificity T18 2
+A67	Relevance T18 2
+A68	Persuasiveness T18 2
+A69	Eloquence T20 3
+A70	Persuasiveness T20 2
+A71	PremiseType T20 real_example
+A72	Specificity T20 2
+A73	Logos T17 yes
+A74	Ethos T17 no
+A75	Pathos T17 no
+A76	Evidence T17 2
+A77	Eloquence T17 2
+A78	Specificity T17 2
+A79	Persuasiveness T17 2
+A80	Eloquence T6 3
+A81	PremiseType T6 common_knowledge
+A82	Specificity T6 1
+A83	Relevance T6 5
+A84	Persuasiveness T6 2
+A85	Eloquence T5 4
+A86	PremiseType T5 common_knowledge
+A87	Specificity T5 2
+A88	Relevance T5 4
+A89	Persuasiveness T5 3
+A90	Eloquence T7 3
+A91	Relevance T7 5
+A92	Persuasiveness T7 2
+A94	Specificity T7 2
+A95	ClaimType T3 Fact
+A96	Evidence T3 2
+A97	ClaimType T17 Fact
+A98	Eloquence T3 3
+A99	Specificity T3 2
+A100	Relevance T3 5
+A101	Logos T3 yes
+A102	Persuasiveness T3 2
+A103	Ethos T3 no
+A104	Pathos T3 no
+A105	Logos T4 yes
+A106	Persuasiveness T4 2
+A107	Evidence T4 2
+A108	Eloquence T4 3
+A109	Specificity T4 2
+A110	Ethos T4 yes
+A111	Pathos T4 yes
+A112	Logos T2 yes
+A113	Persuasiveness T2 2
+A114	Evidence T2 2
+A115	Eloquence T2 3
+A116	Specificity T2 2
+A117	Ethos T2 yes
+A118	Pathos T2 yes
+A119	Logos T1 yes
+A120	Persuasiveness T1 2
+A121	Evidence T1 2
+A122	Eloquence T1 2
+A123	Specificity T1 2
+A124	Ethos T1 yes
+A125	Pathos T1 yes
+A126	Relevance T17 4
+A7	Logos T9 yes
+A127	ClaimType T9 Fact
+A128	Evidence T9 1
+A129	Ethos T9 no
+A130	Pathos T9 no
+A131	Strength T10 3
+A132	Evidence T10 1
+A133	Strength T11 4
+A134	Evidence T11 1
+A30	Logos T12 no
+A135	ClaimType T12 Fact
+A136	Evidence T12 1
+A137	Ethos T12 no
+A138	Pathos T12 no
+A139	Strength T14 3
+A140	Evidence T14 1
+A141	Strength T16 6
+A142	Evidence T16 1
+A143	Strength T15 3
+A144	Evidence T15 6
+A145	Strength T19 3
+A146	Evidence T19 1
+A147	Strength T20 2
+A148	Evidence T20 1
+A65	Logos T18 no
+A149	ClaimType T18 Fact
+A150	Evidence T18 1
+A151	Ethos T18 no
+A152	Pathos T18 no
+A93	Logos T7 no
+A153	Evidence T7 1
+A154	Ethos T7 no
+A155	Pathos T7 no
+A156	Strength T6 2
+A157	Evidence T6 1
+A158	Strength T5 3
+A159	Evidence T5 2
+A160	ClaimType T7 Fact

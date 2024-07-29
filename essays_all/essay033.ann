@@ -1,0 +1,79 @@
+T1	MajorClaim 1355 1460	I would rather classify myself in the proponents of globalization as a speeding factor of global progress
+T2	Claim 453 612	the idea of globalization put their inherited culture in danger of uncontrolled change and make them vulnerable against the attack of imperialistic governments
+T3	Claim 320 435	Some people prefer to recognize globalization as a threat to ethnic and religious values of people of their country
+A1	Stance T3 Against
+R1	supports Arg1:T2 Arg2:T3	
+T4	Claim 647 738	globalization contribute effectively to the global improvement of the world in many aspects
+A2	Stance T4 For
+T5	Premise 740 926	Developing globalization, people can have more access to many natural resources of the world and it leads to increasing the pace of scientific and economic promotions of the entire world
+T6	Premise 941 1113	they admit that globalization can be considered a chance for people of each country to promote their lifestyle through the stuffs and services imported from other countries
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T6 Arg2:T4	
+T7	Claim 1172 1236	globalization results in considerable decrease in global tension
+A3	Stance T7 For
+T8	Premise 1244 1338	convergence of benefits of people of the world which is a natural consequence of globalization
+R4	supports Arg1:T8 Arg2:T7	
+A4	Eloquence T2 4
+A5	Specificity T2 4
+A7	Relevance T2 6
+A8	Persuasiveness T2 1
+A9	Logos T3 yes
+A10	Persuasiveness T3 2
+A11	ClaimType T3 Value
+A12	Evidence T3 2
+A13	Eloquence T3 4
+A14	Specificity T3 4
+A15	Ethos T3 no
+A16	Pathos T3 yes
+A17	Relevance T3 6
+A18	Eloquence T5 4
+A19	Relevance T5 6
+A20	Persuasiveness T5 5
+A21	PremiseType T5 common_knowledge
+A22	Specificity T5 5
+A23	Eloquence T6 4
+A24	PremiseType T6 invented_instance
+A25	Relevance T6 6
+A26	Persuasiveness T6 4
+A27	Specificity T6 4
+A28	Logos T4 yes
+A29	Ethos T4 no
+A30	Pathos T4 no
+A31	ClaimType T4 Fact
+A32	Eloquence T4 3
+A33	Specificity T4 4
+A34	Relevance T4 6
+A35	Persuasiveness T4 4
+A36	Evidence T4 4
+A37	Eloquence T8 4
+A38	Relevance T8 6
+A39	Persuasiveness T8 4
+A40	PremiseType T8 common_knowledge
+A41	Specificity T8 3
+A42	Persuasiveness T7 3
+A43	Evidence T7 2
+A44	Logos T7 yes
+A45	Ethos T7 no
+A46	Pathos T7 no
+A47	Eloquence T7 3
+A48	Specificity T7 3
+A49	Relevance T7 6
+A50	ClaimType T7 Fact
+A51	Logos T1 yes
+A52	Persuasiveness T1 3
+A53	Evidence T1 3
+A54	Eloquence T1 3
+A55	Specificity T1 3
+A56	Ethos T1 no
+A57	Pathos T1 yes
+A6	Logos T2 no
+A58	ClaimType T2 Fact
+A59	Evidence T2 1
+A60	Ethos T2 no
+A61	Pathos T2 no
+A62	Strength T8 4
+A63	Evidence T8 1
+A64	Strength T5 5
+A65	Evidence T5 1
+A66	Strength T6 4
+A67	Evidence T6 1

@@ -1,0 +1,103 @@
+T1	MajorClaim 347 414	I find myself aligned with opponents of the usages of nuclear power
+T2	MajorClaim 1593 1699	nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages
+T3	Claim 532 611	pursuit of nuclear technology one way or the other leads towards atomic weapons
+A1	Stance T3 For
+T4	Premise 613 667	Last century has witnessed the horrors of such weapons
+T5	Premise 669 774	If each country pursues the fusion and fission process some of them may try to mold it for military usage
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+T6	Claim 821 891	even civil usages of atomic power pose a dire threat of radio activity
+A2	Stance T6 For
+T7	Premise 905 1061	recently there has been an incident in which an atomic power house leaked tons of radio active material into air when an earthquake hit the surrounding area
+T8	Premise 1063 1161	This unfortunate event proves that no matter how much careful we are such accidents are inevitable
+R3	supports Arg1:T7 Arg2:T6	
+R4	supports Arg1:T8 Arg2:T6	
+T9	Claim 1316 1422	Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it
+A3	Stance T9 For
+T10	Premise 1183 1314	while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power
+T11	Premise 1424 1520	This waste is many times more lethal to our environment than any of the other hazardous material
+R5	supports Arg1:T10 Arg2:T9	
+R6	supports Arg1:T11 Arg2:T9	
+A4	Eloquence T4 3
+A5	PremiseType T4 real_example
+A6	Specificity T4 1
+A7	Eloquence T11 2
+A8	Relevance T4 6
+A9	Persuasiveness T4 2
+A10	Eloquence T5 3
+A11	Relevance T5 5
+A12	Persuasiveness T5 3
+A13	PremiseType T5 common_knowledge
+A14	Specificity T5 2
+A15	Logos T3 yes
+A16	Persuasiveness T3 2
+A17	Evidence T3 2
+A18	Eloquence T3 3
+A19	Specificity T3 3
+A20	Relevance T3 4
+A21	Ethos T3 no
+A22	Pathos T3 yes
+A23	ClaimType T3 Fact
+A24	Eloquence T7 4
+A25	Relevance T7 6
+A26	Persuasiveness T7 5
+A27	PremiseType T7 real_example
+A28	Specificity T7 5
+A29	Eloquence T8 3
+A30	Relevance T8 6
+A31	Persuasiveness T8 4
+A32	PremiseType T8 common_knowledge
+A33	Specificity T8 3
+A34	Logos T6 yes
+A35	Persuasiveness T6 3
+A36	ClaimType T6 Fact
+A37	Evidence T6 3
+A38	Eloquence T6 4
+A39	Specificity T6 2
+A40	Relevance T6 6
+A41	Ethos T6 no
+A42	Pathos T6 no
+A43	Eloquence T10 4
+A44	PremiseType T10 common_knowledge
+A45	Specificity T10 4
+A46	Relevance T10 5
+A47	Persuasiveness T10 4
+A48	Relevance T11 6
+A49	Persuasiveness T11 4
+A50	PremiseType T11 common_knowledge
+A51	Specificity T11 3
+A52	Logos T9 yes
+A53	ClaimType T9 Fact
+A54	Eloquence T9 3
+A55	Ethos T9 no
+A56	Pathos T9 no
+A57	Persuasiveness T9 3
+A58	Evidence T9 3
+A59	Specificity T9 2
+A60	Relevance T9 6
+A61	Evidence T2 3
+A62	Logos T2 yes
+A63	Ethos T2 no
+A64	Pathos T2 yes
+A65	Persuasiveness T2 3
+A66	Eloquence T2 3
+A67	Specificity T2 2
+A68	Persuasiveness T1 3
+A69	Specificity T1 2
+A70	Evidence T1 3
+A71	Logos T1 yes
+A72	Eloquence T1 3
+A73	Ethos T1 no
+A74	Pathos T1 yes
+A75	Strength T4 2
+A76	Evidence T4 1
+A77	Strength T5 3
+A78	Evidence T5 1
+A79	Strength T7 5
+A80	Evidence T7 1
+A81	Strength T8 4
+A82	Evidence T8 1
+A83	Strength T10 4
+A84	Evidence T10 1
+A85	Strength T11 4
+A86	Evidence T11 1

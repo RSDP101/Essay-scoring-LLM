@@ -1,0 +1,106 @@
+T1	MajorClaim 378 508	the advantages of building a factory will outweigh its disadvantages, if we tackle the environmental problems brought by factories
+T2	Claim 524 608	a large factory can stimulate local economic growth and reduce the unemployment rate
+A1	Stance T2 For
+T3	Premise 610 712	To manufacture goods, there must be the demand of laborers, from which the local residents can benefit
+T4	Premise 728 858	the factory is not isolated, other industries and business will be quickly established, resulting in economic growth of local area
+T5	Premise 873 960	the estate industry will be boosted in order to satisfy the workers' accommodation need
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T4 Arg2:T2	
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 1002 1168	It is true that some area are suffering the dire consequences caused by overdeveloping the industry, such as water pollution, overcrowded traffic and medical problems
+T7	Premise 1184 1368	in some industrial cities, a large proportion of the workers are suffering various breathing problems, such as asthma which can be caused by waste ashes and certain chemical substances
+T8	Claim 962 1000	The main disadvantage is contamination
+A2	Stance T8 Against
+R4	supports Arg1:T6 Arg2:T8	
+R5	supports Arg1:T7 Arg2:T6	
+T9	Claim 1484 1587	how to improve the disadvantages of building a factory would be more important than whether to build it
+A3	Stance T9 For
+T10	Premise 1379 1471	it is inevitable that there will be more factories built with the development of our society
+T11	Claim 1597 1700	most problems can be avoidable if the factories put in real and great effort to manage their waste well
+R6	supports Arg1:T10 Arg2:T9	
+R7	supports Arg1:T11 Arg2:T9	
+A4	Eloquence T3 3
+A5	Relevance T3 6
+A6	Persuasiveness T3 4
+A7	PremiseType T3 common_knowledge
+A8	Specificity T3 4
+A9	Eloquence T4 4
+A10	PremiseType T4 common_knowledge
+A11	Eloquence T5 3
+A12	Relevance T5 6
+A13	Persuasiveness T5 4
+A14	PremiseType T5 invented_instance
+A15	Specificity T5 2
+A16	Relevance T4 6
+A17	Persuasiveness T4 6
+A18	Specificity T4 4
+A19	Logos T2 yes
+A20	ClaimType T2 Fact
+A21	Eloquence T2 4
+A22	Ethos T2 no
+A23	Pathos T2 no
+A24	Specificity T2 4
+A25	Persuasiveness T2 4
+A26	Evidence T2 4
+A27	Relevance T2 6
+A28	Eloquence T6 3
+A29	Relevance T6 6
+A30	Persuasiveness T6 6
+A31	PremiseType T6 common_knowledge
+A32	Specificity T6 5
+A33	Eloquence T7 4
+A34	Relevance T7 6
+A35	Persuasiveness T7 5
+A36	PremiseType T7 common_knowledge
+A37	Specificity T7 5
+A38	Logos T8 yes
+A39	ClaimType T8 Fact
+A40	Eloquence T8 3
+A41	Ethos T8 no
+A42	Pathos T8 no
+A43	Specificity T8 3
+A44	Relevance T8 6
+A45	Persuasiveness T8 4
+A46	Evidence T8 4
+A47	Eloquence T10 3
+A48	PremiseType T10 common_knowledge
+A49	Specificity T10 3
+A50	Relevance T10 5
+A51	Persuasiveness T10 3
+A52	Eloquence T11 2
+A53	Relevance T11 4
+A54	Persuasiveness T11 1
+A56	Specificity T11 3
+A57	Logos T9 yes
+A58	Persuasiveness T9 3
+A59	ClaimType T9 Fact
+A60	Evidence T9 3
+A61	Eloquence T9 2
+A62	Ethos T9 no
+A63	Pathos T9 no
+A64	Specificity T9 3
+A65	Relevance T9 6
+A66	Eloquence T1 4
+A67	Logos T1 yes
+A68	Ethos T1 no
+A69	Pathos T1 no
+A70	Persuasiveness T1 3
+A71	Evidence T1 3
+A72	Specificity T1 4
+A73	Strength T3 4
+A74	Evidence T3 1
+A75	Strength T5 4
+A76	Evidence T5 1
+A77	Strength T7 5
+A78	Evidence T7 1
+A79	Strength T10 3
+A80	Evidence T10 1
+A81	Strength T4 6
+A82	Evidence T4 4
+A83	Strength T6 6
+A84	Evidence T6 6
+A55	Logos T11 no
+A85	ClaimType T11 Fact
+A86	Evidence T11 1
+A87	Ethos T11 no
+A88	Pathos T11 no

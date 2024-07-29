@@ -1,0 +1,157 @@
+T1	MajorClaim 1633 1720	Consideration and communication, in my personal opinion, are the most important quality
+T2	MajorClaim 315 374	the most important quality of roommates is being considered
+T3	MajorClaim 393 465	communication is also another essential particularity of a good roommate
+T4	Claim 468 517	Consideration is always important in relationship
+T5	Premise 532 596	roommate turns down the music or television volume at night time
+T6	Claim 598 684	Sometimes we will not know what we have done until we have a taste of our own medicine
+T7	Claim 686 830	At all times, think about the other's feeling before doing any self-centered action would help to improve the roommate relationship tremendously
+T8	Claim 843 918	having a considered roommate is significantly imperative to our school life
+A2	Stance T8 For
+T9	Claim 920 1004	It will not only prevent conflicts but also to have a friend or even a family member
+R1	supports Arg1:T9 Arg2:T8	
+T10	Claim 1016 1063	communication is as well making a good roommate
+T11	Premise 1456 1549	Through communication, bonded are build and we could have better understanding of each others
+T12	Claim 1380 1411	communication is very important
+A4	Stance T12 For
+T13	Premise 1065 1147	People have different habit in daily life, such as tidy the blanket in the morning
+T14	Premise 1149 1237	One might think this is a piece of cake while other would consider it as immense project
+T15	Premise 1239 1367	If one requested to move out just because his roommate do not tidy up the blanket in the morning might be crying over split milk
+R13	supports Arg1:T13 Arg2:T12	
+R14	supports Arg1:T14 Arg2:T12	
+R16	supports Arg1:T15 Arg2:T12	
+R18	supports Arg1:T11 Arg2:T12	
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T7 Arg2:T8	
+R4	supports Arg1:T6 Arg2:T8	
+R5	supports Arg1:T4 Arg2:T8	
+T16	Claim 1415 1454	it would clear up the misinterpretation
+R6	supports Arg1:T16 Arg2:T12	
+R7	supports Arg1:T10 Arg2:T12	
+A1	Eloquence T4 2
+A3	Specificity T4 1
+A5	Relevance T4 3
+A7	Persuasiveness T4 2
+A8	PremiseType T5 invented_instance
+A9	Eloquence T5 2
+A10	Relevance T5 3
+A11	Persuasiveness T5 2
+A12	Specificity T5 1
+A13	Eloquence T6 3
+A14	Relevance T6 2
+A15	Persuasiveness T6 2
+A17	Specificity T6 1
+A18	Eloquence T7 3
+A19	Specificity T7 4
+A20	Relevance T7 4
+A21	Persuasiveness T7 1
+A23	Relevance T9 4
+A24	Eloquence T9 2
+A25	Persuasiveness T9 1
+A27	Specificity T9 1
+A28	Logos T8 yes
+A29	Ethos T8 no
+A30	Eloquence T8 2
+A31	ClaimType T8 Fact
+A32	Persuasiveness T8 2
+A33	Evidence T8 2
+A34	Specificity T8 2
+A35	Relevance T8 4
+A36	Pathos T8 yes
+A37	Eloquence T10 1
+A38	Relevance T10 2
+A39	Persuasiveness T10 1
+A41	Specificity T10 1
+A42	Eloquence T13 2
+A43	Specificity T13 3
+A44	Relevance T13 2
+A45	Persuasiveness T13 2
+A46	PremiseType T13 common_knowledge
+A47	Eloquence T14 2
+A48	PremiseType T14 warrant
+A49	Specificity T14 2
+A50	Relevance T14 3
+A51	Persuasiveness T14 3
+A52	Eloquence T15 1
+A53	PremiseType T15 invented_instance
+A54	Specificity T15 1
+A55	Relevance T15 1
+A56	Persuasiveness T15 1
+A57	Eloquence T16 1
+A58	Relevance T16 2
+A59	Persuasiveness T16 1
+A61	Specificity T16 1
+A62	Eloquence T11 3
+A63	Relevance T11 3
+A64	Specificity T11 3
+A65	Persuasiveness T11 3
+A66	PremiseType T11 common_knowledge
+A67	Logos T12 yes
+A68	Ethos T12 no
+A69	ClaimType T12 Fact
+A70	Eloquence T12 2
+A71	Specificity T12 2
+A72	Pathos T12 yes
+A73	Evidence T12 2
+A74	Relevance T12 3
+A75	Persuasiveness T12 2
+A76	Ethos T1 no
+A77	Eloquence T2 3
+A78	Ethos T2 no
+A79	Logos T2 yes
+A80	Evidence T2 2
+A81	Specificity T2 3
+A82	Pathos T2 yes
+A83	Logos T3 yes
+A84	Ethos T3 no
+A85	Specificity T3 3
+A86	Pathos T3 yes
+A87	Evidence T3 2
+A88	Persuasiveness T3 2
+A89	Eloquence T3 3
+A90	Logos T1 yes
+A91	Persuasiveness T1 3
+A92	Evidence T1 2
+A93	Eloquence T1 3
+A94	Specificity T1 3
+A95	Pathos T1 yes
+A96	Persuasiveness T2 2
+A60	Logos T16 no
+A97	ClaimType T16 Fact
+A98	Evidence T16 1
+A99	Ethos T16 no
+A100	Pathos T16 no
+A6	Logos T4 no
+A101	ClaimType T4 Fact
+A102	Evidence T4 2
+A103	Ethos T4 no
+A104	Pathos T4 no
+A16	Evidence T6 1
+A105	Logos T6 no
+A106	ClaimType T6 Value
+A107	Ethos T6 no
+A108	Pathos T6 no
+A22	Logos T7 no
+A109	ClaimType T7 Value
+A110	Evidence T7 1
+A111	Ethos T7 no
+A112	Pathos T7 no
+A26	Logos T9 no
+A113	ClaimType T9 Value
+A114	Evidence T9 1
+A115	Ethos T9 no
+A116	Pathos T9 no
+A117	Strength T5 2
+A118	Evidence T5 1
+A40	Logos T10 no
+A119	ClaimType T10 Fact
+A120	Evidence T10 1
+A121	Ethos T10 no
+A122	Pathos T10 no
+A123	Strength T13 2
+A124	Evidence T13 1
+A125	Strength T14 3
+A126	Evidence T14 1
+A127	Strength T15 1
+A128	Evidence T15 1
+A129	Strength T11 3
+A130	Evidence T11 1

@@ -1,0 +1,158 @@
+T1	MajorClaim 336 373	human needs should be considered more
+T2	Claim 302 334	endangered animals are important
+A1	Stance T2 Against
+T3	Premise 384 419	day by day population is increasing
+T4	Premise 424 466	human needs for food is increasing as well
+T5	MajorClaim 1309 1360	nowadays humans need farmland, housing and industry
+T6	Claim 1372 1452	increasing population are more important than saving land for endangered animals
+A3	Stance T6 For
+T7	Claim 1239 1285	they do not need so much land that people need
+A4	Stance T7 For
+T8	Premise 1164 1234	the population of endangered animals are less than people's population
+R1	supports Arg1:T8 Arg2:T7	
+T9	Claim 620 654	farmlands are vital for human life
+A5	Stance T9 For
+T10	Premise 468 607	We need farmland to grow crops such as wheat and corn, and there is no doubt that without food people cannot alive for more than some weeks
+R2	supports Arg1:T10 Arg2:T9	
+R3	supports Arg1:T4 Arg2:T9	
+R4	supports Arg1:T3 Arg2:T4	
+T11	Premise 666 767	people need shelters to protect themselves from mother nature such as wind and flood and wild animals
+T12	Premise 816 896	Dwelling is one of the most important human needs after food which is undeniable
+T13	Claim 772 814	they need land to build their houses on it
+A2	Stance T13 For
+R5	supports Arg1:T11 Arg2:T13	
+R6	supports Arg1:T12 Arg2:T13	
+T14	Claim 1023 1064	some lands should be assigned to industry
+A6	Stance T14 For
+T15	Claim 907 1010	human need some crucial things to continue their life, and most of them are industrial such as medicine
+T16	Claim 1066 1148	Todays life has some difficulty which become comfortable with the help of industry
+R7	supports Arg1:T15 Arg2:T14	
+R8	supports Arg1:T16 Arg2:T14	
+A7	Logos T2 no
+A8	Ethos T2 no
+A9	Pathos T2 no
+A10	Persuasiveness T2 2
+A11	ClaimType T2 Value
+A12	Evidence T2 1
+A13	Eloquence T2 3
+A14	Specificity T2 2
+A15	Relevance T2 4
+A16	Eloquence T3 2
+A17	Persuasiveness T3 3
+A18	PremiseType T3 common_knowledge
+A19	Specificity T3 2
+A20	Eloquence T4 3
+A21	Persuasiveness T4 4
+A22	PremiseType T4 common_knowledge
+A23	Specificity T4 4
+A24	Eloquence T10 3
+A25	PremiseType T10 common_knowledge
+A26	Specificity T10 4
+A27	Relevance T4 4
+A28	Relevance T3 5
+A29	Relevance T10 6
+A30	Persuasiveness T10 5
+A31	Logos T9 yes
+A32	Persuasiveness T9 4
+A33	ClaimType T9 Value
+A34	Evidence T9 4
+A35	Eloquence T9 3
+A36	Specificity T9 2
+A37	Relevance T9 4
+A38	Ethos T9 no
+A39	Pathos T9 no
+A40	Eloquence T11 2
+A41	Relevance T11 6
+A42	Persuasiveness T11 4
+A43	PremiseType T11 common_knowledge
+A44	Specificity T11 3
+A45	Eloquence T12 4
+A46	Relevance T12 5
+A47	Persuasiveness T12 4
+A48	PremiseType T12 common_knowledge
+A49	Specificity T12 3
+A50	Logos T13 yes
+A51	Persuasiveness T13 3
+A52	ClaimType T13 Fact
+A53	Evidence T13 3
+A54	Eloquence T13 3
+A55	Specificity T13 2
+A56	Relevance T13 4
+A57	Ethos T13 no
+A58	Pathos T13 no
+A59	Eloquence T15 2
+A60	Relevance T15 5
+A61	Persuasiveness T15 3
+A63	Specificity T15 2
+A64	Eloquence T16 2
+A65	Relevance T16 6
+A66	Persuasiveness T16 2
+A68	Specificity T16 2
+A69	Logos T14 yes
+A70	Persuasiveness T14 2
+A71	ClaimType T14 Policy
+A72	Evidence T14 2
+A73	Eloquence T14 3
+A74	Specificity T14 2
+A75	Relevance T14 4
+A76	Ethos T14 no
+A77	Pathos T14 no
+A78	Eloquence T8 2
+A79	Relevance T8 4
+A80	Persuasiveness T8 3
+A81	PremiseType T8 common_knowledge
+A82	Specificity T8 3
+A83	Logos T7 yes
+A84	Persuasiveness T7 2
+A85	ClaimType T7 Fact
+A86	Evidence T7 2
+A87	Eloquence T7 2
+A88	Specificity T7 2
+A89	Relevance T7 5
+A90	Ethos T7 no
+A91	Pathos T7 no
+A92	Logos T6 no
+A93	Persuasiveness T6 2
+A94	ClaimType T6 Value
+A95	Evidence T6 1
+A96	Eloquence T6 2
+A97	Specificity T6 3
+A98	Relevance T6 3
+A99	Ethos T6 no
+A100	Pathos T6 no
+A101	Logos T5 yes
+A102	Persuasiveness T5 4
+A103	Evidence T5 4
+A104	Eloquence T5 3
+A105	Specificity T5 4
+A106	Ethos T5 no
+A107	Pathos T5 no
+A108	Logos T1 yes
+A109	Persuasiveness T1 4
+A110	Evidence T1 4
+A111	Eloquence T1 3
+A112	Specificity T1 2
+A113	Ethos T1 no
+A114	Pathos T1 no
+A115	Strength T3 3
+A116	Evidence T3 1
+A117	Strength T4 4
+A118	Evidence T4 4
+A119	Strength T10 5
+A120	Evidence T10 1
+A121	Strength T11 4
+A122	Evidence T11 1
+A123	Strength T12 4
+A124	Evidence T12 1
+A62	Logos T15 no
+A125	ClaimType T15 Fact
+A126	Evidence T15 1
+A127	Ethos T15 no
+A128	Pathos T15 no
+A67	Logos T16 no
+A129	ClaimType T16 Fact
+A130	Evidence T16 1
+A131	Ethos T16 no
+A132	Pathos T16 no
+A133	Strength T8 3
+A134	Evidence T8 1

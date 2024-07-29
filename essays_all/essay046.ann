@@ -1,0 +1,79 @@
+T3	Claim 706 795	A university, in common sense, is a medium for conveying or providing access to knowledge
+T4	Claim 827 904	students are the ones universities should really cater for, not the employers
+T5	Premise 955 1207	High school graduates choose to further educate themselves in universities because of all different reasons: a degree that's more widely accepted, gain knowledge and insight into an industry, or simply deepen their research interests in a certain field
+T6	Premise 909 953	students are the ones here to seek knowledge
+R2	supports Arg1:T6 Arg2:T4	
+T2	MajorClaim 1683 1778	the main function of a university remains as the provision of knowledge and access to resources
+T7	Claim 1542 1666	a university should provide access to information, rather than offer selected courses that are suitable for employers' taste
+A2	Stance T7 For
+T8	Premise 1228 1313	universities are regarded as institutions where abundant educational resources gather
+T9	Claim 1315 1488	It is, therefore, not necessary for a certain course or type of training to be offered to the students by a university, but instead, these must be made available when needed
+R5	supports Arg1:T9 Arg2:T7	
+A3	Stance T3 For
+R1	supports Arg1:T4 Arg2:T3	
+R3	supports Arg1:T5 Arg2:T3	
+R4	supports Arg1:T8 Arg2:T9	
+A1	Persuasiveness T6 4
+A4	Strength T6 4
+A5	Evidence T6 1
+A6	Eloquence T6 4
+A7	PremiseType T6 common_knowledge
+A8	Specificity T6 3
+A9	Relevance T6 6
+A10	Logos T4 yes
+A11	Persuasiveness T4 3
+A12	ClaimType T4 Policy
+A13	Evidence T4 3
+A14	Eloquence T4 4
+A15	Specificity T4 2
+A16	Relevance T4 4
+A17	Ethos T4 no
+A18	Pathos T4 no
+A19	Persuasiveness T5 5
+A20	Strength T5 5
+A21	Evidence T5 1
+A22	Eloquence T5 5
+A23	PremiseType T5 common_knowledge
+A24	Specificity T5 4
+A25	Relevance T5 5
+A26	Logos T3 yes
+A27	Persuasiveness T3 3
+A28	ClaimType T3 Fact
+A29	Evidence T3 3
+A30	Eloquence T3 4
+A31	Specificity T3 2
+A32	Relevance T3 6
+A33	Ethos T3 no
+A34	Pathos T3 no
+A35	Specificity T7 2
+A36	Persuasiveness T8 3
+A37	Strength T8 3
+A38	Evidence T8 1
+A39	Eloquence T8 4
+A40	PremiseType T8 common_knowledge
+A41	Specificity T8 3
+A42	Relevance T8 3
+A43	Logos T9 yes
+A44	Persuasiveness T9 2
+A45	ClaimType T9 Policy
+A46	Evidence T9 2
+A47	Eloquence T9 5
+A48	Specificity T9 3
+A49	Relevance T9 3
+A50	Ethos T9 no
+A51	Pathos T9 no
+A52	Logos T7 yes
+A53	Persuasiveness T7 2
+A54	ClaimType T7 Policy
+A55	Evidence T7 2
+A56	Eloquence T7 4
+A57	Relevance T7 6
+A58	Ethos T7 no
+A59	Pathos T7 no
+A60	Logos T2 yes
+A61	Persuasiveness T2 2
+A62	Evidence T2 2
+A63	Eloquence T2 4
+A64	Specificity T2 3
+A65	Ethos T2 no
+A66	Pathos T2 no

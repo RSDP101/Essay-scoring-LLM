@@ -1,0 +1,115 @@
+T1	MajorClaim 374 459	newspapers have lost their competitive advantage to sustain their prolonged existence
+T2	Claim 1090 1175	the print media has failed to keep its important role in the provision of information
+A1	Stance T2 For
+T3	Premise 554 650	to obtain information, using the internet is quicker and more convenient than reading newspapers
+T4	Premise 652 888	Contrary to the past when people had to wait long hours to take a daily newspaper, nowadays, they can acquire latest news updated every second through their mobile phones or computers connected to the internet, everywhere and at anytime
+T5	Premise 890 1081	As can be seen, these devices and machines are very common in all parts of the world, making it easier for people to read a number of things that newspapers can not provide in only some pages
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T4 Arg2:T2	
+R3	supports Arg1:T5 Arg2:T2	
+T6	Claim 1706 1838	the number of people reading newspapers may continue falling sharply, possibly leading to the close-downs of many in the coming time
+A2	Stance T6 For
+T7	Premise 1200 1324	from the economic aspect, buying newspapers appears to be a waste of money when the internet becomes available for every one
+T8	Premise 1356 1439	the internet service is being provided at a low cost or even free in many countries
+T9	Claim 1624 1687	The answer, perhaps, is that hardly would rational people do so
+R4	supports Arg1:T9 Arg2:T6	
+R5	supports Arg1:T8 Arg2:T6	
+R6	supports Arg1:T7 Arg2:T6	
+T10	Claim 2107 2188	newspapers' production will have to face environmentalists on its way to be alive
+A3	Stance T10 For
+T11	Premise 1861 1993	when taking environment into consideration, people must conceive that the more newspapers are published, the more trees are cut down
+T12	Premise 1995 2090	This is simply the contributor to the deforestation which is happening all over the world today
+R7	supports Arg1:T12 Arg2:T10	
+R8	supports Arg1:T11 Arg2:T10	
+A5	Ethos T1 no
+A6	Persuasiveness T1 6
+A7	Pathos T1 no
+A8	PremiseType T3 common_knowledge
+A9	PremiseType T4 real_example
+A11	Logos T2 yes
+A12	ClaimType T2 Fact
+A13	Persuasiveness T2 6
+A14	Ethos T2 no
+A15	Pathos T2 no
+A17	PremiseType T8 common_knowledge
+A18	Persuasiveness T6 5
+A21	ClaimType T6 Fact
+A22	Ethos T6 no
+A23	Pathos T6 no
+A24	PremiseType T11 real_example
+A25	PremiseType T12 real_example
+A26	Logos T10 yes
+A27	Persuasiveness T10 5
+A28	Pathos T10 no
+A29	ClaimType T10 Fact
+A4	Relevance T3 5
+A10	Eloquence T3 4
+A16	Specificity T3 3
+A20	Persuasiveness T3 6
+A30	Eloquence T4 5
+A31	Relevance T4 5
+A32	Persuasiveness T4 6
+A33	Specificity T4 5
+A34	Eloquence T5 5
+A35	Relevance T5 6
+A36	Persuasiveness T5 6
+A37	PremiseType T5 real_example
+A38	Specificity T5 5
+A39	Evidence T2 5
+A40	Relevance T2 6
+A41	Eloquence T7 3
+A42	PremiseType T7 real_example
+A43	Specificity T7 4
+A44	Relevance T7 4
+A45	Persuasiveness T7 5
+A46	Eloquence T8 3
+A47	Specificity T8 3
+A48	Relevance T8 4
+A49	Eloquence T9 5
+A50	Relevance T9 4
+A51	Persuasiveness T9 2
+A52	Specificity T9 1
+A53	Logos T6 yes
+A54	Evidence T6 5
+A55	Relevance T6 6
+A56	Eloquence T11 4
+A57	Relevance T11 6
+A58	Persuasiveness T11 6
+A59	Specificity T11 3
+A60	Eloquence T12 3
+A61	Relevance T12 6
+A62	Persuasiveness T12 6
+A63	Specificity T12 4
+A64	Evidence T10 5
+A65	Relevance T10 5
+A66	Ethos T10 no
+A67	Logos T1 yes
+A68	Evidence T1 6
+A69	Eloquence T1 4
+A70	Specificity T1 4
+A71	Eloquence T2 4
+A72	Specificity T2 2
+A73	Eloquence T6 4
+A74	Specificity T6 3
+A75	Eloquence T10 3
+A76	Specificity T10 2
+A77	Persuasiveness T8 4
+A19	Logos T9 no
+A78	ClaimType T9 Fact
+A79	Evidence T9 1
+A80	Ethos T9 no
+A81	Pathos T9 no
+A82	Strength T8 4
+A83	Evidence T8 1
+A84	Strength T7 5
+A85	Evidence T7 1
+A86	Strength T5 6
+A87	Evidence T5 1
+A88	Strength T4 6
+A89	Evidence T4 1
+A90	Strength T3 6
+A91	Evidence T3 1
+A92	Strength T11 6
+A93	Evidence T11 1
+A94	Strength T12 6
+A95	Evidence T12 1

@@ -1,0 +1,117 @@
+T1	MajorClaim 1582 1649	all languages should be preserved and developed as much as possible
+T2	Premise 419 529	it is easy to realize that languages, especially oral language, are a quite major part of culture of a country
+T3	Claim 715 857	Governments should spend money on keeping and preserving these things for the rich diversity of cultures which make our world more interesting
+A2	Stance T3 For
+T4	Premise 531 604	It helps people distinguish between nations and even regions in a country
+T5	Premise 606 713	The clearance of minority of language means that a national traditional, customs and habitants do not exist
+T6	Claim 873 983	it is a pride of the country with a rage of culture which is easy to educate people to love their country more
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T2 Arg2:T3	
+R4	supports Arg1:T6 Arg2:T3	
+T7	Claim 1004 1059	there are some drawbacks from saving minority languages
+A1	Stance T7 Against
+T8	Claim 1070 1145	governments invest money on doing that, it is hard to gain the good results
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 1168 1274	there are a few people, particularly the youngsters, do not pay attention on collecting and studying those
+T10	Premise 1276 1336	These kinds of languages are usually difficult and unpopular
+T11	Premise 1351 1463	the preservations need a long time to gather, restore all information as well as train in the educational centre
+T12	Claim 1465 1545	If they do not try their best, their protection can be halted and waste of money
+R6	supports Arg1:T9 Arg2:T7	
+R7	supports Arg1:T10 Arg2:T7	
+R8	supports Arg1:T11 Arg2:T7	
+R9	supports Arg1:T12 Arg2:T7	
+A3	Eloquence T9 1
+A5	Eloquence T2 3
+A6	Relevance T2 5
+A7	Persuasiveness T2 4
+A8	PremiseType T2 common_knowledge
+A9	Specificity T2 3
+A10	Eloquence T4 3
+A11	Relevance T4 3
+A12	Persuasiveness T4 3
+A13	PremiseType T4 common_knowledge
+A14	Specificity T4 3
+A15	Eloquence T5 1
+A16	Relevance T5 2
+A17	Persuasiveness T5 2
+A18	PremiseType T5 common_knowledge
+A19	Specificity T5 2
+A20	Eloquence T6 1
+A21	Relevance T6 4
+A22	Persuasiveness T6 2
+A24	Specificity T6 1
+A25	Logos T3 yes
+A26	Evidence T3 2
+A27	ClaimType T3 Policy
+A28	Eloquence T3 3
+A29	Ethos T3 no
+A30	Pathos T3 yes
+A31	Persuasiveness T3 2
+A32	Specificity T3 2
+A33	Relevance T3 6
+A34	Eloquence T8 3
+A35	Relevance T8 6
+A36	Persuasiveness T8 2
+A38	Specificity T8 2
+A39	Relevance T9 2
+A40	Persuasiveness T9 2
+A41	PremiseType T9 common_knowledge
+A42	Specificity T9 3
+A43	Eloquence T10 3
+A44	Relevance T10 4
+A45	Persuasiveness T10 4
+A46	PremiseType T10 common_knowledge
+A47	Specificity T10 3
+A48	Eloquence T11 1
+A49	Relevance T11 4
+A50	Persuasiveness T11 2
+A51	PremiseType T11 common_knowledge
+A52	Specificity T11 4
+A53	Eloquence T12 1
+A54	Relevance T12 4
+A55	Persuasiveness T12 2
+A56	Specificity T12 2
+A57	Logos T7 yes
+A58	Persuasiveness T7 2
+A59	ClaimType T7 Fact
+A60	Evidence T7 2
+A61	Eloquence T7 3
+A62	Specificity T7 2
+A63	Relevance T7 6
+A64	Ethos T7 no
+A65	Pathos T7 no
+A66	Logos T1 yes
+A67	Persuasiveness T1 2
+A68	Evidence T1 2
+A69	Eloquence T1 3
+A70	Specificity T1 2
+A71	Ethos T1 no
+A72	Pathos T1 yes
+A73	Strength T2 4
+A74	Evidence T2 1
+A75	Strength T4 3
+A76	Evidence T4 1
+A77	Strength T5 2
+A78	Evidence T5 1
+A23	Logos T6 no
+A79	ClaimType T6 Fact
+A80	Evidence T6 1
+A81	Ethos T6 no
+A82	Pathos T6 no
+A37	Logos T8 no
+A83	ClaimType T8 Fact
+A84	Evidence T8 1
+A85	Ethos T8 no
+A86	Pathos T8 no
+A87	Strength T9 2
+A88	Evidence T9 1
+A89	Strength T10 4
+A90	Evidence T10 1
+A91	Strength T11 2
+A92	Evidence T11 1
+A4	Evidence T12 1
+A93	Logos T12 no
+A94	ClaimType T12 Fact
+A95	Ethos T12 no
+A96	Pathos T12 no

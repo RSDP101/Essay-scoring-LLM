@@ -1,0 +1,163 @@
+T3	MajorClaim 328 397	governments spend more money on buses, trains, and subways investment
+T4	Claim 484 578	they help alleviate traffic congestion and decrease the amount of carbon released into the air
+A1	Stance T4 For
+T5	Premise 399 473	Such public vehicles are used to serve a large number of people in society
+R1	supports Arg1:T5 Arg2:T4	
+T1	Claim 1244 1353	the policy that concentrates money on developing public transportation brings an advantageous impact on earth
+A2	Stance T1 For
+T2	Premise 1086 1231	if there are more good buses, trains, or subways, people are inclined to use less private vehicles, which decreases the amount of carbon released
+R2	supports Arg1:T2 Arg2:T1	
+T6	Premise 637 713	carbon emission cut is significantly essential for protecting the atmosphere
+T7	Premise 732 820	the more cars and motorbikes are on roads, the more seriously the ozone layer is damaged
+T8	Premise 822 945	If governments use more money to improve roads, there is a strong likelihood that more people drive their private cars work
+T9	Claim 947 1075	This is sure to lead to more carbon emitted into the atmosphere, which can cause skin cancer and destroy the natural environment
+A4	Stance T9 For
+R3	supports Arg1:T8 Arg2:T9	
+R4	supports Arg1:T6 Arg2:T9	
+R5	supports Arg1:T7 Arg2:T9	
+T10	Premise 1554 1607	there are a great number of vehicles flowing on roads
+T11	Premise 1432 1513	It is quiet clear that traffic congestion is a serious problem in many big cities
+T12	Claim 1641 1732	governments have to turn people' attention on public vehicles to reduce cars and motorbikes
+T13	Premise 1734 1853	There is the possibility that improving roads and highways does not seem to reach the major cause of traffic congestion
+T14	Premise 1369 1430	the policy would play a pivotal part in relieving traffic jam
+T15	Claim 1891 1952	high-quality roads and highways make it easier to move around
+A5	Stance T15 Against
+T16	MajorClaim 1968 2033	public transportation systems even have more important advantages
+T17	Claim 2035 2097	They not only ease traffic jam but also protect the atmosphere
+A6	Stance T17 For
+A3	Stance T12 For
+R6	supports Arg1:T13 Arg2:T12	
+R7	supports Arg1:T11 Arg2:T12	
+R8	supports Arg1:T10 Arg2:T12	
+R9	supports Arg1:T14 Arg2:T12	
+A7	Eloquence T5 2
+A8	Relevance T5 3
+A9	Persuasiveness T5 2
+A10	PremiseType T5 common_knowledge
+A11	Specificity T5 2
+A12	Logos T4 yes
+A13	Evidence T4 2
+A14	Eloquence T4 5
+A15	ClaimType T4 Fact
+A16	Ethos T4 no
+A17	Pathos T4 no
+A18	Specificity T4 3
+A19	Persuasiveness T4 3
+A20	Relevance T4 4
+A21	Eloquence T6 3
+A22	PremiseType T6 real_example
+A23	Specificity T6 3
+A24	Relevance T6 5
+A25	Persuasiveness T6 4
+A26	Eloquence T7 3
+A27	Specificity T7 3
+A28	Relevance T7 5
+A29	PremiseType T7 real_example
+A30	Persuasiveness T7 4
+A31	Eloquence T8 3
+A32	Specificity T8 4
+A33	Relevance T8 5
+A34	Persuasiveness T8 4
+A35	PremiseType T8 invented_instance
+A36	Specificity T9 5
+A37	Logos T9 yes
+A38	ClaimType T9 Fact
+A39	Eloquence T9 5
+A40	Relevance T9 4
+A41	Ethos T9 no
+A42	Pathos T9 yes
+A43	Persuasiveness T9 4
+A44	Evidence T9 3
+A45	Eloquence T2 4
+A46	Specificity T2 4
+A47	Relevance T2 5
+A48	Persuasiveness T2 5
+A49	PremiseType T2 invented_instance
+A50	Evidence T1 2
+A51	ClaimType T1 Policy
+A52	Eloquence T1 3
+A53	Specificity T1 4
+A54	Logos T1 yes
+A55	Relevance T1 4
+A56	Ethos T1 no
+A57	Pathos T1 yes
+A58	Persuasiveness T1 3
+A59	Logos T15 yes
+A60	ClaimType T15 Fact
+A61	Evidence T15 1
+A62	Eloquence T15 3
+A63	Ethos T15 no
+A64	Pathos T15 no
+A65	Relevance T15 3
+A66	Persuasiveness T15 1
+A67	Specificity T15 3
+A68	Evidence T17 1
+A69	Eloquence T14 3
+A70	Relevance T14 5
+A71	Persuasiveness T14 3
+A72	PremiseType T14 warrant
+A73	Specificity T14 2
+A74	Eloquence T11 3
+A75	PremiseType T11 common_knowledge
+A76	Specificity T11 3
+A77	Relevance T11 4
+A78	Persuasiveness T11 3
+A79	Eloquence T10 2
+A80	Specificity T10 1
+A81	Relevance T10 3
+A82	Persuasiveness T10 2
+A83	PremiseType T10 common_knowledge
+A84	Eloquence T13 3
+A85	Specificity T13 3
+A86	Relevance T13 2
+A87	Persuasiveness T13 2
+A88	PremiseType T13 invented_instance
+A89	Ethos T12 no
+A90	Evidence T12 2
+A91	Logos T12 yes
+A92	Pathos T12 no
+A93	ClaimType T12 Policy
+A94	Eloquence T12 2
+A95	Specificity T12 2
+A96	Persuasiveness T12 2
+A97	Relevance T12 3
+A98	Logos T17 yes
+A99	Ethos T17 no
+A100	Pathos T17 no
+A101	Specificity T17 1
+A102	Relevance T17 3
+A103	Persuasiveness T17 2
+A104	ClaimType T17 Fact
+A105	Eloquence T17 3
+A106	Eloquence T16 2
+A107	Logos T16 yes
+A108	Ethos T16 no
+A109	Pathos T16 yes
+A110	Evidence T16 2
+A111	Persuasiveness T16 2
+A112	Specificity T16 2
+A113	Logos T3 yes
+A114	Persuasiveness T3 3
+A115	Evidence T3 3
+A116	Eloquence T3 2
+A117	Specificity T3 4
+A118	Ethos T3 no
+A119	Pathos T3 yes
+A120	Strength T5 2
+A121	Evidence T5 1
+A122	Strength T6 4
+A123	Evidence T6 1
+A124	Strength T7 4
+A125	Evidence T7 1
+A126	Strength T8 4
+A127	Evidence T8 1
+A128	Strength T2 5
+A129	Evidence T2 1
+A130	Strength T14 3
+A131	Evidence T14 1
+A132	Strength T11 3
+A133	Evidence T11 1
+A134	Strength T10 2
+A135	Evidence T10 1
+A136	Strength T13 2
+A137	Evidence T13 1

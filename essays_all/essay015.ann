@@ -1,0 +1,139 @@
+T1	MajorClaim 199 262	they may be factors decreasing the position of written language
+T2	Claim 397 535	it is easy to point out many benefits users can get from email and text messaging, which answers to the question of their great popularity
+A1	Stance T2 For
+T3	MajorClaim 1969 2091	we cannot deny the threat from email and text messaging to the status of written language because their obvious popularity
+T4	Premise 537 665	Before email and mobile phone, human beings communicated by meeting directly, sending letters or later, calling from home phones
+T5	Premise 667 808	Such ways usually made people have troubles for the expensiveness, difficulties in far communication or emergency and the loss of information
+T6	Premise 876 952	People can send or receive electronic letters anywhere and anytime they want
+T7	Premise 966 1128	thanks to the function provided by email and text messaging (SMS), it is cheaper and faster to transfer a lot of information, even to many people at the same time
+T8	Premise 1130 1236	They are so convenient that the majority of population prefer to use them instead of some traditional ways
+T9	Premise 819 874	email and cell phones have improved the obstacles above
+R1	supports Arg1:T4 Arg2:T2	
+R2	supports Arg1:T5 Arg2:T2	
+R3	supports Arg1:T9 Arg2:T2	
+R4	supports Arg1:T6 Arg2:T2	
+R5	supports Arg1:T7 Arg2:T2	
+R6	supports Arg1:T8 Arg2:T2	
+T10	Claim 1238 1345	The popularity of email and text messaging, as a result, leads to the losing of written language's position
+A2	Stance T10 For
+T11	Premise 1347 1476	People tend to use slangs and abbreviated words to shorten their writing and save more time in communicating for other activities
+T12	Premise 1498 1545	language in writing is not in its original form
+R7	supports Arg1:T11 Arg2:T12	
+T13	Premise 1567 1724	people compose a message with only emoticons (the expressions by face created by service providers), which means there is no room for writing or typing texts
+T14	Premise 1736 1844	it is more dangerous that youngsters sometimes use such new languages in their studying, writing assignments
+T15	Claim 1846 1952	If that tendency continues at a rapid pace, written language may face up to a real problem about its stand
+R8	supports Arg1:T13 Arg2:T12	
+R9	supports Arg1:T12 Arg2:T10	
+R11	supports Arg1:T14 Arg2:T10	
+R10	supports Arg1:T15 Arg2:T10	
+A3	Eloquence T4 3
+A4	PremiseType T4 common_knowledge
+A5	Specificity T4 3
+A6	Relevance T4 4
+A7	Persuasiveness T4 4
+A8	Eloquence T5 2
+A9	PremiseType T5 common_knowledge
+A10	Specificity T5 4
+A11	Relevance T5 4
+A12	Persuasiveness T5 3
+A13	Eloquence T9 2
+A14	PremiseType T9 warrant
+A15	Specificity T9 1
+A16	Relevance T9 6
+A17	Persuasiveness T9 4
+A18	Eloquence T6 3
+A19	Relevance T6 6
+A20	Persuasiveness T6 4
+A21	PremiseType T6 common_knowledge
+A22	Specificity T6 3
+A23	Eloquence T7 4
+A24	Relevance T7 6
+A25	Persuasiveness T7 6
+A26	PremiseType T7 common_knowledge
+A27	Specificity T7 5
+A28	PremiseType T8 warrant
+A29	Eloquence T8 3
+A30	Specificity T8 4
+A31	Relevance T8 6
+A32	Persuasiveness T8 5
+A33	Evidence T2 5
+A34	Logos T2 yes
+A35	ClaimType T2 Fact
+A36	Ethos T2 no
+A37	Pathos T2 no
+A38	Specificity T2 4
+A39	Persuasiveness T2 5
+A40	Eloquence T2 4
+A41	Relevance T2 6
+A42	Eloquence T11 4
+A43	Relevance T11 5
+A44	Persuasiveness T11 5
+A45	PremiseType T11 common_knowledge
+A46	Specificity T11 4
+A47	Eloquence T13 4
+A48	PremiseType T13 common_knowledge
+A49	Specificity T13 4
+A50	Relevance T13 6
+A51	Persuasiveness T13 5
+A52	PremiseType T12 warrant
+A53	Eloquence T12 3
+A54	Specificity T12 1
+A55	Relevance T12 6
+A56	Persuasiveness T12 5
+A57	Eloquence T14 3
+A58	PremiseType T14 common_knowledge
+A59	Specificity T14 4
+A60	Relevance T14 5
+A61	Persuasiveness T14 4
+A62	Eloquence T15 3
+A64	Specificity T15 3
+A65	Relevance T15 4
+A66	Persuasiveness T15 2
+A67	Logos T10 yes
+A68	ClaimType T10 Fact
+A69	Evidence T10 5
+A70	Eloquence T10 3
+A71	Ethos T10 no
+A72	Pathos T10 no
+A73	Specificity T10 4
+A74	Relevance T10 6
+A75	Persuasiveness T10 5
+A76	Logos T1 yes
+A77	Ethos T1 no
+A78	Pathos T1 no
+A79	Evidence T1 5
+A80	Persuasiveness T1 5
+A81	Eloquence T1 3
+A82	Specificity T1 3
+A83	Logos T3 yes
+A84	Pathos T3 no
+A85	Eloquence T3 4
+A86	Ethos T3 no
+A87	Specificity T3 4
+A88	Persuasiveness T3 5
+A89	Evidence T3 5
+A90	Strength T4 4
+A91	Evidence T4 1
+A92	Strength T5 3
+A93	Evidence T5 1
+A94	Strength T9 4
+A95	Evidence T9 1
+A96	Strength T6 4
+A97	Evidence T6 1
+A98	Strength T7 6
+A99	Evidence T7 1
+A100	Strength T8 5
+A101	Evidence T8 1
+A102	Strength T11 5
+A103	Evidence T11 1
+A104	Strength T12 5
+A105	Evidence T12 5
+A106	Strength T13 5
+A107	Evidence T13 1
+A108	Strength T14 4
+A109	Evidence T14 1
+A63	Logos T15 no
+A110	ClaimType T15 Fact
+A111	Evidence T15 1
+A112	Ethos T15 no
+A113	Pathos T15 no

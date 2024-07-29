@@ -1,0 +1,114 @@
+T1	MajorClaim 247 345	as the privileged minority, wealthy nations have every reason to share their fortune with the poor
+T2	MajorClaim 1486 1612	wealthy nations' offering in need is not only a moral deed, but also a worthwhile one which will one day pay off in other ways
+T3	Claim 1614 1688	Only those who sympathize with their fellowman can prosper in the long run
+A1	Stance T3 For
+T4	Claim 367 528	it is inhumane to watch one's fellowman struggle against famine and poverty without doing anything to help, especially when the onlooker takes no effort to do so
+A2	Stance T4 For
+T5	Premise 530 666	Compassion, a virtue preached in almost all religions from Buddhism to Mohammedanism, is what distinguishes us human beings from animals
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 691 737	such aid could also create a win-win situation
+A3	Stance T6 For
+T7	Premise 739 813	Underdeveloped nations no doubt receive direct benefits through such deeds
+T8	Premise 815 918	For developed nations, new medical problems may very well arise from the work in underdeveloped nations
+T9	Premise 925 1047	related research is conducted accordingly to conquer the problem, promoting the development of the pharmaceutical industry
+T10	Claim 1049 1164	The potential market in those poor countries, most of which has a huge population, is also a thing worth mentioning
+T11	Premise 1166 1316	By building a good relationship with them, wealthy nations can not only broaden their global market, but also facilitate future international commerce
+T12	Premise 1318 1472	The underdeveloped nations, in return, may export local agricultural products, mineral products with discount to the former, boosting each other's economy
+R2	supports Arg1:T12 Arg2:T10	
+R3	supports Arg1:T11 Arg2:T10	
+R4	supports Arg1:T10 Arg2:T6	
+R5	supports Arg1:T7 Arg2:T6	
+R6	supports Arg1:T8 Arg2:T9	
+R7	supports Arg1:T9 Arg2:T6	
+A4	Pathos T4 yes
+A5	Logos T3 no
+A6	Persuasiveness T3 2
+A7	Evidence T3 1
+A8	Ethos T3 no
+A9	Pathos T3 no
+A10	Eloquence T7 4
+A11	Relevance T7 5
+A12	Persuasiveness T7 4
+A13	PremiseType T7 common_knowledge
+A14	Specificity T7 2
+A15	PremiseType T8 invented_instance
+A16	Eloquence T8 4
+A17	Specificity T8 4
+A18	Eloquence T5 5
+A19	Relevance T5 5
+A20	Persuasiveness T5 6
+A21	PremiseType T5 testimony
+A22	Specificity T5 5
+A23	Logos T4 no
+A24	Persuasiveness T4 5
+A25	ClaimType T4 Fact
+A26	Evidence T4 4
+A27	Eloquence T4 5
+A28	Specificity T4 4
+A29	Relevance T4 6
+A30	Ethos T4 yes
+A31	Eloquence T9 5
+A32	Relevance T9 4
+A33	Persuasiveness T9 5
+A34	PremiseType T9 invented_instance
+A35	Specificity T9 4
+A36	Eloquence T11 5
+A37	Relevance T11 5
+A38	Persuasiveness T11 5
+A39	PremiseType T11 common_knowledge
+A40	Specificity T11 4
+A41	Eloquence T12 5
+A42	PremiseType T12 common_knowledge
+A43	Specificity T12 4
+A44	Relevance T12 2
+A45	Persuasiveness T12 4
+A46	Eloquence T10 4
+A47	Relevance T10 3
+A48	Persuasiveness T10 5
+A50	Specificity T10 3
+A51	Logos T6 yes
+A52	Persuasiveness T6 6
+A53	ClaimType T6 Fact
+A54	Evidence T6 6
+A55	Eloquence T6 3
+A56	Specificity T6 3
+A57	Relevance T6 6
+A58	Ethos T6 no
+A59	Pathos T6 no
+A60	Logos T2 yes
+A61	Ethos T2 yes
+A62	Pathos T2 yes
+A63	Evidence T2 6
+A64	Persuasiveness T2 6
+A65	Eloquence T2 5
+A66	Specificity T2 5
+A67	Persuasiveness T1 6
+A68	Evidence T1 6
+A69	Logos T1 yes
+A70	Eloquence T1 4
+A71	Specificity T1 3
+A72	Ethos T1 yes
+A73	Pathos T1 yes
+A74	Specificity T3 3
+A75	ClaimType T3 Fact
+A76	Eloquence T3 5
+A77	Relevance T3 6
+A78	Relevance T8 6
+A79	Persuasiveness T8 4
+A80	Strength T5 6
+A81	Evidence T5 1
+A82	Strength T7 4
+A83	Evidence T7 1
+A84	Strength T8 4
+A85	Evidence T8 1
+A86	Strength T9 4
+A87	Evidence T9 4
+A88	Strength T11 5
+A89	Evidence T11 1
+A90	Strength T12 4
+A91	Evidence T12 1
+A49	Evidence T10 5
+A92	Logos T10 yes
+A93	ClaimType T10 Value
+A94	Ethos T10 no
+A95	Pathos T10 no

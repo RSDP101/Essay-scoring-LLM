@@ -1,0 +1,121 @@
+T1	MajorClaim 378 487	I agree only to certain degree that in today's world, image serves as a more effective means of communication
+T2	MajorClaim 1697 1809	both images and words go hand in hand and one cannot wholly emphasise on only one aspect, either images or words
+T3	Claim 1105 1200	it is undeniable that images in the absence of words can obviously claim the attraction of many
+A1	Stance T3 For
+T4	Claim 498 541	pictures can influence the way people think
+A2	Stance T4 For
+T5	Premise 556 661	nowadays horrendous images are displayed on the cigarette boxes to illustrate the consequences of smoking
+T6	Premise 676 799	statistics show a slight reduction in the number of smokers, indicating that they realize the effects of the negative habit
+R1	supports Arg1:T5 Arg2:T6	
+T7	Premise 816 1007	the magnificent photograph captured by Kevin Carter, which portrayed a starving Sudanese child struck by extreme poverty has successfully highlighted the plight faced by the citizens in Sudan
+T8	Premise 1026 1097	images are also widely used in newspapers, magazines and advertisements
+R2	supports Arg1:T8 Arg2:T3	
+R3	supports Arg1:T7 Arg2:T3	
+R4	supports Arg1:T6 Arg2:T4	
+T9	Claim 1236 1307	written words are also vital in order to spread across certain messages
+A3	Stance T9 For
+T10	Premise 1309 1405	With only pictures, everyone is left to their own interpretation on how they perceive the images
+T11	Premise 1420 1499	this is different when words are used to explain what the illustration is about
+T12	Premise 1514 1571	the primary way of educating students is also by this way
+T13	Premise 1573 1682	Academic textbooks these days are laden with words besides pictures to guide the readers to comprehend better
+R5	supports Arg1:T10 Arg2:T9	
+R6	supports Arg1:T11 Arg2:T9	
+R7	supports Arg1:T12 Arg2:T9	
+R8	supports Arg1:T13 Arg2:T9	
+A4	Eloquence T5 4
+A5	PremiseType T5 real_example
+A6	Specificity T5 4
+A7	Eloquence T6 4
+A8	Relevance T6 4
+A9	Persuasiveness T6 6
+A10	PremiseType T6 statistics
+A11	Specificity T6 4
+A12	ClaimType T4 Fact
+A13	Relevance T5 6
+A14	Persuasiveness T5 6
+A15	Logos T4 yes
+A16	Persuasiveness T4 4
+A17	Evidence T4 4
+A18	Eloquence T4 3
+A19	Specificity T4 2
+A20	Ethos T4 no
+A21	Pathos T4 no
+A22	Eloquence T7 5
+A23	Relevance T7 5
+A24	Persuasiveness T7 6
+A25	PremiseType T7 real_example
+A26	Specificity T7 5
+A27	Eloquence T8 3
+A28	Relevance T8 5
+A29	Persuasiveness T8 5
+A30	PremiseType T8 common_knowledge
+A31	Specificity T8 4
+A32	Logos T3 yes
+A33	Persuasiveness T3 4
+A34	ClaimType T3 Fact
+A35	Evidence T3 4
+A36	Eloquence T3 4
+A37	Specificity T3 3
+A38	Relevance T3 5
+A39	Ethos T3 yes
+A40	Pathos T3 no
+A41	Eloquence T10 4
+A42	Relevance T10 5
+A43	Persuasiveness T10 4
+A44	PremiseType T10 common_knowledge
+A45	Specificity T10 3
+A46	Eloquence T11 3
+A47	Relevance T11 5
+A48	Persuasiveness T11 4
+A49	PremiseType T11 common_knowledge
+A50	Specificity T11 2
+A51	Eloquence T12 2
+A52	Relevance T12 5
+A53	Persuasiveness T12 4
+A54	PremiseType T12 common_knowledge
+A55	Specificity T12 3
+A56	Eloquence T13 5
+A57	Relevance T13 6
+A58	Persuasiveness T13 5
+A59	PremiseType T13 real_example
+A60	Specificity T13 4
+A61	Logos T9 yes
+A62	Persuasiveness T9 5
+A63	ClaimType T9 Value
+A64	Evidence T9 5
+A65	Eloquence T9 3
+A66	Specificity T9 2
+A67	Relevance T9 6
+A68	Ethos T9 yes
+A69	Pathos T9 no
+A70	Logos T1 yes
+A71	Persuasiveness T1 5
+A72	Evidence T1 5
+A73	Eloquence T1 3
+A74	Specificity T1 2
+A75	Ethos T1 yes
+A76	Pathos T1 no
+A77	Logos T2 yes
+A78	Persuasiveness T2 5
+A79	Evidence T2 5
+A80	Eloquence T2 3
+A81	Specificity T2 3
+A82	Ethos T2 yes
+A83	Pathos T2 no
+A84	Relevance T4 5
+A85	Strength T10 4
+A86	Evidence T10 1
+A87	Strength T11 4
+A88	Evidence T11 1
+A89	Strength T12 4
+A90	Evidence T12 1
+A91	Strength T13 5
+A92	Evidence T13 1
+A93	Strength T5 6
+A94	Evidence T5 1
+A95	Strength T6 6
+A96	Evidence T6 6
+A97	Strength T7 6
+A98	Evidence T7 1
+A99	Strength T8 5
+A100	Evidence T8 1

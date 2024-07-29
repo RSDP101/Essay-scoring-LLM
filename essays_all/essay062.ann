@@ -1,0 +1,174 @@
+T1	MajorClaim 324 397	Universities must admit both in equal numbers, depending on their choices
+T2	MajorClaim 1686 1769	both genders have equal rights and universities should accept them in equal numbers
+T3	Claim 1771 1832	Equality in education will help in development of the society
+A1	Stance T3 For
+T4	Premise 1834 1918	Both genders are the fulcrum of the society and none of them is superior or inferior
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 534 586	females should be given equal opportunities as males
+A2	Stance T5 For
+T6	Premise 469 511	The whole world aims for women empowerment
+T7	Premise 399 467	Right to education is a basic human right of both, males and females
+T8	Claim 588 740	When universities will accept them in equal number, both genders will be able to nurture their talent and a healthy competitive environment will develop
+R2	supports Arg1:T6 Arg2:T5	
+R3	supports Arg1:T7 Arg2:T5	
+R4	supports Arg1:T8 Arg2:T5	
+T9	Claim 1134 1257	Universities giving both genders equal opportunities, will prepare them for future challenges and will help in the long run
+A3	Stance T9 For
+T10	Claim 742 801	Co-education helps both genders to gel well with each other
+T11	Claim 803 862	It helps them how to behave and cooperate and work together
+T12	Premise 877 985	students studying in boy's colleges do not generally know how to talk to a female or behave in front of them
+T13	Premise 1006 1066	females studying in girl's colleges are too shy to face boys
+T14	Premise 1068 1132	Co-education will help to eradicate this kind of demerit in both
+R5	supports Arg1:T12 Arg2:T11	
+R6	supports Arg1:T13 Arg2:T11	
+R7	supports Arg1:T14 Arg2:T11	
+R8	supports Arg1:T10 Arg2:T9	
+R9	supports Arg1:T11 Arg2:T9	
+T15	Claim 1274 1396	some male chauvinists think that women are incapable in particular fields, like maths, mechanical engineering, defense etc
+A4	Stance T15 Against
+T16	Premise 1398 1483	This kind of gender biased approach is detrimental for the development of the society
+T17	Premise 1501 1546	women have proved their mettle in every field
+T18	Premise 1548 1656	Women like Margaret Thatcher, Indira Gandhi, Mari Curie etc., are symbols of women's intelligence and skills
+R10	attacks Arg1:T16 Arg2:T15	
+R11	supports Arg1:T17 Arg2:T16	
+R12	supports Arg1:T18 Arg2:T16	
+A5	Eloquence T7 2
+A6	Persuasiveness T7 3
+A7	PremiseType T7 common_knowledge
+A8	Specificity T7 3
+A9	Relevance T7 6
+A10	Eloquence T6 3
+A11	Relevance T6 4
+A12	Persuasiveness T6 3
+A13	PremiseType T6 common_knowledge
+A14	Specificity T6 1
+A15	Eloquence T8 3
+A16	Relevance T8 4
+A17	Persuasiveness T8 2
+A19	Specificity T8 2
+A20	Logos T5 no
+A21	Persuasiveness T5 3
+A22	ClaimType T5 Policy
+A23	Evidence T5 3
+A24	Eloquence T5 2
+A25	Specificity T5 2
+A26	Relevance T5 6
+A27	Ethos T5 no
+A28	Pathos T5 yes
+A29	Eloquence T10 2
+A31	Specificity T10 1
+A32	Relevance T10 4
+A33	Persuasiveness T10 2
+A34	Eloquence T12 3
+A35	Relevance T12 6
+A36	Persuasiveness T12 4
+A37	PremiseType T12 common_knowledge
+A38	Specificity T12 4
+A39	Eloquence T13 3
+A40	Relevance T13 6
+A41	Persuasiveness T13 2
+A42	PremiseType T13 common_knowledge
+A43	Specificity T13 2
+A44	Eloquence T14 3
+A45	Relevance T14 6
+A46	Persuasiveness T14 4
+A47	PremiseType T14 warrant
+A48	Specificity T14 2
+A49	Eloquence T11 3
+A50	Relevance T11 5
+A51	Persuasiveness T11 4
+A53	Specificity T11 2
+A54	Logos T9 yes
+A55	Persuasiveness T9 3
+A56	ClaimType T9 Fact
+A57	Evidence T9 3
+A58	Eloquence T9 3
+A59	Specificity T9 2
+A60	Relevance T9 5
+A61	Ethos T9 no
+A62	Pathos T9 no
+A63	Eloquence T17 4
+A64	Relevance T17 2
+A65	Persuasiveness T17 2
+A66	PremiseType T17 common_knowledge
+A67	Specificity T17 1
+A68	Eloquence T18 3
+A69	Relevance T18 4
+A70	Persuasiveness T18 4
+A71	PremiseType T18 real_example
+A72	Specificity T18 5
+A73	Eloquence T16 3
+A74	Relevance T16 6
+A76	Specificity T16 2
+A77	Persuasiveness T16 3
+A78	Logos T15 no
+A79	Persuasiveness T15 2
+A80	ClaimType T15 Value
+A81	Evidence T15 2
+A82	Eloquence T15 3
+A83	Specificity T15 2
+A84	Relevance T15 3
+A85	Ethos T15 no
+A86	Pathos T15 no
+A87	Eloquence T4 4
+A88	Relevance T4 4
+A89	Persuasiveness T4 4
+A91	Specificity T4 2
+A92	Logos T3 yes
+A93	Persuasiveness T3 2
+A94	ClaimType T3 Fact
+A95	Evidence T3 2
+A96	Eloquence T3 2
+A97	Specificity T3 2
+A98	Relevance T3 6
+A99	Ethos T3 no
+A100	Pathos T3 no
+A101	Logos T1 yes
+A102	Persuasiveness T1 3
+A103	Evidence T1 3
+A104	Eloquence T1 3
+A105	Specificity T1 3
+A106	Ethos T1 no
+A107	Pathos T1 yes
+A108	Logos T2 yes
+A109	Persuasiveness T2 3
+A110	Evidence T2 3
+A111	Eloquence T2 3
+A112	Specificity T2 3
+A113	Ethos T2 no
+A114	Pathos T2 yes
+A116	Evidence T4 1
+A119	Strength T7 3
+A120	Evidence T7 1
+A121	Strength T6 3
+A122	Evidence T6 1
+A18	Logos T8 no
+A123	ClaimType T8 Fact
+A124	Evidence T8 1
+A125	Ethos T8 no
+A126	Pathos T8 no
+A30	Logos T10 no
+A127	ClaimType T10 Fact
+A128	Evidence T10 2
+A129	Ethos T10 no
+A130	Pathos T10 no
+A131	Strength T14 4
+A132	Evidence T14 1
+A133	Strength T13 2
+A134	Evidence T13 1
+A135	Strength T12 4
+A136	Evidence T12 1
+A52	Logos T11 yes
+A137	ClaimType T11 Fact
+A138	Evidence T11 4
+A139	Ethos T11 no
+A140	Pathos T11 no
+A141	Strength T17 2
+A142	Evidence T17 1
+A143	Strength T18 4
+A144	Evidence T18 1
+A146	Evidence T16 3
+A90	Strength T4 4
+A115	PremiseType T4 common_knowledge
+A75	Strength T16 2
+A117	PremiseType T16 common_knowledge

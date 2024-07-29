@@ -1,0 +1,136 @@
+T1	MajorClaim 76 212	married women nowadays have right to take up jobs like men when employment discrimination based on gender have been erased significantly
+T2	Claim 214 305	Working outside home will bring a lot of benefits to both married woman and their household
+A1	Stance T2 For
+T3	Claim 635 701	it is a normal practice for women to be helpmates in earning money
+A2	Stance T3 For
+T4	MajorClaim 1439 1521	married women could go to work in order to enjoy the working life outside the home
+T5	Claim 1355 1434	a well-organized home does not need the housewife's presence the whole day long
+A3	Stance T5 For
+T6	Premise 364 435	extra income that women earn will contribute to their family's expenses
+T7	Premise 437 510	By taking up a job, a wife can earn more money to support her family life
+T8	Premise 512 629	This is really necessary in cases of her husband's low salary and the difficulty of getting a good job at the present
+R1	supports Arg1:T8 Arg2:T3	
+R2	supports Arg1:T7 Arg2:T3	
+R3	supports Arg1:T6 Arg2:T3	
+T9	Claim 996 1064	it is no doubt that they play roles as a mother and as a wife better
+A4	Stance T9 For
+T10	Premise 713 862	working outside the house creates opportunities for married women to contact with the outer world, strengthen their character and show their capacity
+T11	Premise 864 927	These things in turn will make them more confident, independent
+T12	Claim 929 983	These women will set a good example for their children
+R4	supports Arg1:T12 Arg2:T9	
+R5	supports Arg1:T10 Arg2:T9	
+R6	supports Arg1:T11 Arg2:T9	
+T13	Claim 1096 1175	there are many supporting conditions that help women balance housework and work
+A5	Stance T13 For
+T14	Premise 1177 1338	Besides the gorvernment's policies on limited families and their husbands' sharing in the housework, many employers are willing to offer part-time jobs for women
+R7	supports Arg1:T14 Arg2:T13	
+A6	Logos T2 no
+A7	Persuasiveness T2 2
+A8	ClaimType T2 Fact
+A9	Evidence T2 1
+A10	Eloquence T2 3
+A11	Specificity T2 2
+A12	Relevance T2 6
+A13	Ethos T2 no
+A14	Pathos T2 no
+A15	Eloquence T6 3
+A16	Relevance T6 6
+A17	PremiseType T6 common_knowledge
+A18	Specificity T6 3
+A19	Persuasiveness T6 4
+A20	Eloquence T7 3
+A21	Relevance T7 6
+A22	Persuasiveness T7 4
+A23	PremiseType T7 common_knowledge
+A24	Specificity T7 3
+A25	Eloquence T8 3
+A26	Specificity T8 4
+A27	Relevance T8 5
+A28	PremiseType T8 common_knowledge
+A29	Persuasiveness T8 4
+A30	Logos T3 yes
+A31	ClaimType T3 Fact
+A32	Eloquence T3 3
+A33	Specificity T3 3
+A34	Ethos T3 no
+A35	Pathos T3 no
+A36	Persuasiveness T3 4
+A37	Evidence T3 4
+A38	Relevance T3 5
+A39	Eloquence T10 4
+A40	Relevance T10 6
+A41	Persuasiveness T10 5
+A42	Specificity T10 5
+A43	PremiseType T10 common_knowledge
+A44	Eloquence T11 3
+A45	Relevance T11 4
+A46	Persuasiveness T11 3
+A47	PremiseType T11 common_knowledge
+A48	Specificity T11 2
+A49	Eloquence T12 3
+A50	Relevance T12 5
+A51	Persuasiveness T12 2
+A53	Specificity T12 2
+A54	Logos T9 yes
+A55	ClaimType T9 Value
+A56	Eloquence T9 3
+A57	Specificity T9 4
+A58	Ethos T9 no
+A59	Relevance T9 6
+A60	Persuasiveness T9 3
+A61	Evidence T9 3
+A62	Eloquence T14 4
+A63	Relevance T14 6
+A64	Persuasiveness T14 5
+A65	PremiseType T14 common_knowledge
+A66	Specificity T14 4
+A67	Eloquence T13 3
+A68	ClaimType T13 Policy
+A69	Specificity T13 3
+A70	Logos T13 yes
+A71	Relevance T13 6
+A72	Persuasiveness T13 2
+A73	Evidence T13 2
+A74	Ethos T13 no
+A75	Pathos T13 no
+A76	Logos T5 no
+A77	Persuasiveness T5 2
+A78	ClaimType T5 Fact
+A79	Evidence T5 1
+A80	Eloquence T5 3
+A81	Specificity T5 2
+A82	Relevance T5 4
+A83	Ethos T5 no
+A84	Pathos T5 no
+A85	Logos T1 yes
+A86	Pathos T1 no
+A87	Persuasiveness T1 3
+A88	Evidence T1 3
+A89	Eloquence T1 3
+A90	Specificity T1 4
+A91	Eloquence T4 3
+A92	Logos T4 yes
+A93	Ethos T4 no
+A94	Pathos T4 no
+A95	Specificity T4 3
+A96	Persuasiveness T4 3
+A97	Evidence T4 3
+A98	Ethos T1 no
+A99	Pathos T9 no
+A52	Logos T12 no
+A100	ClaimType T12 Value
+A101	Evidence T12 1
+A102	Ethos T12 no
+A103	Pathos T12 no
+A104	Strength T14 5
+A105	Evidence T14 1
+A106	Strength T6 4
+A107	Evidence T6 1
+A108	Strength T7 4
+A109	Evidence T7 1
+A110	Strength T8 4
+A111	Evidence T8 1
+A112	Strength T10 5
+A113	Evidence T10 1
+A114	Strength T11 3
+A115	Evidence T11 1

@@ -1,0 +1,181 @@
+T1	MajorClaim 504 638	CCTV cameras should be installed in every premise to combat the ever increasing theft rate and to protect the workers at the workplace
+T2	MajorClaim 2404 2479	CCTV cameras are essential and therefore must be installed in every premise
+T3	Claim 2481 2560	This is chiefly to shield oneself from being harmed by any intruders or robbers
+A1	Stance T3 For
+T4	Premise 2574 2622	privacies are lost with the use of these cameras
+R1	attacks Arg1:T4 Arg2:T3	
+T5	Claim 2637 2683	safety should be put first in order to be safe
+R2	attacks Arg1:T5 Arg2:T4	
+T6	Claim 1229 1300	CCTVs must be put in all workplace so that crime rates can be minimized
+A2	Stance T6 For
+T7	Premise 649 728	by having CCTV cameras at workplace, crimes such as robbery can be trimmed down
+T8	Premise 746 877	when a shop is attacked by thieves, the clips taken by these cameras serve as a source of evidence to help the thieves to be traced
+T9	Premise 907 1080	in Malaysia, policemen used the videos captured by the CCTV cameras to trace and successfully catch a group of robbers who broke into a Seven Eleven shop during the midnight
+T10	Premise 1097 1204	as the employees know that they are under constant surveillance, they will less likely steal from the shops
+R6	supports Arg1:T10 Arg2:T6	
+T11	Premise 1511 1588	the installation of CCTV cameras may help the employees escape this situation
+T12	Claim 1805 1899	these cameras can help to provide some form of protection to the workers against the customers
+A4	Stance T12 For
+T13	Premise 1597 1663	the customers know very well that their conversations are recorded
+R10	supports Arg1:T13 Arg2:T11	
+T14	Premise 1315 1400	at some offices, employees are often required to handle angry or frustrated customers
+T15	Premise 1412 1502	face-to-face interactions with an annoyed customer can put the employee in physical danger
+R11	supports Arg1:T15 Arg2:T11	
+R12	supports Arg1:T11 Arg2:T12	
+R13	supports Arg1:T14 Arg2:T12	
+T16	Claim 1983 2096	Those opposing the CCTV systems feel that their privacies are invaded with the constant monitoring of the cameras
+A5	Stance T16 Against
+T17	Claim 2107 2251	one must realize that safety is of paramount importance compared to privacy and prevention is always better than suffering from the consequences
+T18	Premise 2259 2389	opponents of this system should try to comprehend the situation and take actions to prevent themselves from being victims of crime
+R14	attacks Arg1:T17 Arg2:T16	
+R15	supports Arg1:T18 Arg2:T16	
+T19	Premise 1694 1793	the videotapes can used to determine what actually took place and further actions can be then taken
+R16	supports Arg1:T19 Arg2:T12	
+R3	supports Arg1:T7 Arg2:T6	
+A3	Eloquence T7 3
+A7	PremiseType T7 common_knowledge
+A8	Specificity T7 2
+R4	supports Arg1:T8 Arg2:T7	
+R5	supports Arg1:T9 Arg2:T7	
+A6	Eloquence T8 3
+A9	Relevance T8 5
+A10	Persuasiveness T8 5
+A11	PremiseType T8 common_knowledge
+A12	Specificity T8 4
+A13	Eloquence T9 4
+A14	Relevance T9 5
+A15	Persuasiveness T9 6
+A16	PremiseType T9 real_example
+A17	Specificity T9 5
+A18	Eloquence T10 3
+A19	PremiseType T10 common_knowledge
+A20	Specificity T10 5
+A21	Relevance T10 6
+A22	Persuasiveness T10 4
+A23	Relevance T7 6
+A24	Persuasiveness T7 6
+A25	Logos T6 yes
+A26	Persuasiveness T6 5
+A27	ClaimType T6 Policy
+A28	Evidence T6 5
+A29	Eloquence T6 4
+A30	Specificity T6 2
+A31	Ethos T6 no
+A32	Pathos T6 no
+A33	Relevance T6 6
+A35	Eloquence T5 3
+A36	Relevance T5 4
+A37	Persuasiveness T5 2
+A38	Specificity T5 1
+A39	Eloquence T4 3
+A40	PremiseType T4 common_knowledge
+A41	Relevance T4 5
+A42	Persuasiveness T4 2
+A43	Specificity T4 2
+A44	Logos T3 yes
+A45	Persuasiveness T3 2
+A46	ClaimType T3 Fact
+A47	Evidence T3 2
+A48	Eloquence T3 4
+A49	Specificity T3 2
+A50	Relevance T3 5
+A51	Ethos T3 no
+A52	Pathos T3 no
+A53	Eloquence T14 3
+A54	PremiseType T14 common_knowledge
+A55	Specificity T14 3
+A56	Relevance T14 5
+A57	Persuasiveness T14 4
+A58	Eloquence T15 3
+A59	PremiseType T15 common_knowledge
+A60	Specificity T15 2
+A61	Relevance T15 3
+A62	Persuasiveness T15 3
+A63	Eloquence T13 3
+A64	Relevance T13 4
+A65	PremiseType T13 common_knowledge
+A66	Specificity T13 3
+A67	Persuasiveness T13 4
+A68	Eloquence T11 3
+A69	Relevance T11 3
+A70	Persuasiveness T11 5
+A71	PremiseType T11 common_knowledge
+A72	Specificity T11 3
+A73	Eloquence T19 4
+A74	Relevance T19 4
+A75	Persuasiveness T19 4
+A76	PremiseType T19 common_knowledge
+A77	Specificity T19 3
+A78	Eloquence T17 5
+A79	Relevance T17 6
+A81	Specificity T17 2
+A82	Logos T12 yes
+A83	Ethos T12 no
+A84	Pathos T12 no
+A85	Evidence T12 4
+A86	Eloquence T12 4
+A87	Specificity T12 2
+A88	Persuasiveness T12 4
+A89	ClaimType T12 Fact
+A90	Relevance T12 6
+A91	Eloquence T18 4
+A92	PremiseType T18 common_knowledge
+A93	Specificity T18 2
+A94	Persuasiveness T17 2
+A95	Logos T16 yes
+A96	ClaimType T16 Fact
+A97	Eloquence T16 4
+A98	Specificity T16 2
+A99	Relevance T16 4
+A100	Ethos T16 no
+A101	Pathos T16 no
+A102	Relevance T18 4
+A103	Persuasiveness T18 2
+A104	Persuasiveness T16 2
+A105	Evidence T16 2
+A106	Logos T2 yes
+A107	Persuasiveness T2 5
+A108	Evidence T2 5
+A109	Eloquence T2 4
+A110	Specificity T2 2
+A111	Ethos T2 no
+A112	Pathos T2 yes
+A113	Logos T1 yes
+A114	Persuasiveness T1 5
+A115	Evidence T1 5
+A116	Eloquence T1 4
+A117	Specificity T1 4
+A118	Ethos T1 no
+A119	Pathos T1 yes
+A120	Strength T8 5
+A121	Evidence T8 1
+A122	Strength T9 6
+A123	Evidence T9 1
+A124	Strength T10 4
+A125	Evidence T10 1
+A126	Strength T7 3
+A127	Evidence T7 6
+A128	Strength T14 4
+A129	Evidence T14 1
+A130	Strength T15 3
+A131	Evidence T15 1
+A132	Strength T13 4
+A133	Evidence T13 1
+A134	Strength T11 3
+A135	Evidence T11 5
+A136	Strength T19 4
+A137	Evidence T19 1
+A138	Strength T18 2
+A139	Evidence T18 1
+A80	ClaimType T17 Value
+A140	Logos T17 no
+A141	Evidence T17 1
+A142	Ethos T17 no
+A143	Pathos T17 no
+A34	Logos T5 no
+A144	ClaimType T5 Policy
+A145	Evidence T5 1
+A146	Ethos T5 no
+A147	Pathos T5 no
+A148	Strength T4 2
+A149	Evidence T4 2

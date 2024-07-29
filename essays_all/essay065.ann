@@ -1,0 +1,141 @@
+T1	MajorClaim 213 321	government should invest more on medical care and education rather than on entertaining or sports facilities
+T2	MajorClaim 1916 2026	budgets should be allocated more on medical care and education rather than on building entertaining facilities
+T3	Claim 2036 2147	the former is more essential, non-profit oriented to the public and can be accessed by the majority of citizens
+A1	Stance T3 For
+T4	Claim 758 846	providing education and medical care is more essential and prioritized to the government
+A2	Stance T4 For
+T5	Premise 398 543	Taking care of thousands of citizens who suffer from disease or illiteracy is more urgent and pragmatic than building theaters or sports stadiums
+T6	Premise 566 745	an uneducated person may barely appreciate musicals, whereas a physical damaged person, resulting from the lack of medical treatment, may no longer participate in any sports games
+R1	supports Arg1:T6 Arg2:T5	
+R2	supports Arg1:T5 Arg2:T4	
+T7	Claim 848 944	Entertaining facilities such as cinemas, theaters and sports stadiums are mostly profit-oriented
+A3	Stance T7 For
+T8	Premise 946 1058	Their existences are based on their marketing strategies, the condition of facilities and the volume of audience
+T9	Premise 1060 1193	The competition among each of these facilities is an inevitable part of the free market, which should not be interfered by government
+T10	Premise 1204 1393	the establishment of medical facilities or educational institutes is aimed to improve the health or education standard rather than earning profits, which deserves more funds from government
+R3	supports Arg1:T8 Arg2:T7	
+R4	supports Arg1:T9 Arg2:T7	
+R5	supports Arg1:T10 Arg2:T7	
+T11	Premise 1593 1698	it is a bit inappropriate to use the majority of citizens' tax funds to meet a minority of people's needs
+T12	Claim 1723 1799	sectors such as medical care and education deserve more governmental support
+A4	Stance T12 For
+T13	Premise 1809 1878	they are accessed by every individual in our society on a daily basis
+T14	Premise 1408 1511	putting taxpayers' money on building theaters or sports stadiums is unfair to those who cannot use them
+T15	Premise 1526 1580	not everyone is a fan of watching musicals on the spot
+R6	supports Arg1:T15 Arg2:T11	
+R7	supports Arg1:T11 Arg2:T12	
+R8	supports Arg1:T14 Arg2:T12	
+R9	supports Arg1:T13 Arg2:T12	
+A5	Eloquence T6 4
+A6	Relevance T6 2
+A7	Persuasiveness T6 2
+A8	PremiseType T6 common_knowledge
+A9	Specificity T6 4
+A10	Eloquence T5 4
+A11	PremiseType T5 common_knowledge
+A12	Specificity T5 3
+A13	Relevance T5 6
+A14	Persuasiveness T5 4
+A15	Logos T4 yes
+A16	Ethos T4 no
+A17	Pathos T4 no
+A18	Evidence T4 2
+A19	Persuasiveness T4 2
+A20	ClaimType T4 Policy
+A21	Eloquence T4 3
+A22	Specificity T4 1
+A23	Relevance T4 6
+A24	Eloquence T8 4
+A25	PremiseType T8 common_knowledge
+A26	Specificity T8 4
+A27	Relevance T8 4
+A28	Persuasiveness T8 4
+A29	Eloquence T9 3
+A30	PremiseType T9 common_knowledge
+A31	Specificity T9 2
+A32	Relevance T9 2
+A33	Persuasiveness T9 2
+A34	Eloquence T10 3
+A35	Relevance T10 2
+A36	PremiseType T10 common_knowledge
+A37	Specificity T10 2
+A38	Persuasiveness T10 2
+A39	Evidence T7 3
+A40	Logos T7 yes
+A41	Persuasiveness T7 2
+A42	ClaimType T7 Fact
+A43	Eloquence T7 3
+A44	Specificity T7 2
+A45	Relevance T7 2
+A46	Ethos T7 no
+A47	Pathos T7 no
+A48	Eloquence T14 3
+A49	Relevance T14 4
+A50	Persuasiveness T14 4
+A51	PremiseType T14 common_knowledge
+A52	Specificity T14 3
+A53	Eloquence T15 3
+A54	Relevance T15 6
+A55	Persuasiveness T15 4
+A56	PremiseType T15 common_knowledge
+A57	Specificity T15 3
+A58	Eloquence T11 4
+A59	Relevance T11 5
+A60	Persuasiveness T11 5
+A61	PremiseType T11 common_knowledge
+A62	Specificity T11 3
+A63	Eloquence T13 3
+A64	Relevance T13 6
+A65	Persuasiveness T13 4
+A66	PremiseType T13 common_knowledge
+A67	Specificity T13 3
+A68	Logos T12 yes
+A69	Persuasiveness T12 4
+A70	ClaimType T12 Policy
+A71	Evidence T12 5
+A72	Eloquence T12 3
+A73	Specificity T12 1
+A74	Relevance T12 6
+A75	Ethos T12 no
+A76	Pathos T12 no
+A77	Logos T3 no
+A78	Persuasiveness T3 2
+A79	ClaimType T3 Value
+A80	Evidence T3 1
+A81	Eloquence T3 3
+A82	Specificity T3 2
+A83	Relevance T3 6
+A84	Ethos T3 no
+A85	Pathos T3 no
+A86	Logos T2 yes
+A87	Persuasiveness T2 3
+A88	Evidence T2 3
+A89	Eloquence T2 3
+A90	Specificity T2 2
+A91	Ethos T2 no
+A92	Pathos T2 no
+A93	Logos T1 no
+A94	Persuasiveness T1 3
+A95	Evidence T1 3
+A96	Eloquence T1 3
+A97	Specificity T1 2
+A98	Ethos T1 no
+A99	Pathos T1 no
+A100	Strength T6 2
+A101	Evidence T6 1
+A102	Strength T5 4
+A103	Evidence T5 2
+A104	Strength T8 4
+A105	Evidence T8 1
+A106	Strength T9 2
+A107	Evidence T9 1
+A108	Strength T10 2
+A109	Evidence T10 1
+A110	Strength T13 4
+A111	Evidence T13 1
+A112	Strength T14 4
+A113	Evidence T14 1
+A114	Strength T15 4
+A115	Evidence T15 1
+A116	Strength T11 5
+A117	Evidence T11 4

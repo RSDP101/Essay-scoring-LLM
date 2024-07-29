@@ -1,0 +1,181 @@
+T1	MajorClaim 174 209	studying abroad has many advantages
+T2	MajorClaim 1667 1759	studying abroad does not only have advantages, but also can change us in a very positive way
+T3	Claim 211 293	Students gain a lot out of the experience personally, academically, and culturally
+A1	Stance T3 For
+T4	Claim 309 407	students who study outside their countries can get a lot of experience living in a foreign country
+A2	Stance T4 For
+T5	Claim 779 892	the new academic experience that the students can obtain at the institution where they are pursuing their studies
+A3	Stance T5 For
+T6	Claim 1092 1147	Most important is the cultural aspect of the experience
+A4	Stance T6 For
+T7	Premise 409 507	Living in a new country requires a great amount of flexibility and adaptability in one's character
+T8	Premise 522 577	students might face many challenges in the host country
+T9	Premise 590 660	they should be able to deal with the obstacles that they may encounter
+T10	Premise 662 746	Overcoming problems teaches the students how to be more mature and self-independence
+T11	Premise 907 962	they will get exposed to a different educational system
+T12	Premise 964 1090	They will meet new professors and new classmates which makes the academic experience different from that in their home country
+T13	Premise 1149 1242	While living in a foreign country, students can learn a lot about the culture of that country
+T14	Premise 1257 1302	they can meet different people of the country
+T15	Premise 1304 1393	They can learn about their way of thinking, their customs and traditions, and way of life
+T16	Claim 1395 1442	Learning about others' cultures is so important
+T17	Claim 1444 1520	It contributes in building a new understanding in us of how we see the world
+T18	Premise 1522 1595	It makes us more open, and willing to accept different ideas and thoughts
+T19	Premise 1602 1649	it educates us about the world we are living in
+R1	supports Arg1:T7 Arg2:T4	
+R2	supports Arg1:T8 Arg2:T9	
+R3	supports Arg1:T10 Arg2:T9	
+R4	supports Arg1:T9 Arg2:T4	
+R5	supports Arg1:T11 Arg2:T5	
+R6	supports Arg1:T12 Arg2:T5	
+R7	supports Arg1:T13 Arg2:T6	
+R8	supports Arg1:T14 Arg2:T6	
+R9	supports Arg1:T15 Arg2:T6	
+R10	supports Arg1:T16 Arg2:T6	
+R11	supports Arg1:T17 Arg2:T16	
+R12	supports Arg1:T18 Arg2:T16	
+R13	supports Arg1:T19 Arg2:T16	
+A5	Eloquence T7 4
+A6	PremiseType T7 common_knowledge
+A7	Specificity T7 2
+A8	Relevance T7 6
+A9	Persuasiveness T7 3
+A10	Eloquence T8 3
+A11	Relevance T8 3
+A12	PremiseType T8 common_knowledge
+A13	Specificity T8 2
+A14	Persuasiveness T8 2
+A15	Eloquence T9 4
+A16	Relevance T9 3
+A17	Persuasiveness T9 4
+A18	PremiseType T9 invented_instance
+A19	Specificity T9 2
+A20	Eloquence T10 2
+A21	Relevance T10 6
+A22	Persuasiveness T10 4
+A23	PremiseType T10 common_knowledge
+A24	Specificity T10 3
+A25	Logos T4 yes
+A26	Ethos T4 no
+A27	Pathos T4 no
+A28	Specificity T4 3
+A29	Persuasiveness T4 3
+A30	ClaimType T4 Fact
+A31	Evidence T4 3
+A32	Eloquence T4 3
+A33	Relevance T4 4
+A34	Eloquence T11 3
+A35	PremiseType T11 common_knowledge
+A36	Specificity T11 2
+A37	Eloquence T5 1
+A38	Relevance T5 2
+A39	Eloquence T12 3
+A40	Relevance T12 2
+A41	Persuasiveness T12 2
+A42	PremiseType T12 common_knowledge
+A43	Specificity T12 3
+A44	Relevance T11 4
+A45	Persuasiveness T11 2
+A46	Logos T5 yes
+A47	Persuasiveness T5 2
+A48	ClaimType T5 Fact
+A49	Evidence T5 3
+A50	Specificity T5 2
+A51	Ethos T5 no
+A52	Pathos T5 no
+A53	ClaimType T3 Fact
+A54	Logos T3 no
+A55	Persuasiveness T3 2
+A56	Evidence T3 1
+A57	Eloquence T3 3
+A58	Specificity T3 2
+A59	Relevance T3 6
+A60	Ethos T3 no
+A61	Pathos T3 no
+A62	ClaimType T6 Value
+A63	Specificity T6 2
+A64	Eloquence T13 3
+A65	Relevance T13 6
+A66	Persuasiveness T13 2
+A67	PremiseType T13 common_knowledge
+A68	Specificity T13 1
+A69	Eloquence T14 3
+A70	Relevance T14 3
+A71	Specificity T14 1
+A72	Persuasiveness T14 2
+A73	PremiseType T14 common_knowledge
+A74	Relevance T15 5
+A75	Specificity T15 3
+A76	Eloquence T15 4
+A77	Persuasiveness T15 4
+A78	PremiseType T15 common_knowledge
+A79	Eloquence T16 3
+A80	Relevance T16 6
+A82	Specificity T16 2
+A83	Eloquence T17 4
+A84	Relevance T17 6
+A85	Persuasiveness T17 2
+A87	Specificity T17 3
+A88	Eloquence T18 4
+A89	Relevance T18 6
+A90	Persuasiveness T18 3
+A92	Specificity T18 2
+A93	Eloquence T19 3
+A94	Relevance T19 6
+A95	Persuasiveness T19 2
+A97	Specificity T19 1
+A98	Persuasiveness T16 2
+A99	Logos T6 yes
+A100	Evidence T6 4
+A101	Eloquence T6 3
+A102	Relevance T6 4
+A103	Ethos T6 no
+A104	Pathos T6 no
+A105	Persuasiveness T6 4
+A106	Eloquence T2 3
+A108	Ethos T2 no
+A109	Specificity T2 2
+A110	Evidence T2 3
+A111	Pathos T2 no
+A112	Persuasiveness T2 3
+A113	Logos T1 yes
+A114	Persuasiveness T1 3
+A115	Evidence T1 3
+A116	Eloquence T1 3
+A117	Specificity T1 2
+A118	Ethos T1 no
+A119	Pathos T1 no
+A107	Logos T2 yes
+A121	Evidence T18 1
+A124	Strength T7 3
+A125	Evidence T7 1
+A126	Strength T8 2
+A127	Evidence T8 1
+A128	Strength T10 4
+A129	Evidence T10 1
+A130	Strength T9 2
+A131	Evidence T9 4
+A81	Logos T17 no
+A86	ClaimType T17 Fact
+A96	Evidence T17 1
+A132	Ethos T17 no
+A133	Pathos T17 no
+A136	Evidence T19 1
+A139	Strength T11 2
+A140	Evidence T11 1
+A141	Strength T12 2
+A142	Evidence T12 1
+A143	Strength T13 2
+A144	Evidence T13 1
+A145	Strength T14 2
+A146	Evidence T14 1
+A147	Strength T15 4
+A148	Evidence T15 1
+A149	Logos T16 no
+A150	ClaimType T16 Value
+A151	Evidence T16 2
+A152	Ethos T16 no
+A153	Pathos T16 no
+A154	Strength T19 2
+A155	PremiseType T19 common_knowledge
+A91	Strength T18 3
+A120	PremiseType T18 common_knowledge

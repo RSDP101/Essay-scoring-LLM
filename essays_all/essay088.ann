@@ -1,0 +1,67 @@
+T1	MajorClaim 373 442	a defeated person has to try and try until to achieve her or his goal
+T2	MajorClaim 1177 1232	people should not give up when they face with a failure
+T3	Claim 1247 1328	they have to learn new points from that failure, and they become more experienced
+A1	Stance T3 For
+T4	Claim 459 630	when people face with a failure they can learn a large number of things from that failure, therefore in the next effort they try to avoid doing and repeating that mistakes
+A2	Stance T4 For
+T6	Premise 646 793	most of inventors in the first phases of their job face with some problems and defeats, but in the next stages they learn how to deal with problems
+R2	supports Arg1:T6 Arg2:T4	
+T5	Claim 810 980	experience shows while people doing a job constantly, they become more experienced in that subject, so in the final effort they become successful with the high percentile
+A3	Stance T5 For
+T7	Premise 995 1142	scientists experiment a substance for a long time, after they gain lots of experience and knowledge about that subject they decide to make it final
+R1	supports Arg1:T7 Arg2:T5	
+A4	Eloquence T6 1
+A5	Relevance T6 3
+A6	PremiseType T6 common_knowledge
+A7	Specificity T6 3
+A8	Logos T4 yes
+A9	Persuasiveness T4 2
+A10	ClaimType T4 Fact
+A11	Evidence T4 2
+A12	Eloquence T4 2
+A13	Specificity T4 2
+A14	Relevance T4 6
+A15	Ethos T4 no
+A16	Pathos T4 no
+A17	Eloquence T7 1
+A18	Relevance T7 2
+A19	Persuasiveness T7 2
+A20	PremiseType T7 common_knowledge
+A21	Specificity T7 3
+A22	Logos T5 yes
+A23	Persuasiveness T5 2
+A24	ClaimType T5 Fact
+A25	Evidence T5 2
+A26	Eloquence T5 2
+A27	Specificity T5 3
+A28	Relevance T5 6
+A29	Ethos T5 no
+A30	Pathos T5 no
+A31	Logos T3 no
+A32	Persuasiveness T3 2
+A33	ClaimType T3 Fact
+A34	Evidence T3 1
+A35	Eloquence T3 3
+A36	Specificity T3 2
+A37	Relevance T3 6
+A38	Ethos T3 no
+A39	Pathos T3 no
+A40	Logos T2 yes
+A41	Ethos T2 yes
+A42	Pathos T2 no
+A43	Persuasiveness T2 2
+A44	Evidence T2 2
+A45	Eloquence T2 2
+A46	Specificity T2 2
+A47	Logos T1 yes
+A48	Persuasiveness T1 2
+A49	Evidence T1 2
+A50	Eloquence T1 2
+A51	Specificity T1 2
+A52	Ethos T1 no
+A53	Pathos T1 no
+A54	Persuasiveness T6 2
+A55	Strength T6 2
+A56	Evidence T6 1
+A57	Strength T7 2
+A58	Evidence T7 1

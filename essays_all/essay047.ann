@@ -1,0 +1,144 @@
+T1	MajorClaim 1757 1798	wild animals should be set free from zoos
+T2	MajorClaim 353 408	animals should live in natural habitats instead of zoos
+T3	Claim 643 731	it is our responsibility to create a natural and safe environment for animals to live in
+A1	Stance T3 For
+T4	Claim 425 504	it is the right of wild species to live in a environment away from human beings
+T5	Premise 506 641	Given the fact that human beings are responsible for the heavy pollution and severe damage to the natural habitats of many wild animals
+R1	supports Arg1:T5 Arg2:T3	
+R2	supports Arg1:T4 Arg2:T3	
+T6	Claim 1107 1191	zoos are more likely to be a killer rather than a protector in protecting wild lives
+A2	Stance T6 For
+T7	Claim 1032 1091	the wild species would suffer from isolation and depression
+T8	Claim 861 1017	if rural animals are captured in the zoo for a long period, it would have negative influences on both the physical and psychological status of the creatures
+T9	Claim 745 849	the limited space and the artificial trees and lakes can not fully compensate the animals for their loss
+R3	supports Arg1:T9 Arg2:T6	
+R4	supports Arg1:T8 Arg2:T6	
+R5	supports Arg1:T7 Arg2:T6	
+T10	Claim 1235 1350	zoos, which are equipped with modern facilities and professionals, would provide better care for the animals inside
+A3	Stance T10 Against
+T11	Premise 1380 1455	the endangered species preserved in zoos would never die of illegal hunting
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 1487 1595	the strict laws prohibiting poaching would provide a shelter for various kinds of animals in natural habitat
+R7	attacks Arg1:T12 Arg2:T11	
+T13	Claim 1611 1712	the growing number of natural habitat would be the ultimate solution of saving wild animals worldwide
+R8	attacks Arg1:T13 Arg2:T10	
+T14	Claim 1816 1903	they have the right to enjoy freedom but they also escape from isolation and depression
+A4	Stance T14 For
+A5	Logos T4 no
+A6	Persuasiveness T4 2
+A7	ClaimType T4 Fact
+A8	Evidence T4 1
+A9	Eloquence T4 4
+A10	Specificity T4 2
+A11	Relevance T4 4
+A12	Ethos T4 no
+A13	Pathos T4 no
+A14	Persuasiveness T5 3
+A15	Strength T5 3
+A16	Evidence T5 1
+A17	Eloquence T5 4
+A18	PremiseType T5 common_knowledge
+A19	Specificity T5 4
+A20	Relevance T5 5
+A21	Logos T3 yes
+A22	ClaimType T3 Value
+A23	Evidence T3 2
+A24	Eloquence T3 3
+A25	Relevance T3 4
+A26	Ethos T3 no
+A27	Pathos T3 yes
+A28	Persuasiveness T3 2
+A29	Specificity T3 2
+A30	Logos T9 no
+A31	Persuasiveness T9 2
+A32	ClaimType T9 Value
+A33	Evidence T9 1
+A34	Eloquence T9 4
+A35	Specificity T9 1
+A36	Relevance T9 2
+A37	Ethos T9 no
+A38	Pathos T9 no
+A39	Logos T8 no
+A40	Persuasiveness T8 2
+A41	ClaimType T8 Value
+A42	Evidence T8 1
+A43	Eloquence T8 3
+A44	Specificity T8 2
+A45	Relevance T8 4
+A46	Ethos T8 no
+A47	Pathos T8 no
+A48	Logos T7 no
+A49	Persuasiveness T7 2
+A50	ClaimType T7 Fact
+A51	Evidence T7 1
+A52	Eloquence T7 3
+A53	Specificity T7 2
+A54	Relevance T7 2
+A55	Ethos T7 no
+A56	Pathos T7 no
+A57	Logos T6 yes
+A58	Persuasiveness T6 2
+A59	ClaimType T6 Fact
+A60	Evidence T6 2
+A61	Eloquence T6 2
+A62	Specificity T6 3
+A63	Relevance T6 6
+A64	Ethos T6 no
+A65	Pathos T6 yes
+A66	Logos T12 no
+A67	Persuasiveness T12 2
+A68	ClaimType T12 Fact
+A69	Evidence T12 1
+A70	Eloquence T12 3
+A71	Specificity T12 2
+A72	Relevance T12 6
+A73	Ethos T12 no
+A74	Pathos T12 no
+A75	Strength T11 4
+A76	Evidence T11 2
+A77	Eloquence T11 3
+A78	PremiseType T11 common_knowledge
+A79	Specificity T11 3
+A80	Relevance T11 6
+A81	Logos T13 no
+A82	Persuasiveness T13 2
+A83	ClaimType T13 Fact
+A84	Evidence T13 1
+A85	Eloquence T13 2
+A86	Specificity T13 2
+A87	Relevance T13 5
+A88	Ethos T13 no
+A89	Pathos T13 no
+A90	Persuasiveness T11 3
+A91	Logos T10 yes
+A92	Persuasiveness T10 2
+A93	ClaimType T10 Fact
+A94	Evidence T10 2
+A95	Eloquence T10 4
+A96	Specificity T10 2
+A97	Relevance T10 6
+A98	Ethos T10 no
+A99	Pathos T10 no
+A100	Logos T14 no
+A101	Persuasiveness T14 2
+A102	ClaimType T14 Fact
+A103	Evidence T14 1
+A104	Eloquence T14 3
+A105	Relevance T14 5
+A106	Ethos T14 no
+A107	Pathos T14 no
+A108	Logos T1 yes
+A109	Persuasiveness T1 2
+A110	Evidence T1 2
+A111	Eloquence T1 3
+A112	Specificity T1 2
+A113	Ethos T1 no
+A114	Pathos T1 yes
+A115	Logos T2 yes
+A116	Persuasiveness T2 2
+A117	Evidence T2 2
+A118	Eloquence T2 3
+A119	Specificity T2 2
+A120	Ethos T2 no
+A121	Pathos T2 yes
+A122	Specificity T14 2

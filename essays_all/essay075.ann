@@ -1,0 +1,113 @@
+T1	MajorClaim 68 227	government should give priorities to invest more money on the basic social welfares such as education and housing instead of subsidizing arts relative programs
+T2	MajorClaim 1267 1366	governments should attach heavier weight to other social issues such as education and housing needs
+T3	Claim 1176 1248	art could play an active role in improving the quality of people's lives
+A1	Stance T3 Against
+T4	Claim 1375 1444	those are the most essential ways enable to make people a decent life
+A2	Stance T4 For
+T5	Claim 229 298	Art is not the key determination of quality of life, but education is
+A3	Stance T5 For
+T6	Claim 300 482	In order to make people better off, it is more urgent for governments to commit money to some fundamental help such as setting more scholarships in education section for all citizens
+T7	Claim 507 629	knowledge and wisdom is the guarantee of the enhancement of the quality of people's lives for a well-rounded social system
+R1	supports Arg1:T7 Arg2:T6	
+R2	supports Arg1:T6 Arg2:T5	
+T8	Claim 643 723	art, to some extent, serve a valuable function about enriching one's daily lives
+A4	Stance T8 Against
+T9	Premise 738 851	it could bring release one's heavy burden of study pressure and refresh human bodies through a hard day from work
+R3	supports Arg1:T9 Arg2:T8	
+T10	Claim 862 1085	it is unrealistic to pursuit of this high standard of life in many developing countries, in which the basic housing supply has still been a huge problem with plenty of lower income family have squeezed in a small tight room
+R4	attacks Arg1:T10 Arg2:T8	
+T11	Claim 1087 1161	By comparison to these issues, the pursuit of art seems unimportant at all
+R5	attacks Arg1:T11 Arg2:T8	
+A5	Eloquence T7 5
+A6	Relevance T7 4
+A7	Persuasiveness T7 2
+A9	Specificity T7 2
+A10	Eloquence T6 3
+A11	Relevance T6 3
+A13	Specificity T6 1
+A14	Persuasiveness T6 2
+A15	Logos T5 yes
+A16	Persuasiveness T5 2
+A17	ClaimType T5 Value
+A18	Evidence T5 2
+A19	Eloquence T5 3
+A20	Specificity T5 3
+A21	Relevance T5 6
+A22	Ethos T5 no
+A23	Pathos T5 no
+A24	Eloquence T9 1
+A25	Relevance T9 4
+A26	Persuasiveness T9 2
+A27	PremiseType T9 common_knowledge
+A28	Specificity T9 2
+A29	Eloquence T10 2
+A30	Relevance T10 3
+A31	Persuasiveness T10 2
+A33	Specificity T10 3
+A34	Eloquence T11 2
+A35	Relevance T11 4
+A36	Persuasiveness T11 2
+A38	Specificity T11 2
+A39	Logos T8 yes
+A40	Persuasiveness T8 2
+A41	ClaimType T8 Value
+A42	Evidence T8 2
+A43	Eloquence T8 2
+A44	Specificity T8 3
+A45	Relevance T8 4
+A46	Ethos T8 no
+A47	Pathos T8 no
+A48	Logos T3 no
+A49	Persuasiveness T3 2
+A50	ClaimType T3 Value
+A51	Evidence T3 1
+A52	Eloquence T3 3
+A53	Specificity T3 2
+A54	Relevance T3 4
+A55	Ethos T3 no
+A56	Pathos T3 no
+A57	Logos T4 no
+A58	Persuasiveness T4 2
+A59	ClaimType T4 Value
+A60	Evidence T4 1
+A61	Eloquence T4 2
+A62	Specificity T4 1
+A63	Relevance T4 6
+A64	Ethos T4 no
+A65	Pathos T4 no
+A66	Logos T2 yes
+A67	Evidence T2 2
+A68	Eloquence T2 3
+A69	Specificity T2 2
+A70	Ethos T2 no
+A71	Pathos T2 no
+A72	Logos T1 yes
+A73	Persuasiveness T1 2
+A74	Evidence T1 2
+A75	Eloquence T1 2
+A76	Specificity T1 3
+A77	Ethos T1 no
+A78	Pathos T1 no
+A79	Persuasiveness T2 2
+A80	Strength T9 2
+A81	Evidence T9 1
+A32	Logos T10 no
+A82	ClaimType T10 Value
+A83	Evidence T10 1
+A84	Ethos T10 no
+A85	Pathos T10 no
+A37	Logos T11 no
+A86	ClaimType T11 Value
+A87	Evidence T11 1
+A88	Ethos T11 no
+A89	Pathos T11 no
+A8	Logos T7 no
+A90	ClaimType T7 Value
+A91	Evidence T7 1
+A92	Ethos T7 no
+A93	Pathos T7 no
+A94	Logos T6 no
+A95	ClaimType T6 Policy
+A96	Evidence T6 2
+A97	Ethos T6 no
+A98	Pathos T6 no

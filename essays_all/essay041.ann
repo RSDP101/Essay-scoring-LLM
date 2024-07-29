@@ -1,0 +1,84 @@
+T2	Claim 388 506	students can learn invaluable experiences through the period of time working for the institutions they are assigned to
+A1	Stance T2 For
+T3	Premise 649 772	students might have little idea of the real challenges or the true situation when they enter the workforce after graduation
+T4	Premise 508 634	In most school curriculums, the courses are theoretical and often by instructors speaking to students sitting in the classroom
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 791 880	the internship, although without pay, can give them the experiences that money cannot buy
+T6	Premise 882 951	As for the companies, the unpaid interns can no doubt save some money
+T1	Claim 1295 1383	companies save time and resources for searching new staffs and organizing an orientation
+A4	Stance T1 For
+T7	Premise 1213 1282	they can start looking for potential employees and begin the training
+T8	Premise 966 1202	the younger generations can help them generate new ideas as the students are not bound to restricted workload and they tend to have greater imagination, which can be essentially helpful when they are making a new advertisement or slogan
+R8	supports Arg1:T8 Arg2:T1	
+R9	supports Arg1:T7 Arg2:T1	
+T9	MajorClaim 1396 1677	students can learn outside the textbook and classroom with a real working experiences that can be a great opportunity for future job consideration whereas organizations earn much more as they can not only save time and money but also be enlightened by what young people have to say
+R2	supports Arg1:T3 Arg2:T5	
+R3	supports Arg1:T5 Arg2:T2	
+R4	supports Arg1:T6 Arg2:T1	
+A2	PremiseType T4 common_knowledge
+A3	PremiseType T3 warrant
+A5	PremiseType T5 common_knowledge
+A6	PremiseType T6 common_knowledge
+A7	PremiseType T8 invented_instance
+A8	PremiseType T7 common_knowledge
+A9	Eloquence T5 3
+A10	Specificity T5 2
+A11	Eloquence T3 3
+A12	Specificity T3 3
+A13	Eloquence T4 3
+A14	Specificity T4 4
+A15	Relevance T4 6
+A16	Persuasiveness T4 4
+A17	Relevance T3 6
+A18	Persuasiveness T3 5
+A19	Eloquence T6 3
+A20	Relevance T6 6
+A21	Persuasiveness T6 4
+A22	Specificity T6 2
+A23	Relevance T5 6
+A24	Persuasiveness T5 6
+A25	Logos T2 yes
+A26	Ethos T2 no
+A27	ClaimType T2 Value
+A28	Eloquence T2 4
+A29	Specificity T2 4
+A30	Pathos T2 yes
+A31	Persuasiveness T2 5
+A32	Evidence T2 5
+A33	Relevance T2 5
+A34	Eloquence T8 5
+A35	Relevance T8 6
+A36	Persuasiveness T8 6
+A37	Specificity T8 5
+A38	Eloquence T7 3
+A39	Relevance T7 4
+A40	Persuasiveness T7 3
+A41	Specificity T7 2
+A42	Logos T1 yes
+A43	Persuasiveness T1 4
+A44	Evidence T1 4
+A45	Eloquence T1 3
+A46	Specificity T1 3
+A47	Relevance T1 5
+A48	Ethos T1 no
+A49	Pathos T1 no
+A50	Logos T9 yes
+A51	Persuasiveness T9 4
+A52	Evidence T9 4
+A53	Eloquence T9 3
+A54	Specificity T9 5
+A55	Ethos T9 no
+A56	Pathos T9 yes
+A57	ClaimType T1 Fact
+A58	Strength T8 6
+A59	Evidence T8 1
+A60	Strength T7 3
+A61	Evidence T7 1
+A62	Strength T6 4
+A63	Evidence T6 1
+A64	Strength T4 4
+A65	Evidence T4 1
+A66	Strength T3 5
+A67	Evidence T3 4
+A68	Strength T5 6
+A69	Evidence T5 6

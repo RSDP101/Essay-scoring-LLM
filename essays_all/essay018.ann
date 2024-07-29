@@ -1,0 +1,177 @@
+T1	MajorClaim 1498 1562	universities must open choice for everyone to select his subject
+T2	Claim 1774 1825	we must give them opportunity to achieve their goal
+A1	Stance T2 For
+T3	Claim 1564 1618	Our youth has become very confident towards his career
+T4	Claim 1620 1673	They are not ready to be bound in certain limitations
+T5	Claim 1675 1769	Female candidates also do not care about any restriction posed by the society and the employer
+R1	supports Arg1:T4 Arg2:T2	
+R2	supports Arg1:T5 Arg2:T2	
+R3	supports Arg1:T3 Arg2:T2	
+T6	Claim 407 475	Universities should accept equal numbers of students of both genders
+A2	Stance T6 For
+T7	Premise 514 589	women have proved themselves in every field whether it is indoor or outdoor
+T8	Premise 604 660	nowadays women are working in home as well as in the sky
+T9	Premise 662 729	They are acting as a good housewife and they are flying planes also
+T10	Claim 744 822	university authority must not be biased on ground of the gender discrimination
+T11	Claim 824 907	They must consider the academic record of the student as main criteria of admission
+R4	supports Arg1:T11 Arg2:T10	
+R5	supports Arg1:T8 Arg2:T7	
+R6	supports Arg1:T9 Arg2:T7	
+R7	supports Arg1:T7 Arg2:T6	
+R8	supports Arg1:T10 Arg2:T6	
+T12	Claim 1357 1459	universities follow the requirement of job providers and decide subject suitable for particular gender
+A3	Stance T12 Against
+T13	Premise 919 978	the current job market affects the decision of universities
+T14	Premise 980 1051	Every university designs its courses according to the need of employers
+T15	Premise 1053 1095	The job selection criteria are pre decided
+T16	Premise 1110 1211	employers need male candidates for the heavy work such as repairing and installation of heavy machine
+T17	Premise 1213 1252	They prefer male staff for night shifts
+T18	Premise 1254 1344	They want female candidates for soft natured work like counseling, teaching, designing etc
+R9	supports Arg1:T18 Arg2:T16	
+R10	supports Arg1:T17 Arg2:T16	
+R11	supports Arg1:T16 Arg2:T15	
+R12	supports Arg1:T14 Arg2:T12	
+R13	supports Arg1:T13 Arg2:T12	
+R14	supports Arg1:T15 Arg2:T12	
+A4	Eloquence T7 3
+A5	Eloquence T8 2
+A6	Relevance T8 4
+A7	Persuasiveness T8 3
+A8	PremiseType T8 common_knowledge
+A9	Specificity T8 2
+A10	PremiseType T7 common_knowledge
+A11	Specificity T7 3
+A12	Relevance T7 6
+A13	Persuasiveness T7 5
+A14	Eloquence T9 3
+A15	Relevance T9 4
+A16	Persuasiveness T9 3
+A17	Specificity T9 3
+A18	PremiseType T9 common_knowledge
+A19	Eloquence T10 4
+A20	Relevance T10 6
+A21	Specificity T10 3
+A22	Persuasiveness T10 3
+A24	Eloquence T11 4
+A25	Relevance T11 6
+A26	Persuasiveness T11 1
+A28	Specificity T11 3
+A29	Logos T6 yes
+A30	ClaimType T6 Value
+A31	Eloquence T6 3
+A32	Ethos T6 no
+A33	Pathos T6 no
+A34	Specificity T6 4
+A35	Eloquence T1 2
+A36	Relevance T6 4
+A37	Persuasiveness T6 4
+A38	Evidence T6 4
+A39	Eloquence T13 3
+A40	Relevance T13 6
+A41	Persuasiveness T13 4
+A42	PremiseType T13 common_knowledge
+A43	Specificity T13 2
+A44	Eloquence T14 3
+A45	PremiseType T14 common_knowledge
+A46	Specificity T14 3
+A47	Relevance T14 6
+A48	Persuasiveness T14 4
+A49	Eloquence T15 3
+A50	Relevance T15 6
+A51	Persuasiveness T15 6
+A52	Specificity T15 1
+A53	PremiseType T15 common_knowledge
+A54	Eloquence T16 4
+A55	PremiseType T16 common_knowledge
+A56	Specificity T16 4
+A57	Relevance T16 6
+A58	Persuasiveness T16 5
+A59	Specificity T17 1
+A60	Eloquence T17 3
+A61	Relevance T17 4
+A62	Persuasiveness T17 3
+A63	PremiseType T17 common_knowledge
+A64	PremiseType T18 common_knowledge
+A65	Eloquence T18 4
+A66	Relevance T18 6
+A67	Persuasiveness T18 5
+A68	Specificity T18 4
+A69	Logos T12 yes
+A70	ClaimType T12 Fact
+A71	Eloquence T12 3
+A72	Relevance T12 5
+A73	Ethos T12 no
+A74	Pathos T12 no
+A75	Specificity T12 4
+A76	Persuasiveness T12 5
+A77	Evidence T12 5
+A78	Eloquence T3 2
+A79	Specificity T3 1
+A80	Relevance T3 3
+A81	Persuasiveness T3 1
+A83	Eloquence T4 2
+A84	Relevance T4 2
+A86	Specificity T4 1
+A87	Persuasiveness T4 1
+A88	Eloquence T5 3
+A89	Relevance T5 4
+A91	Specificity T5 3
+A92	Persuasiveness T5 1
+A93	Eloquence T2 3
+A94	Specificity T2 2
+A95	Relevance T2 3
+A96	Persuasiveness T2 2
+A97	ClaimType T2 Value
+A98	Evidence T2 2
+A99	Ethos T2 no
+A100	Logos T2 yes
+A101	Pathos T2 yes
+A102	Ethos T1 no
+A103	Specificity T1 3
+A104	Logos T1 yes
+A105	Pathos T1 yes
+A106	Evidence T1 3
+A107	Persuasiveness T1 3
+A108	Strength T8 2
+A109	Evidence T8 1
+A110	Strength T9 3
+A111	Evidence T9 1
+A112	Strength T13 4
+A113	Evidence T13 1
+A114	Strength T14 4
+A115	Evidence T14 1
+A116	Strength T18 5
+A117	Evidence T18 1
+A118	Strength T17 3
+A119	Evidence T17 1
+A120	Strength T16 5
+A121	Evidence T16 4
+A122	Strength T7 5
+A123	Evidence T7 3
+A27	Logos T11 no
+A124	ClaimType T11 Policy
+A125	Evidence T11 1
+A126	Ethos T11 no
+A127	Pathos T11 no
+A23	Logos T10 yes
+A128	ClaimType T10 Policy
+A129	Evidence T10 3
+A130	Ethos T10 no
+A131	Pathos T10 no
+A82	Logos T3 no
+A85	ClaimType T3 Fact
+A90	Evidence T3 1
+A132	Ethos T3 no
+A133	Pathos T3 no
+A134	Logos T4 no
+A135	ClaimType T4 Fact
+A136	Evidence T4 1
+A137	Ethos T4 no
+A138	Pathos T4 no
+A139	Logos T5 no
+A140	ClaimType T5 Fact
+A141	Evidence T5 1
+A142	Ethos T5 no
+A143	Pathos T5 no
+A144	Strength T15 4
+A145	Evidence T15 4

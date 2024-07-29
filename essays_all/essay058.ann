@@ -1,0 +1,212 @@
+T1	MajorClaim 2055 2133	children should be taught co-operation complimented with a healthy competition
+T2	Claim 375 413	Co-operation is essential for teamwork
+A1	Stance T2 For
+T3	Premise 415 493	Educational systems emphasize on encouraging co-operative approach in children
+T4	Claim 495 570	We live in a social setup and mutual help and sharing only leads to success
+T5	Claim 572 627	A person can not learn or achieve everything by oneself
+T6	Premise 643 663	lions hunt in a team
+T7	Premise 665 751	It is only due to their teamwork that they are able to catch a prey and make task easy
+R1	supports Arg1:T7 Arg2:T6	
+T8	Claim 770 850	co-operative approach will save time, energy and will have a higher success rate
+R2	supports Arg1:T6 Arg2:T2	
+R3	supports Arg1:T3 Arg2:T2	
+R4	supports Arg1:T4 Arg2:T2	
+R5	supports Arg1:T5 Arg2:T2	
+R6	supports Arg1:T8 Arg2:T2	
+T9	Claim 866 946	co-operation helps to understand other's perspective and learn by their mistakes
+A2	Stance T9 For
+T10	Premise 948 1021	It helps to identify one's strengths and weaknesses as compared to others
+T11	Premise 1023 1131	A co-operative approach can create inspirational and motivational feeling seeing other people's achievements
+T12	Claim 1142 1190	competition is also as important as co-operation
+R7	supports Arg1:T10 Arg2:T9	
+R8	supports Arg1:T11 Arg2:T9	
+R9	attacks Arg1:T12 Arg2:T9	
+T13	Claim 1419 1465	Competition helps in improvement and evolution
+A3	Stance T13 For
+T14	Claim 1273 1351	An individual must compete with oneself only, instead of trying to beat others
+T15	Premise 1353 1417	Competition has helped the development of science and technology
+T16	Premise 1480 1569	every other day, new cars are developed by companies which are more efficient than others
+T17	Premise 1571 1624	This kind of competition gives customers more options
+R10	supports Arg1:T17 Arg2:T16	
+R11	supports Arg1:T14 Arg2:T13	
+R12	supports Arg1:T15 Arg2:T13	
+T18	Claim 1761 1820	Competition should be always based on self-improvement rule
+A4	Stance T18 Against
+T19	Claim 1635 1679	blind and selfish competition is detrimental
+T20	Claim 1681 1759	'Your loss, my gain' kind of competition can never be fruitful in the long run
+T21	Claim 1822 1916	A healthy competition which involves raising one's own level above others is the best approach
+R14	supports Arg1:T20 Arg2:T18	
+R15	supports Arg1:T21 Arg2:T18	
+R16	supports Arg1:T19 Arg2:T18	
+R13	supports Arg1:T16 Arg2:T13	
+A5	Eloquence T3 3
+A6	Relevance T3 4
+A7	Persuasiveness T3 3
+A8	PremiseType T3 common_knowledge
+A9	Specificity T3 2
+A10	Eloquence T4 2
+A11	Relevance T4 3
+A12	Persuasiveness T4 1
+A14	Specificity T4 1
+A15	Eloquence T5 2
+A16	Relevance T5 3
+A17	Persuasiveness T5 1
+A19	Specificity T5 1
+A20	Eloquence T6 3
+A21	Relevance T6 6
+A22	Persuasiveness T6 4
+A23	PremiseType T6 common_knowledge
+A24	Specificity T6 1
+A25	Eloquence T7 3
+A26	Relevance T7 4
+A27	Persuasiveness T7 3
+A28	PremiseType T7 common_knowledge
+A29	Specificity T7 2
+A30	Eloquence T8 3
+A32	Relevance T8 6
+A33	Persuasiveness T8 1
+A34	Specificity T8 3
+A35	Logos T2 yes
+A36	Ethos T2 no
+A37	Evidence T2 3
+A38	ClaimType T2 Fact
+A39	Eloquence T2 3
+A40	Specificity T2 2
+A41	Persuasiveness T2 3
+A42	Relevance T2 6
+A43	Pathos T2 yes
+A44	Eloquence T10 3
+A45	PremiseType T10 common_knowledge
+A46	Specificity T10 2
+A47	Relevance T10 4
+A48	Persuasiveness T10 3
+A49	Eloquence T11 3
+A50	Relevance T11 6
+A51	PremiseType T11 invented_instance
+A52	Specificity T11 3
+A53	Persuasiveness T11 4
+A54	Eloquence T12 3
+A55	Relevance T12 3
+A56	Persuasiveness T12 1
+A58	Specificity T12 1
+A59	Eloquence T9 3
+A60	Logos T9 yes
+A61	Ethos T9 no
+A62	Specificity T9 2
+A63	ClaimType T9 Fact
+A64	Pathos T9 no
+A65	Persuasiveness T9 3
+A66	Evidence T9 3
+A67	Relevance T9 6
+A68	Eloquence T14 3
+A69	Relevance T14 4
+A70	Persuasiveness T14 1
+A72	Specificity T14 2
+A73	Eloquence T15 3
+A74	Relevance T15 6
+A75	Persuasiveness T15 3
+A76	PremiseType T15 common_knowledge
+A77	Specificity T15 2
+A78	Eloquence T16 3
+A79	Relevance T16 6
+A80	Persuasiveness T16 5
+A81	PremiseType T16 common_knowledge
+A82	Specificity T16 3
+A83	Eloquence T17 3
+A84	Relevance T17 6
+A85	Persuasiveness T17 4
+A86	PremiseType T17 common_knowledge
+A87	Specificity T17 2
+A88	Logos T13 yes
+A89	ClaimType T13 Fact
+A90	Evidence T13 3
+A91	Eloquence T13 3
+A92	Ethos T13 no
+A93	Pathos T13 no
+A94	Specificity T13 3
+A95	Relevance T13 6
+A96	Persuasiveness T13 3
+A97	Eloquence T19 2
+A98	Relevance T19 2
+A100	Specificity T19 1
+A101	Persuasiveness T19 2
+A102	Eloquence T20 3
+A103	Relevance T20 3
+A104	Persuasiveness T20 1
+A106	Specificity T20 1
+A107	Eloquence T21 3
+A108	Relevance T21 6
+A109	Persuasiveness T21 1
+A111	Specificity T21 3
+A112	Logos T18 yes
+A113	Persuasiveness T18 2
+A114	Evidence T18 2
+A115	Ethos T18 no
+A116	Pathos T18 yes
+A117	ClaimType T18 Value
+A118	Eloquence T18 3
+A119	Specificity T18 2
+A120	Relevance T18 4
+A121	Logos T1 yes
+A122	Persuasiveness T1 3
+A123	Evidence T1 3
+A124	Eloquence T1 3
+A125	Specificity T1 3
+A126	Ethos T1 no
+A127	Pathos T1 yes
+A18	Logos T5 no
+A128	ClaimType T5 Value
+A129	Evidence T5 1
+A130	Ethos T5 no
+A131	Pathos T5 no
+A13	Logos T4 no
+A132	ClaimType T4 Fact
+A133	Evidence T4 1
+A134	Ethos T4 no
+A135	Pathos T4 no
+A136	Strength T3 3
+A137	Evidence T3 1
+A138	Strength T10 3
+A139	Evidence T10 1
+A140	Strength T11 4
+A141	Evidence T11 1
+A142	Strength T17 4
+A143	Evidence T17 1
+A99	Logos T19 no
+A144	ClaimType T19 Value
+A145	Evidence T19 1
+A146	Ethos T19 no
+A147	Pathos T19 no
+A105	Logos T20 no
+A148	ClaimType T20 Value
+A149	Evidence T20 1
+A150	Ethos T20 no
+A151	Pathos T20 no
+A57	Logos T12 no
+A152	ClaimType T12 Value
+A153	Evidence T12 1
+A154	Ethos T12 no
+A155	Pathos T12 no
+A71	Logos T14 no
+A156	ClaimType T14 Value
+A157	Evidence T14 1
+A158	Ethos T14 no
+A159	Pathos T14 no
+A31	Logos T8 no
+A160	ClaimType T8 Fact
+A161	Evidence T8 1
+A162	Ethos T8 no
+A163	Pathos T8 no
+A164	Strength T7 3
+A165	Evidence T7 1
+A166	Strength T6 3
+A167	Evidence T6 3
+A110	Logos T21 no
+A168	ClaimType T21 Value
+A169	Evidence T21 1
+A170	Ethos T21 no
+A171	Pathos T21 no
+A172	Strength T15 3
+A173	Evidence T15 1
+A174	Strength T16 4
+A175	Evidence T16 4

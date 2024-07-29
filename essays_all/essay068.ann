@@ -1,0 +1,109 @@
+T1	MajorClaim 91 191	it is time for the government to take action to control the proliferation of violent scenes in media
+T2	MajorClaim 1378 1490	What the government should do immediately is to strengthen censorship to control the amount of violence in media
+T3	Claim 1308 1376	our society is occupied with the violent scenes and plots at present
+A1	Stance T3 For
+T4	Claim 299 549	This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes
+A2	Stance T4 For
+T5	Claim 890 1012	excessive violence would offer misleading information to the public and exert detrimental influence to the society as well
+A3	Stance T5 For
+T6	Claim 553 607	they regard the violence as reasonable and justifiable
+T7	Premise 628 730	media, such as TV or film, is considered as the correct information source regulated by the government
+T8	Claim 732 800	It should be reporting and reflecting true phenomenon in the society
+T9	Premise 802 879	Violence, as one of the facts in the real world, certainly has to be reported
+T10	Premise 1014 1164	It is recently reported in the news that a seventeen-year-old boy killed all his family members, one sister and two parents out of hatred and jealousy
+T11	Claim 1166 1286	In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure
+R1	supports Arg1:T6 Arg2:T4	
+R2	supports Arg1:T8 Arg2:T9	
+R3	supports Arg1:T7 Arg2:T9	
+R4	attacks Arg1:T9 Arg2:T5	
+R5	supports Arg1:T10 Arg2:T5	
+R6	supports Arg1:T11 Arg2:T5	
+A4	Eloquence T6 3
+A5	Relevance T6 6
+A6	Persuasiveness T6 2
+A8	Specificity T6 1
+A9	Logos T4 no
+A10	Persuasiveness T4 2
+A11	ClaimType T4 Fact
+A12	Evidence T4 2
+A13	Eloquence T4 5
+A14	Specificity T4 2
+A15	Relevance T4 4
+A16	Ethos T4 no
+A17	Pathos T4 no
+A18	Eloquence T7 1
+A19	Relevance T7 2
+A20	Persuasiveness T7 2
+A21	PremiseType T7 common_knowledge
+A22	Specificity T7 2
+A23	Eloquence T8 3
+A24	Relevance T8 3
+A25	Persuasiveness T8 2
+A27	Specificity T8 2
+A28	Eloquence T9 3
+A29	Relevance T9 2
+A30	PremiseType T9 common_knowledge
+A31	Specificity T9 3
+A32	Persuasiveness T9 2
+A33	Logos T3 no
+A34	Persuasiveness T3 2
+A35	ClaimType T3 Fact
+A36	Evidence T3 1
+A37	Eloquence T3 2
+A38	Specificity T3 2
+A39	Relevance T3 4
+A40	Ethos T3 no
+A41	Pathos T3 no
+A42	Eloquence T11 3
+A43	Relevance T11 5
+A44	Persuasiveness T11 2
+A46	Specificity T11 4
+A47	Eloquence T10 3
+A48	Relevance T10 3
+A49	Persuasiveness T10 3
+A50	PremiseType T10 real_example
+A51	Specificity T10 5
+A52	Logos T5 yes
+A53	Ethos T5 no
+A54	Pathos T5 yes
+A55	Evidence T5 2
+A56	Persuasiveness T5 2
+A57	ClaimType T5 Value
+A58	Eloquence T5 3
+A59	Specificity T5 2
+A60	Relevance T5 5
+A61	Logos T2 yes
+A62	Persuasiveness T2 2
+A63	Evidence T2 2
+A64	Eloquence T2 3
+A65	Specificity T2 2
+A66	Ethos T2 no
+A67	Pathos T2 yes
+A68	Logos T1 yes
+A69	Persuasiveness T1 2
+A70	Evidence T1 2
+A71	Eloquence T1 3
+A72	Specificity T1 2
+A73	Ethos T1 no
+A74	Pathos T1 yes
+A7	Logos T6 no
+A75	ClaimType T6 Value
+A76	Evidence T6 1
+A77	Ethos T6 no
+A78	Pathos T6 no
+A26	Strength T7 2
+A79	Evidence T7 1
+A45	Logos T11 no
+A80	ClaimType T11 Fact
+A81	Evidence T11 1
+A82	Ethos T11 no
+A83	Pathos T11 no
+A84	Strength T10 3
+A85	Evidence T10 1
+A86	Logos T8 no
+A87	ClaimType T8 Policy
+A88	Evidence T8 1
+A89	Ethos T8 no
+A90	Pathos T8 no
+A91	Strength T9 2
+A92	Evidence T9 2

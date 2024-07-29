@@ -1,0 +1,117 @@
+T1	MajorClaim 2002 2055	I do support the view of learning all school subjects
+T2	Claim 1827 1989	concentrating on one subject can reduce students' pressure and foster the effectiveness in training talents, while its shortfalls are so vital to students' future
+A1	Stance T2 For
+T3	Claim 475 546	The benefits of teaching students different units are easily recognized
+A2	Stance T3 For
+T4	Premise 568 691	with some basic knowledge of diverse fields, students have more options in choosing specialized areas or jobs in the future
+T5	Claim 693 777	Teenagers are still too young and immature to decide what they are going to dedicate
+T6	Premise 779 926	In students' point of view, the combination of difficult and easy subjects balances their schoolwork stress and fosters their enthusiasm on classes
+T7	Premise 937 1080	still many teenagers cannot enjoy the variation of the curriculum, instead, they feel more stressful with so much homework and exams to be done
+T8	Claim 1091 1177	most students regard the extra knowledge useless and impractical for their future jobs
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T6 Arg2:T3	
+R4	attacks Arg1:T7 Arg2:T3	
+R5	attacks Arg1:T8 Arg2:T3	
+T9	Claim 1235 1353	this education model can cultivate more talents who specialized in different areas and increase studying effectiveness
+A3	Stance T9 Against
+T10	Premise 1380 1476	students can devote more time and efforts in one subject and reduce pressure from other subjects
+T11	Premise 1564 1725	under such target-oriented education environment, teenagers may be hard to regret their original choice and change their specialized field in their further study
+R7	attacks Arg1:T11 Arg2:T9	
+T12	Premise 1737 1803	the dullness of course may deeply influence their passion on study
+R8	attacks Arg1:T12 Arg2:T9	
+R6	supports Arg1:T10 Arg2:T9	
+A4	Eloquence T11 1
+A5	Eloquence T12 1
+A6	Logos T2 no
+A7	Persuasiveness T2 2
+A8	ClaimType T2 Value
+A9	Evidence T2 1
+A10	Eloquence T2 1
+A11	Relevance T2 3
+A12	Ethos T2 no
+A13	Pathos T2 no
+A14	Persuasiveness T4 4
+A15	Strength T4 4
+A16	Evidence T4 1
+A17	Eloquence T4 4
+A18	PremiseType T4 common_knowledge
+A19	Specificity T4 3
+A20	Relevance T4 6
+A21	Persuasiveness T5 2
+A23	Evidence T5 1
+A24	Eloquence T5 2
+A26	Specificity T5 2
+A27	Relevance T5 5
+A28	Persuasiveness T6 4
+A29	Strength T6 4
+A30	Evidence T6 1
+A31	Eloquence T6 2
+A32	PremiseType T6 common_knowledge
+A33	Specificity T6 4
+A34	Relevance T6 5
+A35	Persuasiveness T7 3
+A36	Strength T7 3
+A37	Evidence T7 1
+A38	Eloquence T7 4
+A39	PremiseType T7 common_knowledge
+A40	Specificity T7 3
+A41	Relevance T7 5
+A42	Persuasiveness T8 2
+A44	Evidence T8 1
+A45	Eloquence T8 4
+A47	Specificity T8 2
+A48	Relevance T8 6
+A49	Logos T3 yes
+A50	ClaimType T3 Value
+A51	Eloquence T3 4
+A52	Specificity T3 3
+A53	Relevance T3 5
+A54	Ethos T3 no
+A55	Pathos T3 no
+A56	Specificity T2 2
+A57	Persuasiveness T3 3
+A58	Evidence T3 3
+A59	Persuasiveness T10 4
+A60	Strength T10 4
+A61	Evidence T10 1
+A62	Eloquence T10 2
+A63	PremiseType T10 common_knowledge
+A64	Specificity T10 3
+A65	Relevance T10 6
+A66	Persuasiveness T11 2
+A67	Strength T11 2
+A68	Evidence T11 1
+A69	PremiseType T11 invented_instance
+A70	Specificity T11 3
+A71	Relevance T11 4
+A72	Persuasiveness T12 2
+A73	Strength T12 2
+A74	Evidence T12 1
+A75	PremiseType T12 common_knowledge
+A76	Specificity T12 1
+A77	Relevance T12 4
+A78	Logos T9 yes
+A79	ClaimType T9 Fact
+A80	Eloquence T9 1
+A81	Specificity T9 4
+A82	Relevance T9 4
+A83	Ethos T9 no
+A84	Pathos T9 no
+A85	Persuasiveness T9 3
+A86	Evidence T9 3
+A87	Logos T1 yes
+A88	Persuasiveness T1 2
+A89	Evidence T1 2
+A90	Eloquence T1 3
+A91	Specificity T1 2
+A92	Ethos T1 no
+A93	Pathos T1 no
+A22	Logos T5 no
+A25	ClaimType T5 Fact
+A94	Ethos T5 no
+A95	Pathos T5 no
+A43	Logos T8 no
+A46	ClaimType T8 Fact
+A96	Ethos T8 no
+A97	Pathos T8 no
