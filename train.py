@@ -1,8 +1,8 @@
 from load_data import tokenized_essays, tokenizer, data_collator 
 from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
 
-id2label = {2.0: 2.0, 3.0: 3.0, 4.0: 4.0, 5.0: 5.0, 6.0: 6.0, 7.0: 7.0, 8.0: 8.0, 9.0: 9.0, 10.0: 10.0}
-label2id = {2.0: 2.0, 3.0: 3.0, 4.0: 4.0, 5.0: 5.0, 6.0: 6.0, 7.0: 7.0, 8.0: 8.0, 9.0: 9.0, 10.0: 10.0}
+id2label = {2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10}
+label2id = {2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10}
 
 
 model = AutoModelForSequenceClassification.from_pretrained(
