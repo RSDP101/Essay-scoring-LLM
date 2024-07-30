@@ -2,13 +2,12 @@
 An LLM for scoring your essays for free.
 
 
-### Essay 1 (a bad student writing about environment):
-* AI-rating: 4/10
+### Essay 1 (a bad student writing about environment) - AI-rating: 4/10
+
 The environment is like super important, you know? Like, we need to keep it clean and stuff because if not, things get bad. There’s garbage everywhere and that’s no good. I think people should throw their trash in the bins, or maybe even better, just recycle. Trees are cool too, so we should have more of them because they help make air or something. Pollution is bad, so we need to stop that. It’s like when you have too much junk food, but for the Earth. So let’s all just be better and not mess up the planet. Thanks.
 
-### Essay 1 (a good student writing about environment):
+### Essay 1 (a good student writing about environment) - AI-rating: 7/10
 
-* AI rating: 7/10
 The environment is a crucial aspect of our planet that requires immediate and sustained attention. As we continue to advance technologically and economically, the strain we place on natural resources becomes increasingly evident. The degradation of ecosystems, loss of biodiversity, and the impacts of climate change are all pressing concerns that must be addressed to ensure a sustainable future.
 
 One of the primary challenges we face is pollution, which affects air, water, and soil quality. Air pollution from industrial emissions and vehicle exhaust contributes to health problems and global warming. Similarly, water pollution from chemical runoff and plastic waste disrupts aquatic life and contaminates drinking water sources. Addressing these issues requires comprehensive strategies, including stricter regulations, increased use of renewable energy, and improved waste management practices.
